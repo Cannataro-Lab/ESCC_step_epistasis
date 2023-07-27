@@ -1,0 +1,2172 @@
+Study	Sample	Normal_or_Tumor	Notes
+Liu et al.	EC1000_T	Tumor	N/A
+Liu et al.	EC1001_T	Tumor	N/A
+Liu et al.	EC1016_T	Tumor	N/A
+Liu et al.	EC1020_T	Tumor	N/A
+Liu et al.	EC1021_T	Tumor	N/A
+Liu et al.	EC1029_T	Tumor	N/A
+Liu et al.	EC1071_T	Tumor	N/A
+Liu et al.	EC1110_T	Tumor	N/A
+Liu et al.	EC1111_T	Tumor	N/A
+Liu et al.	EC1113_T	Tumor	N/A
+Liu et al.	EC1117_T	Tumor	N/A
+Liu et al.	EC1119_T	Tumor	N/A
+Liu et al.	EC1120_T	Tumor	N/A
+Liu et al.	EC1125_T	Tumor	N/A
+Liu et al.	EC1126_T	Tumor	N/A
+Liu et al.	EC1134_T	Tumor	N/A
+Liu et al.	EC1155_T	Tumor	N/A
+Liu et al.	EC1158_T	Tumor	N/A
+Liu et al.	EC949_T	Tumor	N/A
+Liu et al.	EC952_T	Tumor	N/A
+Liu et al.	EC959_T	Tumor	N/A
+Liu et al.	EC961_T	Tumor	N/A
+Liu et al.	EC966_T	Tumor	N/A
+Liu et al.	EC988_T	Tumor	N/A
+Liu et al.	EC990_T	Tumor	N/A
+Lin et al. (UCLA, cBioPortal)	ESCC-D1	Tumor	N/A
+Lin et al. (UCLA, cBioPortal)	ESCC-D10	Tumor	N/A
+Lin et al. (UCLA, cBioPortal)	ESCC-D11	Tumor	N/A
+Lin et al. (UCLA, cBioPortal)	ESCC-D12	Tumor	N/A
+Lin et al. (UCLA, cBioPortal)	ESCC-D13	Tumor	N/A
+Lin et al. (UCLA, cBioPortal)	ESCC-D14	Tumor	N/A
+Lin et al. (UCLA, cBioPortal)	ESCC-D15	Tumor	N/A
+Lin et al. (UCLA, cBioPortal)	ESCC-D16	Tumor	N/A
+Lin et al. (UCLA, cBioPortal)	ESCC-D17	Tumor	N/A
+Lin et al. (UCLA, cBioPortal)	ESCC-D18	Tumor	N/A
+Lin et al. (UCLA, cBioPortal)	ESCC-D19	Tumor	N/A
+Lin et al. (UCLA, cBioPortal)	ESCC-D2	Tumor	N/A
+Lin et al. (UCLA, cBioPortal)	ESCC-D20	Tumor	N/A
+Lin et al. (UCLA, cBioPortal)	ESCC-D21	Tumor	N/A
+Lin et al. (UCLA, cBioPortal)	ESCC-D3	Tumor	N/A
+Lin et al. (UCLA, cBioPortal)	ESCC-D4	Tumor	N/A
+Lin et al. (UCLA, cBioPortal)	ESCC-D5	Tumor	N/A
+Lin et al. (UCLA, cBioPortal)	ESCC-D7	Tumor	N/A
+Lin et al. (UCLA, cBioPortal)	ESCC-D8	Tumor	N/A
+Lin et al. (UCLA, cBioPortal)	ESCC-D9	Tumor	N/A
+Lin et al. (UCLA, cBioPortal)	ESCC-F1	Tumor	N/A
+Lin et al. (UCLA, cBioPortal)	ESCC-F10	Tumor	N/A
+Lin et al. (UCLA, cBioPortal)	ESCC-F100	Tumor	N/A
+Lin et al. (UCLA, cBioPortal)	ESCC-F101	Tumor	N/A
+Lin et al. (UCLA, cBioPortal)	ESCC-F102	Tumor	N/A
+Lin et al. (UCLA, cBioPortal)	ESCC-F103	Tumor	N/A
+Lin et al. (UCLA, cBioPortal)	ESCC-F104	Tumor	N/A
+Lin et al. (UCLA, cBioPortal)	ESCC-F105	Tumor	N/A
+Lin et al. (UCLA, cBioPortal)	ESCC-F106	Tumor	N/A
+Lin et al. (UCLA, cBioPortal)	ESCC-F107	Tumor	N/A
+Lin et al. (UCLA, cBioPortal)	ESCC-F108	Tumor	N/A
+Lin et al. (UCLA, cBioPortal)	ESCC-F109	Tumor	N/A
+Lin et al. (UCLA, cBioPortal)	ESCC-F11	Tumor	N/A
+Lin et al. (UCLA, cBioPortal)	ESCC-F110	Tumor	N/A
+Lin et al. (UCLA, cBioPortal)	ESCC-F111	Tumor	N/A
+Lin et al. (UCLA, cBioPortal)	ESCC-F113	Tumor	N/A
+Lin et al. (UCLA, cBioPortal)	ESCC-F114	Tumor	N/A
+Lin et al. (UCLA, cBioPortal)	ESCC-F115	Tumor	N/A
+Lin et al. (UCLA, cBioPortal)	ESCC-F116	Tumor	N/A
+Lin et al. (UCLA, cBioPortal)	ESCC-F117	Tumor	N/A
+Lin et al. (UCLA, cBioPortal)	ESCC-F118	Tumor	N/A
+Lin et al. (UCLA, cBioPortal)	ESCC-F119	Tumor	N/A
+Lin et al. (UCLA, cBioPortal)	ESCC-F12	Tumor	N/A
+Lin et al. (UCLA, cBioPortal)	ESCC-F120	Tumor	N/A
+Lin et al. (UCLA, cBioPortal)	ESCC-F13	Tumor	N/A
+Lin et al. (UCLA, cBioPortal)	ESCC-F14	Tumor	N/A
+Lin et al. (UCLA, cBioPortal)	ESCC-F15	Tumor	N/A
+Lin et al. (UCLA, cBioPortal)	ESCC-F16	Tumor	N/A
+Lin et al. (UCLA, cBioPortal)	ESCC-F17	Tumor	N/A
+Lin et al. (UCLA, cBioPortal)	ESCC-F18	Tumor	N/A
+Lin et al. (UCLA, cBioPortal)	ESCC-F19	Tumor	N/A
+Lin et al. (UCLA, cBioPortal)	ESCC-F2	Tumor	N/A
+Lin et al. (UCLA, cBioPortal)	ESCC-F20	Tumor	N/A
+Lin et al. (UCLA, cBioPortal)	ESCC-F21	Tumor	N/A
+Lin et al. (UCLA, cBioPortal)	ESCC-F22	Tumor	N/A
+Lin et al. (UCLA, cBioPortal)	ESCC-F23	Tumor	N/A
+Lin et al. (UCLA, cBioPortal)	ESCC-F24	Tumor	N/A
+Lin et al. (UCLA, cBioPortal)	ESCC-F25	Tumor	N/A
+Lin et al. (UCLA, cBioPortal)	ESCC-F26	Tumor	N/A
+Lin et al. (UCLA, cBioPortal)	ESCC-F27	Tumor	N/A
+Lin et al. (UCLA, cBioPortal)	ESCC-F28	Tumor	N/A
+Lin et al. (UCLA, cBioPortal)	ESCC-F29	Tumor	N/A
+Lin et al. (UCLA, cBioPortal)	ESCC-F3	Tumor	N/A
+Lin et al. (UCLA, cBioPortal)	ESCC-F30	Tumor	N/A
+Lin et al. (UCLA, cBioPortal)	ESCC-F31	Tumor	N/A
+Lin et al. (UCLA, cBioPortal)	ESCC-F32	Tumor	N/A
+Lin et al. (UCLA, cBioPortal)	ESCC-F33	Tumor	N/A
+Lin et al. (UCLA, cBioPortal)	ESCC-F34	Tumor	N/A
+Lin et al. (UCLA, cBioPortal)	ESCC-F35	Tumor	N/A
+Lin et al. (UCLA, cBioPortal)	ESCC-F36	Tumor	N/A
+Lin et al. (UCLA, cBioPortal)	ESCC-F37	Tumor	N/A
+Lin et al. (UCLA, cBioPortal)	ESCC-F38	Tumor	N/A
+Lin et al. (UCLA, cBioPortal)	ESCC-F39	Tumor	N/A
+Lin et al. (UCLA, cBioPortal)	ESCC-F4	Tumor	N/A
+Lin et al. (UCLA, cBioPortal)	ESCC-F40	Tumor	N/A
+Lin et al. (UCLA, cBioPortal)	ESCC-F41	Tumor	N/A
+Lin et al. (UCLA, cBioPortal)	ESCC-F42	Tumor	N/A
+Lin et al. (UCLA, cBioPortal)	ESCC-F43	Tumor	N/A
+Lin et al. (UCLA, cBioPortal)	ESCC-F44	Tumor	N/A
+Lin et al. (UCLA, cBioPortal)	ESCC-F45	Tumor	N/A
+Lin et al. (UCLA, cBioPortal)	ESCC-F46	Tumor	N/A
+Lin et al. (UCLA, cBioPortal)	ESCC-F47	Tumor	N/A
+Lin et al. (UCLA, cBioPortal)	ESCC-F48	Tumor	N/A
+Lin et al. (UCLA, cBioPortal)	ESCC-F49	Tumor	N/A
+Lin et al. (UCLA, cBioPortal)	ESCC-F5	Tumor	N/A
+Lin et al. (UCLA, cBioPortal)	ESCC-F50	Tumor	N/A
+Lin et al. (UCLA, cBioPortal)	ESCC-F51	Tumor	N/A
+Lin et al. (UCLA, cBioPortal)	ESCC-F52	Tumor	N/A
+Lin et al. (UCLA, cBioPortal)	ESCC-F53	Tumor	N/A
+Lin et al. (UCLA, cBioPortal)	ESCC-F54	Tumor	N/A
+Lin et al. (UCLA, cBioPortal)	ESCC-F55	Tumor	N/A
+Lin et al. (UCLA, cBioPortal)	ESCC-F56	Tumor	N/A
+Lin et al. (UCLA, cBioPortal)	ESCC-F57	Tumor	N/A
+Lin et al. (UCLA, cBioPortal)	ESCC-F58	Tumor	N/A
+Lin et al. (UCLA, cBioPortal)	ESCC-F59	Tumor	N/A
+Lin et al. (UCLA, cBioPortal)	ESCC-F6	Tumor	N/A
+Lin et al. (UCLA, cBioPortal)	ESCC-F60	Tumor	N/A
+Lin et al. (UCLA, cBioPortal)	ESCC-F61	Tumor	N/A
+Lin et al. (UCLA, cBioPortal)	ESCC-F62	Tumor	N/A
+Lin et al. (UCLA, cBioPortal)	ESCC-F63	Tumor	N/A
+Lin et al. (UCLA, cBioPortal)	ESCC-F64	Tumor	N/A
+Lin et al. (UCLA, cBioPortal)	ESCC-F66	Tumor	N/A
+Lin et al. (UCLA, cBioPortal)	ESCC-F67	Tumor	N/A
+Lin et al. (UCLA, cBioPortal)	ESCC-F68	Tumor	N/A
+Lin et al. (UCLA, cBioPortal)	ESCC-F69	Tumor	N/A
+Lin et al. (UCLA, cBioPortal)	ESCC-F7	Tumor	N/A
+Lin et al. (UCLA, cBioPortal)	ESCC-F70	Tumor	N/A
+Lin et al. (UCLA, cBioPortal)	ESCC-F71	Tumor	N/A
+Lin et al. (UCLA, cBioPortal)	ESCC-F72	Tumor	N/A
+Lin et al. (UCLA, cBioPortal)	ESCC-F73	Tumor	N/A
+Lin et al. (UCLA, cBioPortal)	ESCC-F74	Tumor	N/A
+Lin et al. (UCLA, cBioPortal)	ESCC-F75	Tumor	N/A
+Lin et al. (UCLA, cBioPortal)	ESCC-F76	Tumor	N/A
+Lin et al. (UCLA, cBioPortal)	ESCC-F77	Tumor	N/A
+Lin et al. (UCLA, cBioPortal)	ESCC-F78	Tumor	N/A
+Lin et al. (UCLA, cBioPortal)	ESCC-F79	Tumor	N/A
+Lin et al. (UCLA, cBioPortal)	ESCC-F8	Tumor	N/A
+Lin et al. (UCLA, cBioPortal)	ESCC-F80	Tumor	N/A
+Lin et al. (UCLA, cBioPortal)	ESCC-F81	Tumor	N/A
+Lin et al. (UCLA, cBioPortal)	ESCC-F82	Tumor	N/A
+Lin et al. (UCLA, cBioPortal)	ESCC-F83	Tumor	N/A
+Lin et al. (UCLA, cBioPortal)	ESCC-F84	Tumor	N/A
+Lin et al. (UCLA, cBioPortal)	ESCC-F85	Tumor	N/A
+Lin et al. (UCLA, cBioPortal)	ESCC-F86	Tumor	N/A
+Lin et al. (UCLA, cBioPortal)	ESCC-F87	Tumor	N/A
+Lin et al. (UCLA, cBioPortal)	ESCC-F89	Tumor	N/A
+Lin et al. (UCLA, cBioPortal)	ESCC-F9	Tumor	N/A
+Lin et al. (UCLA, cBioPortal)	ESCC-F90	Tumor	N/A
+Lin et al. (UCLA, cBioPortal)	ESCC-F91	Tumor	N/A
+Lin et al. (UCLA, cBioPortal)	ESCC-F92	Tumor	N/A
+Lin et al. (UCLA, cBioPortal)	ESCC-F93	Tumor	N/A
+Lin et al. (UCLA, cBioPortal)	ESCC-F94	Tumor	N/A
+Lin et al. (UCLA, cBioPortal)	ESCC-F95	Tumor	N/A
+Lin et al. (UCLA, cBioPortal)	ESCC-F96	Tumor	N/A
+Lin et al. (UCLA, cBioPortal)	ESCC-F97	Tumor	N/A
+Lin et al. (UCLA, cBioPortal)	ESCC-F98	Tumor	N/A
+Lin et al. (UCLA, cBioPortal)	ESCC-F99	Tumor	N/A
+Li et al.	ICGC;ESCC_BICR_001T	Tumor	originally from ICGC
+Li et al.	ICGC;ESCC_BICR_002T	Tumor	originally from ICGC
+Li et al.	ICGC;ESCC_BICR_003T	Tumor	originally from ICGC
+Li et al.	ICGC;ESCC_BICR_004T	Tumor	originally from ICGC
+Li et al.	ICGC;ESCC_BICR_005T	Tumor	originally from ICGC
+Li et al.	ICGC;ESCC_BICR_006T	Tumor	originally from ICGC
+Li et al.	ICGC;ESCC_BICR_007T	Tumor	originally from ICGC
+Li et al.	ICGC;ESCC_BICR_008T	Tumor	originally from ICGC
+Li et al.	ICGC;ESCC_BICR_009T	Tumor	originally from ICGC
+Li et al.	ICGC;ESCC_BICR_010T	Tumor	originally from ICGC
+Li et al.	ICGC;ESCC_BICR_011T	Tumor	originally from ICGC
+Li et al.	ICGC;ESCC_BICR_012T	Tumor	originally from ICGC
+Li et al.	ICGC;ESCC_BICR_013T	Tumor	originally from ICGC
+Li et al.	ICGC;ESCC_BICR_014T	Tumor	originally from ICGC
+Li et al.	ICGC;ESCC_BICR_015T	Tumor	originally from ICGC
+Li et al.	ICGC;ESCC_BICR_016T	Tumor	originally from ICGC
+Li et al.	ICGC;ESCC_BICR_017T	Tumor	originally from ICGC
+Li et al.	ICGC;ESCC_BICR_018T	Tumor	originally from ICGC
+Li et al.	ICGC;ESCC_BICR_019T	Tumor	originally from ICGC
+Li et al.	ICGC;ESCC_BICR_020T	Tumor	originally from ICGC
+Li et al.	ICGC;ESCC_BICR_021T	Tumor	originally from ICGC
+Li et al.	ICGC;ESCC_BICR_022T	Tumor	originally from ICGC
+Li et al.	ICGC;ESCC_BICR_023T	Tumor	originally from ICGC
+Li et al.	ICGC;ESCC_BICR_024T	Tumor	originally from ICGC
+Li et al.	ICGC;ESCC_BICR_025T	Tumor	originally from ICGC
+Li et al.	ICGC;ESCC_BICR_026T	Tumor	originally from ICGC
+Li et al.	ICGC;ESCC_BICR_027T	Tumor	originally from ICGC
+Li et al.	ICGC;ESCC_BICR_028T	Tumor	originally from ICGC
+Li et al.	ICGC;ESCC_BICR_029T	Tumor	originally from ICGC
+Li et al.	ICGC;ESCC_BICR_030T	Tumor	originally from ICGC
+Li et al.	ICGC;ESCC_BICR_031T	Tumor	originally from ICGC
+Li et al.	ICGC;ESCC_BICR_032T	Tumor	originally from ICGC
+Li et al.	ICGC;ESCC_BICR_033T	Tumor	originally from ICGC
+Li et al.	ICGC;ESCC_BICR_034T	Tumor	originally from ICGC
+Li et al.	ICGC;ESCC_BICR_035T	Tumor	originally from ICGC
+Li et al.	ICGC;ESCC_BICR_036T	Tumor	originally from ICGC
+Li et al.	ICGC;ESCC_BICR_037T	Tumor	originally from ICGC
+Li et al.	ICGC;ESCC_BICR_038T	Tumor	originally from ICGC
+Li et al.	ICGC;ESCC_BICR_039T	Tumor	originally from ICGC
+Li et al.	ICGC;ESCC_BICR_040T	Tumor	originally from ICGC
+Li et al.	ICGC;ESCC_BICR_041T	Tumor	originally from ICGC
+Li et al.	ICGC;ESCC_BICR_042T	Tumor	originally from ICGC
+Li et al.	ICGC;ESCC_BICR_043T	Tumor	originally from ICGC
+Li et al.	ICGC;ESCC_BICR_044T	Tumor	originally from ICGC
+Li et al.	ICGC;ESCC_BICR_045T	Tumor	originally from ICGC
+Li et al.	ICGC;ESCC_BICR_046T	Tumor	originally from ICGC
+Li et al.	ICGC;ESCC_BICR_047T	Tumor	originally from ICGC
+Li et al.	ICGC;ESCC_BICR_048T	Tumor	originally from ICGC
+Li et al.	ICGC;ESCC_BICR_049T	Tumor	originally from ICGC
+Li et al.	ICGC;ESCC_BICR_050T	Tumor	originally from ICGC
+Li et al.	ICGC;ESCC_BICR_051T	Tumor	originally from ICGC
+Li et al.	ICGC;ESCC_BICR_052T	Tumor	originally from ICGC
+Li et al.	ICGC;ESCC_BICR_053T	Tumor	originally from ICGC
+Li et al.	ICGC;ESCC_BICR_054T	Tumor	originally from ICGC
+Li et al.	ICGC;ESCC_BICR_055T	Tumor	originally from ICGC
+Li et al.	ICGC;ESCC_BICR_056T	Tumor	originally from ICGC
+Li et al.	ICGC;ESCC_BICR_057T	Tumor	originally from ICGC
+Li et al.	ICGC;ESCC_BICR_058T	Tumor	originally from ICGC
+Li et al.	ICGC;ESCC_BICR_059T	Tumor	originally from ICGC
+Li et al.	ICGC;ESCC_BICR_060T	Tumor	originally from ICGC
+Li et al.	ICGC;ESCC_BICR_061T	Tumor	originally from ICGC
+Li et al.	ICGC;ESCC_BICR_062T	Tumor	originally from ICGC
+Li et al.	ICGC;ESCC_BICR_063T	Tumor	originally from ICGC
+Li et al.	ICGC;ESCC_BICR_064T	Tumor	originally from ICGC
+Li et al.	ICGC;ESCC_BICR_065T	Tumor	originally from ICGC
+Li et al.	ICGC;ESCC_BICR_066T	Tumor	originally from ICGC
+Li et al.	ICGC;ESCC_BICR_067T	Tumor	originally from ICGC
+Li et al.	ICGC;ESCC_BICR_068T	Tumor	originally from ICGC
+Li et al.	ICGC;ESCC_BICR_069T	Tumor	originally from ICGC
+Li et al.	ICGC;ESCC_BICR_070T	Tumor	originally from ICGC
+Li et al.	ICGC;ESCC_BICR_071T	Tumor	originally from ICGC
+Li et al.	ICGC;ZZUFHECRKL-G002T	Tumor	originally from ICGC
+Li et al.	ICGC;ZZUFHECRKL-G003T	Tumor	originally from ICGC
+Li et al.	ICGC;ZZUFHECRKL-G004T	Tumor	originally from ICGC
+Li et al.	ICGC;ZZUFHECRKL-G005T	Tumor	originally from ICGC
+Li et al.	ICGC;ZZUFHECRKL-G006T	Tumor	originally from ICGC
+Li et al.	ICGC;ZZUFHECRKL-G007T	Tumor	originally from ICGC
+Li et al.	ICGC;ZZUFHECRKL-G008T	Tumor	originally from ICGC
+Li et al.	ICGC;ZZUFHECRKL-G009T	Tumor	originally from ICGC
+Li et al.	ICGC;ZZUFHECRKL-G010T	Tumor	originally from ICGC
+Li et al.	ICGC;ZZUFHECRKL-G011T	Tumor	originally from ICGC
+Li et al.	ICGC;ZZUFHECRKL-G012T	Tumor	originally from ICGC
+Li et al.	ICGC;ZZUFHECRKL-G013T	Tumor	originally from ICGC
+Li et al.	ICGC;ZZUFHECRKL-G014T	Tumor	originally from ICGC
+Li et al.	ICGC;ZZUFHECRKL-G015T	Tumor	originally from ICGC
+Li et al.	ICGC;ZZUFHECRKL-G016T	Tumor	originally from ICGC
+Li et al.	ICGC;ZZUFHECRKL-G017T	Tumor	originally from ICGC
+Li et al.	ICGC;ZZUFHECRKL-G018T	Tumor	originally from ICGC
+Li et al.	ICGC;ZZUFHECRKL-G019T	Tumor	originally from ICGC
+Li et al.	ICGC;ZZUFHECRKL-G020T	Tumor	originally from ICGC
+Li et al.	ICGC;ZZUFHECRKL-G021T	Tumor	originally from ICGC
+Li et al.	ICGC;ZZUFHECRKL-G022T	Tumor	originally from ICGC
+Li et al.	ICGC;ZZUFHECRKL-G023T	Tumor	originally from ICGC
+Li et al.	ICGC;ZZUFHECRKL-G024T	Tumor	originally from ICGC
+Li et al.	ICGC;ZZUFHECRKL-G025T	Tumor	originally from ICGC
+Li et al.	ICGC;ZZUFHECRKL-G026T	Tumor	originally from ICGC
+Li et al.	ICGC;ZZUFHECRKL-G027T	Tumor	originally from ICGC
+Li et al.	ICGC;ZZUFHECRKL-G028T	Tumor	originally from ICGC
+Li et al.	ICGC;ZZUFHECRKL-G029T	Tumor	originally from ICGC
+Li et al.	ICGC;ZZUFHECRKL-G030T	Tumor	originally from ICGC
+Li et al.	ICGC;ZZUFHECRKL-G031T	Tumor	originally from ICGC
+Li et al.	ICGC;ZZUFHECRKL-G032T	Tumor	originally from ICGC
+Li et al.	ICGC;ZZUFHECRKL-G033T	Tumor	originally from ICGC
+Li et al.	ICGC;ZZUFHECRKL-G034T	Tumor	originally from ICGC
+Li et al.	ICGC;ZZUFHECRKL-G035T	Tumor	originally from ICGC
+Li et al.	ICGC;ZZUFHECRKL-G036T	Tumor	originally from ICGC
+Li et al.	ICGC;ZZUFHECRKL-G037T	Tumor	originally from ICGC
+Li et al.	ICGC;ZZUFHECRKL-G038T	Tumor	originally from ICGC
+Li et al.	ICGC;ZZUFHECRKL-G039T	Tumor	originally from ICGC
+Li et al.	ICGC;ZZUFHECRKL-G040T	Tumor	originally from ICGC
+Li et al.	ICGC;ZZUFHECRKL-G041T	Tumor	originally from ICGC
+Li et al.	ICGC;ZZUFHECRKL-G042T	Tumor	originally from ICGC
+Li et al.	ICGC;ZZUFHECRKL-G043T	Tumor	originally from ICGC
+Li et al.	ICGC;ZZUFHECRKL-G044T	Tumor	originally from ICGC
+Li et al.	ICGC;ZZUFHECRKL-G045T	Tumor	originally from ICGC
+Li et al.	ICGC;ZZUFHECRKL-G046T	Tumor	originally from ICGC
+Li et al.	ICGC;ZZUFHECRKL-G047T	Tumor	originally from ICGC
+Li et al.	ICGC;ZZUFHECRKL-G048T	Tumor	originally from ICGC
+Li et al.	ICGC;ZZUFHECRKL-G050T	Tumor	originally from ICGC
+Li et al.	ICGC;ZZUFHECRKL-G051T	Tumor	originally from ICGC
+Li et al.	ICGC;ZZUFHECRKL-G052T	Tumor	originally from ICGC
+Li et al.	ICGC;ZZUFHECRKL-G054T	Tumor	originally from ICGC
+Li et al.	ICGC;ZZUFHECRKL-G055T	Tumor	originally from ICGC
+Li et al.	ICGC;ZZUFHECRKL-G056T	Tumor	originally from ICGC
+Li et al.	ICGC;ZZUFHECRKL-G057T	Tumor	originally from ICGC
+Li et al.	ICGC;ZZUFHECRKL-G059T	Tumor	originally from ICGC
+Li et al.	ICGC;ZZUFHECRKL-G060T	Tumor	originally from ICGC
+Li et al.	ICGC;ZZUFHECRKL-G062T	Tumor	originally from ICGC
+Li et al.	ICGC;ZZUFHECRKL-G063T	Tumor	originally from ICGC
+Li et al.	ICGC;ZZUFHECRKL-G064T	Tumor	originally from ICGC
+Li et al.	ICGC;ZZUFHECRKL-G066T	Tumor	originally from ICGC
+Li et al.	ICGC;ZZUFHECRKL-G067T	Tumor	originally from ICGC
+Li et al.	ICGC;ZZUFHECRKL-G068T	Tumor	originally from ICGC
+Li et al.	ICGC;ZZUFHECRKL-G069T	Tumor	originally from ICGC
+Li et al.	ICGC;ZZUFHECRKL-G070T	Tumor	originally from ICGC
+Li et al.	ICGC;ZZUFHECRKL-G071T	Tumor	originally from ICGC
+Li et al.	ICGC;ZZUFHECRKL-G072T	Tumor	originally from ICGC
+Li et al.	ICGC;ZZUFHECRKL-G073T	Tumor	originally from ICGC
+Li et al.	ICGC;ZZUFHECRKL-G074T	Tumor	originally from ICGC
+Li et al.	ICGC;ZZUFHECRKL-G075T	Tumor	originally from ICGC
+Yuan et al.	P10Tumor	Tumor	N/A
+Yuan et al.	P10_N1	Normal	N/A
+Yuan et al.	P1Tumor	Tumor	N/A
+Yuan et al.	P1_N1	Normal	N/A
+Yuan et al.	P1_N2	Normal	N/A
+Yuan et al.	P1_N3	Normal	N/A
+Yuan et al.	P1_N4	Normal	N/A
+Yuan et al.	P2Tumor	Tumor	N/A
+Yuan et al.	P2_N1	Normal	N/A
+Yuan et al.	P2_N2	Normal	N/A
+Yuan et al.	P2_N3	Normal	N/A
+Yuan et al.	P2_N4	Normal	N/A
+Yuan et al.	P2_N5	Normal	N/A
+Yuan et al.	P3Tumor	Tumor	N/A
+Yuan et al.	P3_N3	Normal	N/A
+Yuan et al.	P4Tumor	Tumor	N/A
+Yuan et al.	P4_N1	Normal	N/A
+Yuan et al.	P4_N2	Normal	N/A
+Yuan et al.	P4_N3	Normal	N/A
+Yuan et al.	P4_N4	Normal	N/A
+Yuan et al.	P4_N5	Normal	N/A
+Yuan et al.	P4_N6	Normal	N/A
+Yuan et al.	P5Tumor	Tumor	N/A
+Yuan et al.	P5_N1	Normal	N/A
+Yuan et al.	P5_N2	Normal	N/A
+Yuan et al.	P5_N3	Normal	N/A
+Yuan et al.	P5_N4	Normal	N/A
+Yuan et al.	P5_N5	Normal	N/A
+Yuan et al.	P6Tumor	Tumor	N/A
+Yuan et al.	P6_N1	Normal	N/A
+Yuan et al.	P6_N3	Normal	N/A
+Yuan et al.	P6_N6	Normal	N/A
+Yuan et al.	P7Tumor	Tumor	N/A
+Yuan et al.	P7_N1	Normal	N/A
+Yuan et al.	P7_N2	Normal	N/A
+Yuan et al.	P7_N3	Normal	N/A
+Yuan et al.	P7_N4	Normal	N/A
+Yuan et al.	P8Tumor	Tumor	N/A
+Yuan et al.	P8_N1	Normal	N/A
+Yuan et al.	P8_N2	Normal	N/A
+Yuan et al.	P9Tumor	Tumor	N/A
+Yuan et al.	P9_N1	Normal	N/A
+Yuan et al.	P9_N2	Normal	N/A
+Yuan et al.	P9_N3	Normal	N/A
+Martincorena et al.	PD30272ab	Normal	N/A
+Martincorena et al.	PD30272ac	Normal	N/A
+Martincorena et al.	PD30272ad	Normal	N/A
+Martincorena et al.	PD30272ae	Normal	N/A
+Martincorena et al.	PD30272af	Normal	N/A
+Martincorena et al.	PD30272ag	Normal	N/A
+Martincorena et al.	PD30272ah	Normal	N/A
+Martincorena et al.	PD30272aj	Normal	N/A
+Martincorena et al.	PD30272ak	Normal	N/A
+Martincorena et al.	PD30272al	Normal	N/A
+Martincorena et al.	PD30272am	Normal	N/A
+Martincorena et al.	PD30272an	Normal	N/A
+Martincorena et al.	PD30272ao	Normal	N/A
+Martincorena et al.	PD30272ap	Normal	N/A
+Martincorena et al.	PD30272aq	Normal	N/A
+Martincorena et al.	PD30272ar	Normal	N/A
+Martincorena et al.	PD30272as	Normal	N/A
+Martincorena et al.	PD30272at	Normal	N/A
+Martincorena et al.	PD30272au	Normal	N/A
+Martincorena et al.	PD30272av	Normal	N/A
+Martincorena et al.	PD30272aw	Normal	N/A
+Martincorena et al.	PD30272ax	Normal	N/A
+Martincorena et al.	PD30272ay	Normal	N/A
+Martincorena et al.	PD30272az	Normal	N/A
+Martincorena et al.	PD30272b	Normal	N/A
+Martincorena et al.	PD30272bb	Normal	N/A
+Martincorena et al.	PD30272bc	Normal	N/A
+Martincorena et al.	PD30272bd	Normal	N/A
+Martincorena et al.	PD30272be	Normal	N/A
+Martincorena et al.	PD30272bf	Normal	N/A
+Martincorena et al.	PD30272bj	Normal	N/A
+Martincorena et al.	PD30272bk	Normal	N/A
+Martincorena et al.	PD30272bl	Normal	N/A
+Martincorena et al.	PD30272bm	Normal	N/A
+Martincorena et al.	PD30272bn	Normal	N/A
+Martincorena et al.	PD30272bo	Normal	N/A
+Martincorena et al.	PD30272bp	Normal	N/A
+Martincorena et al.	PD30272bq	Normal	N/A
+Martincorena et al.	PD30272br	Normal	N/A
+Martincorena et al.	PD30272bs	Normal	N/A
+Martincorena et al.	PD30272bt	Normal	N/A
+Martincorena et al.	PD30272bu	Normal	N/A
+Martincorena et al.	PD30272bv	Normal	N/A
+Martincorena et al.	PD30272bw	Normal	N/A
+Martincorena et al.	PD30272bx	Normal	N/A
+Martincorena et al.	PD30272by	Normal	N/A
+Martincorena et al.	PD30272c	Normal	N/A
+Martincorena et al.	PD30272cb	Normal	N/A
+Martincorena et al.	PD30272cc	Normal	N/A
+Martincorena et al.	PD30272cd	Normal	N/A
+Martincorena et al.	PD30272ce	Normal	N/A
+Martincorena et al.	PD30272cf	Normal	N/A
+Martincorena et al.	PD30272ci	Normal	N/A
+Martincorena et al.	PD30272cj	Normal	N/A
+Martincorena et al.	PD30272ck	Normal	N/A
+Martincorena et al.	PD30272cl	Normal	N/A
+Martincorena et al.	PD30272cm	Normal	N/A
+Martincorena et al.	PD30272cn	Normal	N/A
+Martincorena et al.	PD30272co	Normal	N/A
+Martincorena et al.	PD30272cq	Normal	N/A
+Martincorena et al.	PD30272cr	Normal	N/A
+Martincorena et al.	PD30272ct	Normal	N/A
+Martincorena et al.	PD30272cu	Normal	N/A
+Martincorena et al.	PD30272cv	Normal	N/A
+Martincorena et al.	PD30272d	Normal	N/A
+Martincorena et al.	PD30272e	Normal	N/A
+Martincorena et al.	PD30272f	Normal	N/A
+Martincorena et al.	PD30272g	Normal	N/A
+Martincorena et al.	PD30272h	Normal	N/A
+Martincorena et al.	PD30272i	Normal	N/A
+Martincorena et al.	PD30272j	Normal	N/A
+Martincorena et al.	PD30272k	Normal	N/A
+Martincorena et al.	PD30272l	Normal	N/A
+Martincorena et al.	PD30272m	Normal	N/A
+Martincorena et al.	PD30272n	Normal	N/A
+Martincorena et al.	PD30272o	Normal	N/A
+Martincorena et al.	PD30272p	Normal	N/A
+Martincorena et al.	PD30272q	Normal	N/A
+Martincorena et al.	PD30272r	Normal	N/A
+Martincorena et al.	PD30272s	Normal	N/A
+Martincorena et al.	PD30272u	Normal	N/A
+Martincorena et al.	PD30272v	Normal	N/A
+Martincorena et al.	PD30272w	Normal	N/A
+Martincorena et al.	PD30272x	Normal	N/A
+Martincorena et al.	PD30272y	Normal	N/A
+Martincorena et al.	PD30272z	Normal	N/A
+Martincorena et al.	PD30273b	Normal	N/A
+Martincorena et al.	PD30274b	Normal	N/A
+Martincorena et al.	PD30274ch	Normal	N/A
+Martincorena et al.	PD30274ct	Normal	N/A
+Martincorena et al.	PD30987ad	Normal	N/A
+Martincorena et al.	PD30987af	Normal	N/A
+Martincorena et al.	PD30987ag	Normal	N/A
+Martincorena et al.	PD30987al	Normal	N/A
+Martincorena et al.	PD30987am	Normal	N/A
+Martincorena et al.	PD30987ap	Normal	N/A
+Martincorena et al.	PD30987au	Normal	N/A
+Martincorena et al.	PD30987aw	Normal	N/A
+Martincorena et al.	PD30987bl	Normal	N/A
+Martincorena et al.	PD30987bn	Normal	N/A
+Martincorena et al.	PD30987bo	Normal	N/A
+Martincorena et al.	PD30987bt	Normal	N/A
+Martincorena et al.	PD30987bu	Normal	N/A
+Martincorena et al.	PD30987bv	Normal	N/A
+Martincorena et al.	PD30987bw	Normal	N/A
+Martincorena et al.	PD30987bz	Normal	N/A
+Martincorena et al.	PD30987cd	Normal	N/A
+Martincorena et al.	PD30987ce	Normal	N/A
+Martincorena et al.	PD30987ck	Normal	N/A
+Martincorena et al.	PD30987cs	Normal	N/A
+Martincorena et al.	PD30987ct	Normal	N/A
+Martincorena et al.	PD30987cu	Normal	N/A
+Martincorena et al.	PD30987e	Normal	N/A
+Martincorena et al.	PD30987i	Normal	N/A
+Martincorena et al.	PD30987n	Normal	N/A
+Martincorena et al.	PD30987o	Normal	N/A
+Martincorena et al.	PD30987r	Normal	N/A
+Martincorena et al.	PD30987s	Normal	N/A
+Martincorena et al.	PD30987t	Normal	N/A
+Martincorena et al.	PD30987u	Normal	N/A
+Martincorena et al.	PD30987v	Normal	N/A
+Martincorena et al.	PD30987w	Normal	N/A
+Martincorena et al.	PD30987z	Normal	N/A
+Martincorena et al.	PD30988ak	Normal	N/A
+Martincorena et al.	PD30988al	Normal	N/A
+Martincorena et al.	PD30988am	Normal	N/A
+Martincorena et al.	PD30988bs	Normal	N/A
+Martincorena et al.	PD30988ck	Normal	N/A
+Martincorena et al.	PD30988p	Normal	N/A
+Martincorena et al.	PD30988v	Normal	N/A
+Martincorena et al.	PD31182cv	Normal	N/A
+Martincorena et al.	PD36712ab	Normal	N/A
+Martincorena et al.	PD36712ac	Normal	N/A
+Martincorena et al.	PD36712ad	Normal	N/A
+Martincorena et al.	PD36712ae	Normal	N/A
+Martincorena et al.	PD36712af	Normal	N/A
+Martincorena et al.	PD36712ag	Normal	N/A
+Martincorena et al.	PD36712ah	Normal	N/A
+Martincorena et al.	PD36712ai	Normal	N/A
+Martincorena et al.	PD36712aj	Normal	N/A
+Martincorena et al.	PD36712ak	Normal	N/A
+Martincorena et al.	PD36712al	Normal	N/A
+Martincorena et al.	PD36712am	Normal	N/A
+Martincorena et al.	PD36712an	Normal	N/A
+Martincorena et al.	PD36712ao	Normal	N/A
+Martincorena et al.	PD36712ap	Normal	N/A
+Martincorena et al.	PD36712aq	Normal	N/A
+Martincorena et al.	PD36712ar	Normal	N/A
+Martincorena et al.	PD36712as	Normal	N/A
+Martincorena et al.	PD36712at	Normal	N/A
+Martincorena et al.	PD36712au	Normal	N/A
+Martincorena et al.	PD36712aw	Normal	N/A
+Martincorena et al.	PD36712ax	Normal	N/A
+Martincorena et al.	PD36712ay	Normal	N/A
+Martincorena et al.	PD36712az	Normal	N/A
+Martincorena et al.	PD36712bb	Normal	N/A
+Martincorena et al.	PD36712bc	Normal	N/A
+Martincorena et al.	PD36712bd	Normal	N/A
+Martincorena et al.	PD36712be	Normal	N/A
+Martincorena et al.	PD36712bf	Normal	N/A
+Martincorena et al.	PD36712bi	Normal	N/A
+Martincorena et al.	PD36712bj	Normal	N/A
+Martincorena et al.	PD36712bk	Normal	N/A
+Martincorena et al.	PD36712bm	Normal	N/A
+Martincorena et al.	PD36712bo	Normal	N/A
+Martincorena et al.	PD36712bp	Normal	N/A
+Martincorena et al.	PD36712bq	Normal	N/A
+Martincorena et al.	PD36712br	Normal	N/A
+Martincorena et al.	PD36712bs	Normal	N/A
+Martincorena et al.	PD36712bt	Normal	N/A
+Martincorena et al.	PD36712bu	Normal	N/A
+Martincorena et al.	PD36712bv	Normal	N/A
+Martincorena et al.	PD36712bw	Normal	N/A
+Martincorena et al.	PD36712bx	Normal	N/A
+Martincorena et al.	PD36712by	Normal	N/A
+Martincorena et al.	PD36712bz	Normal	N/A
+Martincorena et al.	PD36712c	Normal	N/A
+Martincorena et al.	PD36712cb	Normal	N/A
+Martincorena et al.	PD36712cc	Normal	N/A
+Martincorena et al.	PD36712cd	Normal	N/A
+Martincorena et al.	PD36712ce	Normal	N/A
+Martincorena et al.	PD36712cf	Normal	N/A
+Martincorena et al.	PD36712cg	Normal	N/A
+Martincorena et al.	PD36712ch	Normal	N/A
+Martincorena et al.	PD36712ci	Normal	N/A
+Martincorena et al.	PD36712cj	Normal	N/A
+Martincorena et al.	PD36712ck	Normal	N/A
+Martincorena et al.	PD36712cl	Normal	N/A
+Martincorena et al.	PD36712cm	Normal	N/A
+Martincorena et al.	PD36712cn	Normal	N/A
+Martincorena et al.	PD36712cq	Normal	N/A
+Martincorena et al.	PD36712cr	Normal	N/A
+Martincorena et al.	PD36712cs	Normal	N/A
+Martincorena et al.	PD36712ct	Normal	N/A
+Martincorena et al.	PD36712cu	Normal	N/A
+Martincorena et al.	PD36712cv	Normal	N/A
+Martincorena et al.	PD36712e	Normal	N/A
+Martincorena et al.	PD36712f	Normal	N/A
+Martincorena et al.	PD36712g	Normal	N/A
+Martincorena et al.	PD36712h	Normal	N/A
+Martincorena et al.	PD36712i	Normal	N/A
+Martincorena et al.	PD36712j	Normal	N/A
+Martincorena et al.	PD36712k	Normal	N/A
+Martincorena et al.	PD36712l	Normal	N/A
+Martincorena et al.	PD36712m	Normal	N/A
+Martincorena et al.	PD36712n	Normal	N/A
+Martincorena et al.	PD36712o	Normal	N/A
+Martincorena et al.	PD36712p	Normal	N/A
+Martincorena et al.	PD36712q	Normal	N/A
+Martincorena et al.	PD36712r	Normal	N/A
+Martincorena et al.	PD36712s	Normal	N/A
+Martincorena et al.	PD36712t	Normal	N/A
+Martincorena et al.	PD36712u	Normal	N/A
+Martincorena et al.	PD36712v	Normal	N/A
+Martincorena et al.	PD36712w	Normal	N/A
+Martincorena et al.	PD36712x	Normal	N/A
+Martincorena et al.	PD36806ad	Normal	N/A
+Martincorena et al.	PD36806af	Normal	N/A
+Martincorena et al.	PD36806ah	Normal	N/A
+Martincorena et al.	PD36806ai	Normal	N/A
+Martincorena et al.	PD36806ak	Normal	N/A
+Martincorena et al.	PD36806al	Normal	N/A
+Martincorena et al.	PD36806am	Normal	N/A
+Martincorena et al.	PD36806an	Normal	N/A
+Martincorena et al.	PD36806ao	Normal	N/A
+Martincorena et al.	PD36806ap	Normal	N/A
+Martincorena et al.	PD36806aq	Normal	N/A
+Martincorena et al.	PD36806ar	Normal	N/A
+Martincorena et al.	PD36806as	Normal	N/A
+Martincorena et al.	PD36806au	Normal	N/A
+Martincorena et al.	PD36806av	Normal	N/A
+Martincorena et al.	PD36806ax	Normal	N/A
+Martincorena et al.	PD36806ay	Normal	N/A
+Martincorena et al.	PD36806bb	Normal	N/A
+Martincorena et al.	PD36806bc	Normal	N/A
+Martincorena et al.	PD36806bd	Normal	N/A
+Martincorena et al.	PD36806be	Normal	N/A
+Martincorena et al.	PD36806bf	Normal	N/A
+Martincorena et al.	PD36806bg	Normal	N/A
+Martincorena et al.	PD36806bh	Normal	N/A
+Martincorena et al.	PD36806bi	Normal	N/A
+Martincorena et al.	PD36806bj	Normal	N/A
+Martincorena et al.	PD36806bk	Normal	N/A
+Martincorena et al.	PD36806bl	Normal	N/A
+Martincorena et al.	PD36806bm	Normal	N/A
+Martincorena et al.	PD36806bo	Normal	N/A
+Martincorena et al.	PD36806bp	Normal	N/A
+Martincorena et al.	PD36806br	Normal	N/A
+Martincorena et al.	PD36806bt	Normal	N/A
+Martincorena et al.	PD36806bu	Normal	N/A
+Martincorena et al.	PD36806bw	Normal	N/A
+Martincorena et al.	PD36806bx	Normal	N/A
+Martincorena et al.	PD36806by	Normal	N/A
+Martincorena et al.	PD36806bz	Normal	N/A
+Martincorena et al.	PD36806cb	Normal	N/A
+Martincorena et al.	PD36806cd	Normal	N/A
+Martincorena et al.	PD36806ce	Normal	N/A
+Martincorena et al.	PD36806cf	Normal	N/A
+Martincorena et al.	PD36806cg	Normal	N/A
+Martincorena et al.	PD36806ci	Normal	N/A
+Martincorena et al.	PD36806cj	Normal	N/A
+Martincorena et al.	PD36806ck	Normal	N/A
+Martincorena et al.	PD36806cm	Normal	N/A
+Martincorena et al.	PD36806cn	Normal	N/A
+Martincorena et al.	PD36806cq	Normal	N/A
+Martincorena et al.	PD36806cr	Normal	N/A
+Martincorena et al.	PD36806cu	Normal	N/A
+Martincorena et al.	PD36806cv	Normal	N/A
+Martincorena et al.	PD36806d	Normal	N/A
+Martincorena et al.	PD36806f	Normal	N/A
+Martincorena et al.	PD36806g	Normal	N/A
+Martincorena et al.	PD36806h	Normal	N/A
+Martincorena et al.	PD36806i	Normal	N/A
+Martincorena et al.	PD36806j	Normal	N/A
+Martincorena et al.	PD36806k	Normal	N/A
+Martincorena et al.	PD36806l	Normal	N/A
+Martincorena et al.	PD36806m	Normal	N/A
+Martincorena et al.	PD36806o	Normal	N/A
+Martincorena et al.	PD36806p	Normal	N/A
+Martincorena et al.	PD36806q	Normal	N/A
+Martincorena et al.	PD36806r	Normal	N/A
+Martincorena et al.	PD36806t	Normal	N/A
+Martincorena et al.	PD36806u	Normal	N/A
+Martincorena et al.	PD36806w	Normal	N/A
+Martincorena et al.	PD36806x	Normal	N/A
+Martincorena et al.	PD36806y	Normal	N/A
+Martincorena et al.	PD36806z	Normal	N/A
+Li et al.	PMID22877736;ESOSCC152T	Tumor	originally published by Agrawal et al.(2012)
+Li et al.	PMID22877736;ESOSCC154T	Tumor	originally published by Agrawal et al.(2012)
+Li et al.	PMID22877736;ESOSCC155T	Tumor	originally published by Agrawal et al.(2012)
+Li et al.	PMID22877736;ESOSCC156T	Tumor	originally published by Agrawal et al.(2012)
+Li et al.	PMID22877736;ESOSCC157T	Tumor	originally published by Agrawal et al.(2012)
+Li et al.	PMID22877736;ESOSCC158T	Tumor	originally published by Agrawal et al.(2012)
+Li et al.	PMID22877736;ESOSCC159T	Tumor	originally published by Agrawal et al.(2012)
+Li et al.	PMID22877736;ESOSCC160T	Tumor	originally published by Agrawal et al.(2012)
+Li et al.	PMID22877736;ESOSCC161T	Tumor	originally published by Agrawal et al.(2012)
+Li et al.	PMID22877736;ESOSCC162T	Tumor	originally published by Agrawal et al.(2012)
+Li et al.	PMID22877736;ESOSCC163T	Tumor	originally published by Agrawal et al.(2012)
+Li et al.	PMID22877736;ESOSCC164T	Tumor	originally published by Agrawal et al.(2012)
+Li et al.	PMID25151357;214	Tumor	originally published by Gao et al.(2014)
+Li et al.	PMID25151357;215	Tumor	originally published by Gao et al.(2014)
+Li et al.	PMID25151357;216	Tumor	originally published by Gao et al.(2014)
+Li et al.	PMID25151357;217	Tumor	originally published by Gao et al.(2014)
+Li et al.	PMID25151357;218	Tumor	originally published by Gao et al.(2014)
+Li et al.	PMID25151357;219	Tumor	originally published by Gao et al.(2014)
+Li et al.	PMID25151357;220	Tumor	originally published by Gao et al.(2014)
+Li et al.	PMID25151357;222	Tumor	originally published by Gao et al.(2014)
+Li et al.	PMID25151357;223	Tumor	originally published by Gao et al.(2014)
+Li et al.	PMID25151357;224	Tumor	originally published by Gao et al.(2014)
+Li et al.	PMID25151357;225	Tumor	originally published by Gao et al.(2014)
+Li et al.	PMID25151357;226	Tumor	originally published by Gao et al.(2014)
+Li et al.	PMID25151357;227	Tumor	originally published by Gao et al.(2014)
+Li et al.	PMID25151357;228	Tumor	originally published by Gao et al.(2014)
+Li et al.	PMID25151357;229	Tumor	originally published by Gao et al.(2014)
+Li et al.	PMID25151357;381	Tumor	originally published by Gao et al.(2014)
+Li et al.	PMID25151357;382	Tumor	originally published by Gao et al.(2014)
+Li et al.	PMID25151357;383	Tumor	originally published by Gao et al.(2014)
+Li et al.	PMID25151357;384	Tumor	originally published by Gao et al.(2014)
+Li et al.	PMID25151357;385	Tumor	originally published by Gao et al.(2014)
+Li et al.	PMID25151357;386	Tumor	originally published by Gao et al.(2014)
+Li et al.	PMID25151357;387	Tumor	originally published by Gao et al.(2014)
+Li et al.	PMID25151357;388	Tumor	originally published by Gao et al.(2014)
+Li et al.	PMID25151357;389	Tumor	originally published by Gao et al.(2014)
+Li et al.	PMID25151357;390	Tumor	originally published by Gao et al.(2014)
+Li et al.	PMID25151357;391	Tumor	originally published by Gao et al.(2014)
+Li et al.	PMID25151357;392	Tumor	originally published by Gao et al.(2014)
+Li et al.	PMID25151357;393	Tumor	originally published by Gao et al.(2014)
+Li et al.	PMID25151357;394	Tumor	originally published by Gao et al.(2014)
+Li et al.	PMID25151357;395	Tumor	originally published by Gao et al.(2014)
+Li et al.	PMID25151357;396	Tumor	originally published by Gao et al.(2014)
+Li et al.	PMID25151357;397	Tumor	originally published by Gao et al.(2014)
+Li et al.	PMID25151357;398	Tumor	originally published by Gao et al.(2014)
+Li et al.	PMID25151357;399	Tumor	originally published by Gao et al.(2014)
+Li et al.	PMID25151357;400	Tumor	originally published by Gao et al.(2014)
+Li et al.	PMID25151357;401	Tumor	originally published by Gao et al.(2014)
+Li et al.	PMID25151357;402	Tumor	originally published by Gao et al.(2014)
+Li et al.	PMID25151357;403	Tumor	originally published by Gao et al.(2014)
+Li et al.	PMID25151357;404	Tumor	originally published by Gao et al.(2014)
+Li et al.	PMID25151357;405	Tumor	originally published by Gao et al.(2014)
+Li et al.	PMID25151357;406	Tumor	originally published by Gao et al.(2014)
+Li et al.	PMID25151357;407	Tumor	originally published by Gao et al.(2014)
+Li et al.	PMID25151357;408	Tumor	originally published by Gao et al.(2014)
+Li et al.	PMID25151357;409	Tumor	originally published by Gao et al.(2014)
+Li et al.	PMID25151357;410	Tumor	originally published by Gao et al.(2014)
+Li et al.	PMID25151357;411	Tumor	originally published by Gao et al.(2014)
+Li et al.	PMID25151357;412	Tumor	originally published by Gao et al.(2014)
+Li et al.	PMID25151357;413	Tumor	originally published by Gao et al.(2014)
+Li et al.	PMID25151357;414	Tumor	originally published by Gao et al.(2014)
+Li et al.	PMID25151357;415	Tumor	originally published by Gao et al.(2014)
+Li et al.	PMID25151357;416	Tumor	originally published by Gao et al.(2014)
+Li et al.	PMID25151357;417	Tumor	originally published by Gao et al.(2014)
+Li et al.	PMID25151357;418	Tumor	originally published by Gao et al.(2014)
+Li et al.	PMID25151357;419	Tumor	originally published by Gao et al.(2014)
+Li et al.	PMID25151357;420	Tumor	originally published by Gao et al.(2014)
+Li et al.	PMID25151357;421	Tumor	originally published by Gao et al.(2014)
+Li et al.	PMID25151357;422	Tumor	originally published by Gao et al.(2014)
+Li et al.	PMID25151357;423	Tumor	originally published by Gao et al.(2014)
+Li et al.	PMID25151357;424	Tumor	originally published by Gao et al.(2014)
+Li et al.	PMID25151357;425	Tumor	originally published by Gao et al.(2014)
+Li et al.	PMID25151357;426	Tumor	originally published by Gao et al.(2014)
+Li et al.	PMID25151357;427	Tumor	originally published by Gao et al.(2014)
+Li et al.	PMID25151357;428	Tumor	originally published by Gao et al.(2014)
+Li et al.	PMID25151357;429	Tumor	originally published by Gao et al.(2014)
+Li et al.	PMID25151357;430	Tumor	originally published by Gao et al.(2014)
+Li et al.	PMID25151357;431	Tumor	originally published by Gao et al.(2014)
+Li et al.	PMID25151357;432	Tumor	originally published by Gao et al.(2014)
+Li et al.	PMID25151357;433	Tumor	originally published by Gao et al.(2014)
+Li et al.	PMID25151357;434	Tumor	originally published by Gao et al.(2014)
+Li et al.	PMID25151357;435	Tumor	originally published by Gao et al.(2014)
+Li et al.	PMID25151357;436	Tumor	originally published by Gao et al.(2014)
+Li et al.	PMID25151357;437	Tumor	originally published by Gao et al.(2014)
+Li et al.	PMID25151357;438	Tumor	originally published by Gao et al.(2014)
+Li et al.	PMID25151357;440	Tumor	originally published by Gao et al.(2014)
+Li et al.	PMID25151357;441	Tumor	originally published by Gao et al.(2014)
+Li et al.	PMID25151357;442	Tumor	originally published by Gao et al.(2014)
+Li et al.	PMID25151357;443	Tumor	originally published by Gao et al.(2014)
+Li et al.	PMID25151357;444	Tumor	originally published by Gao et al.(2014)
+Li et al.	PMID25151357;445	Tumor	originally published by Gao et al.(2014)
+Li et al.	PMID25151357;446	Tumor	originally published by Gao et al.(2014)
+Li et al.	PMID25151357;447	Tumor	originally published by Gao et al.(2014)
+Li et al.	PMID25151357;448	Tumor	originally published by Gao et al.(2014)
+Li et al.	PMID25151357;449	Tumor	originally published by Gao et al.(2014)
+Li et al.	PMID25151357;450	Tumor	originally published by Gao et al.(2014)
+Li et al.	PMID25151357;451	Tumor	originally published by Gao et al.(2014)
+Li et al.	PMID25151357;452	Tumor	originally published by Gao et al.(2014)
+Li et al.	PMID25151357;453	Tumor	originally published by Gao et al.(2014)
+Li et al.	PMID25151357;454	Tumor	originally published by Gao et al.(2014)
+Li et al.	PMID25151357;456	Tumor	originally published by Gao et al.(2014)
+Li et al.	PMID25151357;457	Tumor	originally published by Gao et al.(2014)
+Li et al.	PMID25151357;458	Tumor	originally published by Gao et al.(2014)
+Li et al.	PMID25151357;459	Tumor	originally published by Gao et al.(2014)
+Li et al.	PMID25151357;460	Tumor	originally published by Gao et al.(2014)
+Li et al.	PMID25151357;461	Tumor	originally published by Gao et al.(2014)
+Li et al.	PMID25151357;462	Tumor	originally published by Gao et al.(2014)
+Li et al.	PMID25151357;463	Tumor	originally published by Gao et al.(2014)
+Li et al.	PMID25151357;464	Tumor	originally published by Gao et al.(2014)
+Li et al.	PMID25151357;465	Tumor	originally published by Gao et al.(2014)
+Li et al.	PMID25151357;466	Tumor	originally published by Gao et al.(2014)
+Li et al.	PMID25151357;467	Tumor	originally published by Gao et al.(2014)
+Li et al.	PMID25151357;468	Tumor	originally published by Gao et al.(2014)
+Li et al.	PMID25151357;469	Tumor	originally published by Gao et al.(2014)
+Li et al.	PMID25151357;470	Tumor	originally published by Gao et al.(2014)
+Li et al.	PMID25151357;471	Tumor	originally published by Gao et al.(2014)
+Li et al.	PMID25151357;472	Tumor	originally published by Gao et al.(2014)
+Li et al.	PMID25151357;473	Tumor	originally published by Gao et al.(2014)
+Li et al.	PMID25151357;474	Tumor	originally published by Gao et al.(2014)
+Li et al.	PMID25151357;475	Tumor	originally published by Gao et al.(2014)
+Li et al.	PMID25151357;476	Tumor	originally published by Gao et al.(2014)
+Li et al.	PMID25151357;477	Tumor	originally published by Gao et al.(2014)
+Li et al.	PMID25151357;478	Tumor	originally published by Gao et al.(2014)
+Li et al.	PMID25151357;479	Tumor	originally published by Gao et al.(2014)
+Li et al.	PMID25151357;480	Tumor	originally published by Gao et al.(2014)
+Li et al.	PMID25839328;1N01-VS-1T01	Tumor	originally published by Zhang et al.(2015)
+Li et al.	PMID25839328;1N02-VS-1T02	Tumor	originally published by Zhang et al.(2015)
+Li et al.	PMID25839328;1N03-VS-1T03	Tumor	originally published by Zhang et al.(2015)
+Li et al.	PMID25839328;1N04-VS-1T04	Tumor	originally published by Zhang et al.(2015)
+Li et al.	PMID25839328;1N05-VS-1T05	Tumor	originally published by Zhang et al.(2015)
+Li et al.	PMID25839328;1N21-VS-1T21	Tumor	originally published by Zhang et al.(2015)
+Li et al.	PMID25839328;1N22-VS-1T22	Tumor	originally published by Zhang et al.(2015)
+Li et al.	PMID25839328;1N23-VS-1T23	Tumor	originally published by Zhang et al.(2015)
+Li et al.	PMID25839328;1N24-VS-1T24	Tumor	originally published by Zhang et al.(2015)
+Li et al.	PMID25839328;1N25-VS-1T25	Tumor	originally published by Zhang et al.(2015)
+Li et al.	PMID25839328;1N26-VS-1T26	Tumor	originally published by Zhang et al.(2015)
+Li et al.	PMID25839328;1N27-VS-1T27	Tumor	originally published by Zhang et al.(2015)
+Li et al.	PMID25839328;1N28-VS-1T28	Tumor	originally published by Zhang et al.(2015)
+Li et al.	PMID25839328;1N29-VS-1T29	Tumor	originally published by Zhang et al.(2015)
+Li et al.	PMID25839328;1N30-VS-1T30	Tumor	originally published by Zhang et al.(2015)
+Li et al.	PMID25839328;1N31-VS-1T31	Tumor	originally published by Zhang et al.(2015)
+Li et al.	PMID25839328;1N32-VS-1T32	Tumor	originally published by Zhang et al.(2015)
+Li et al.	PMID25839328;1N33-VS-1T33	Tumor	originally published by Zhang et al.(2015)
+Li et al.	PMID25839328;1N34-VS-1T34	Tumor	originally published by Zhang et al.(2015)
+Li et al.	PMID25839328;1N35-VS-1T35	Tumor	originally published by Zhang et al.(2015)
+Li et al.	PMID25839328;1N36-VS-1T36	Tumor	originally published by Zhang et al.(2015)
+Li et al.	PMID25839328;1N37-VS-1T37	Tumor	originally published by Zhang et al.(2015)
+Li et al.	PMID25839328;1N38-VS-1T38	Tumor	originally published by Zhang et al.(2015)
+Li et al.	PMID25839328;1N39-VS-1T39	Tumor	originally published by Zhang et al.(2015)
+Li et al.	PMID25839328;1N40-VS-1T40	Tumor	originally published by Zhang et al.(2015)
+Li et al.	PMID25839328;1N41-VS-1T41	Tumor	originally published by Zhang et al.(2015)
+Li et al.	PMID25839328;1N42-VS-1T42	Tumor	originally published by Zhang et al.(2015)
+Li et al.	PMID25839328;1N43-VS-1T43	Tumor	originally published by Zhang et al.(2015)
+Li et al.	PMID25839328;1N44-VS-1T44	Tumor	originally published by Zhang et al.(2015)
+Li et al.	PMID25839328;1N45-VS-1T45	Tumor	originally published by Zhang et al.(2015)
+Li et al.	PMID25839328;1N46-VS-1T46	Tumor	originally published by Zhang et al.(2015)
+Li et al.	PMID25839328;1N47-VS-1T47	Tumor	originally published by Zhang et al.(2015)
+Li et al.	PMID25839328;1N48-VS-1T48	Tumor	originally published by Zhang et al.(2015)
+Li et al.	PMID25839328;1N49-VS-1T49	Tumor	originally published by Zhang et al.(2015)
+Li et al.	PMID25839328;1N50-VS-1T50	Tumor	originally published by Zhang et al.(2015)
+Li et al.	PMID25839328;1N51-VS-1T51	Tumor	originally published by Zhang et al.(2015)
+Li et al.	PMID25839328;1N52-VS-1T52	Tumor	originally published by Zhang et al.(2015)
+Li et al.	PMID25839328;1N53-VS-1T53	Tumor	originally published by Zhang et al.(2015)
+Li et al.	PMID25839328;1N54-VS-1T54	Tumor	originally published by Zhang et al.(2015)
+Li et al.	PMID25839328;1N55-VS-1T55	Tumor	originally published by Zhang et al.(2015)
+Li et al.	PMID25839328;1N56-VS-1T56	Tumor	originally published by Zhang et al.(2015)
+Li et al.	PMID25839328;1N57-VS-1T57	Tumor	originally published by Zhang et al.(2015)
+Li et al.	PMID25839328;1N58-VS-1T58	Tumor	originally published by Zhang et al.(2015)
+Li et al.	PMID25839328;1N59-VS-1T59	Tumor	originally published by Zhang et al.(2015)
+Li et al.	PMID25839328;1N60-VS-1T60	Tumor	originally published by Zhang et al.(2015)
+Li et al.	PMID25839328;1N61-VS-1T61	Tumor	originally published by Zhang et al.(2015)
+Li et al.	PMID25839328;1N62-VS-1T62	Tumor	originally published by Zhang et al.(2015)
+Li et al.	PMID25839328;1N63-VS-1T63	Tumor	originally published by Zhang et al.(2015)
+Li et al.	PMID25839328;1N64-VS-1T64	Tumor	originally published by Zhang et al.(2015)
+Li et al.	PMID25839328;1N65-VS-1T65	Tumor	originally published by Zhang et al.(2015)
+Li et al.	PMID25839328;1N66-VS-1T66	Tumor	originally published by Zhang et al.(2015)
+Li et al.	PMID25839328;3N01-VS-3T01	Tumor	originally published by Zhang et al.(2015)
+Li et al.	PMID25839328;3N02-VS-3T02	Tumor	originally published by Zhang et al.(2015)
+Li et al.	PMID25839328;3N03-VS-3T03	Tumor	originally published by Zhang et al.(2015)
+Li et al.	PMID25839328;3N04-VS-3T04	Tumor	originally published by Zhang et al.(2015)
+Li et al.	PMID25839328;3N05-VS-3T05	Tumor	originally published by Zhang et al.(2015)
+Li et al.	PMID25839328;3N06-VS-3T06	Tumor	originally published by Zhang et al.(2015)
+Li et al.	PMID25839328;3N07-VS-3T07	Tumor	originally published by Zhang et al.(2015)
+Li et al.	PMID25839328;3N08-VS-3T08	Tumor	originally published by Zhang et al.(2015)
+Li et al.	PMID25839328;3N09-VS-3T09	Tumor	originally published by Zhang et al.(2015)
+Li et al.	PMID25839328;3N21-VS-3T21	Tumor	originally published by Zhang et al.(2015)
+Li et al.	PMID25839328;3N22-VS-3T22	Tumor	originally published by Zhang et al.(2015)
+Li et al.	PMID25839328;3N23-VS-3T23	Tumor	originally published by Zhang et al.(2015)
+Li et al.	PMID25839328;3N24-VS-3T24	Tumor	originally published by Zhang et al.(2015)
+Li et al.	PMID25839328;3N25-VS-3T25	Tumor	originally published by Zhang et al.(2015)
+Li et al.	PMID25839328;3N26-VS-3T26	Tumor	originally published by Zhang et al.(2015)
+Li et al.	PMID25839328;3N27-VS-3T27	Tumor	originally published by Zhang et al.(2015)
+Li et al.	PMID25839328;3N28-VS-3T28	Tumor	originally published by Zhang et al.(2015)
+Li et al.	PMID25839328;3N29-VS-3T29	Tumor	originally published by Zhang et al.(2015)
+Li et al.	PMID25839328;3N30-VS-3T30	Tumor	originally published by Zhang et al.(2015)
+Li et al.	PMID25839328;3N31-VS-3T31	Tumor	originally published by Zhang et al.(2015)
+Li et al.	PMID25839328;3N32-VS-3T32	Tumor	originally published by Zhang et al.(2015)
+Li et al.	PMID25839328;3N33-VS-3T33	Tumor	originally published by Zhang et al.(2015)
+Li et al.	PMID25839328;3N34-VS-3T34	Tumor	originally published by Zhang et al.(2015)
+Li et al.	PMID25839328;3N35-VS-3T35	Tumor	originally published by Zhang et al.(2015)
+Li et al.	PMID25839328;3N36-VS-3T36	Tumor	originally published by Zhang et al.(2015)
+Li et al.	PMID25839328;3N37-VS-3T37	Tumor	originally published by Zhang et al.(2015)
+Li et al.	PMID25839328;3N38-VS-3T38	Tumor	originally published by Zhang et al.(2015)
+Li et al.	PMID25839328;3N39-VS-3T39	Tumor	originally published by Zhang et al.(2015)
+Li et al.	PMID25839328;3N40-VS-3T40	Tumor	originally published by Zhang et al.(2015)
+Li et al.	PMID25839328;3N41-VS-3T41	Tumor	originally published by Zhang et al.(2015)
+Li et al.	PMID25839328;3N42-VS-3T42	Tumor	originally published by Zhang et al.(2015)
+Li et al.	PMID25839328;3N43-VS-3T43	Tumor	originally published by Zhang et al.(2015)
+Li et al.	PMID25839328;3N44-VS-3T44	Tumor	originally published by Zhang et al.(2015)
+Li et al.	PMID25839328;3N45-VS-3T45	Tumor	originally published by Zhang et al.(2015)
+Li et al.	PMID25839328;3N46-VS-3T46	Tumor	originally published by Zhang et al.(2015)
+Li et al.	PMID25839328;3N47-VS-3T47	Tumor	originally published by Zhang et al.(2015)
+Li et al.	PMID25839328;3N48-VS-3T48	Tumor	originally published by Zhang et al.(2015)
+Li et al.	PMID25839328;3N49-VS-3T49	Tumor	originally published by Zhang et al.(2015)
+Li et al.	PMID25839328;3N50-VS-3T50	Tumor	originally published by Zhang et al.(2015)
+Li et al.	PMID25839328;3N51-VS-3T51	Tumor	originally published by Zhang et al.(2015)
+Li et al.	PMID25839328;3N52-VS-3T52	Tumor	originally published by Zhang et al.(2015)
+Li et al.	PMID25839328;3N53-VS-3T53	Tumor	originally published by Zhang et al.(2015)
+Li et al.	PMID25839328;3N54-VS-3T54	Tumor	originally published by Zhang et al.(2015)
+Li et al.	PMID25839328;3N55-VS-3T55	Tumor	originally published by Zhang et al.(2015)
+Li et al.	PMID25839328;3N56-VS-3T56	Tumor	originally published by Zhang et al.(2015)
+Li et al.	PMID25839328;3N57-VS-3T57	Tumor	originally published by Zhang et al.(2015)
+Li et al.	PMID25839328;3N58-VS-3T58	Tumor	originally published by Zhang et al.(2015)
+Li et al.	PMID25839328;3N59-VS-3T59	Tumor	originally published by Zhang et al.(2015)
+Li et al.	PMID25839328;3N60-VS-3T60	Tumor	originally published by Zhang et al.(2015)
+Li et al.	PMID25839328;3N61-VS-3T61	Tumor	originally published by Zhang et al.(2015)
+Li et al.	PMID25839328;3N62-VS-3T62	Tumor	originally published by Zhang et al.(2015)
+Li et al.	PMID25839328;3N63-VS-3T63	Tumor	originally published by Zhang et al.(2015)
+Li et al.	PMID25839328;3N64-VS-3T64	Tumor	originally published by Zhang et al.(2015)
+Li et al.	PMID26873401;ESCC_1	Tumor	originally published by Sawada et al.(2016)
+Li et al.	PMID26873401;ESCC_10	Tumor	originally published by Sawada et al.(2016)
+Li et al.	PMID26873401;ESCC_100	Tumor	originally published by Sawada et al.(2016)
+Li et al.	PMID26873401;ESCC_101	Tumor	originally published by Sawada et al.(2016)
+Li et al.	PMID26873401;ESCC_102	Tumor	originally published by Sawada et al.(2016)
+Li et al.	PMID26873401;ESCC_103	Tumor	originally published by Sawada et al.(2016)
+Li et al.	PMID26873401;ESCC_104	Tumor	originally published by Sawada et al.(2016)
+Li et al.	PMID26873401;ESCC_107	Tumor	originally published by Sawada et al.(2016)
+Li et al.	PMID26873401;ESCC_108	Tumor	originally published by Sawada et al.(2016)
+Li et al.	PMID26873401;ESCC_109	Tumor	originally published by Sawada et al.(2016)
+Li et al.	PMID26873401;ESCC_11	Tumor	originally published by Sawada et al.(2016)
+Li et al.	PMID26873401;ESCC_110	Tumor	originally published by Sawada et al.(2016)
+Li et al.	PMID26873401;ESCC_111	Tumor	originally published by Sawada et al.(2016)
+Li et al.	PMID26873401;ESCC_112	Tumor	originally published by Sawada et al.(2016)
+Li et al.	PMID26873401;ESCC_113	Tumor	originally published by Sawada et al.(2016)
+Li et al.	PMID26873401;ESCC_114	Tumor	originally published by Sawada et al.(2016)
+Li et al.	PMID26873401;ESCC_115	Tumor	originally published by Sawada et al.(2016)
+Li et al.	PMID26873401;ESCC_116	Tumor	originally published by Sawada et al.(2016)
+Li et al.	PMID26873401;ESCC_117	Tumor	originally published by Sawada et al.(2016)
+Li et al.	PMID26873401;ESCC_118	Tumor	originally published by Sawada et al.(2016)
+Li et al.	PMID26873401;ESCC_12	Tumor	originally published by Sawada et al.(2016)
+Li et al.	PMID26873401;ESCC_120	Tumor	originally published by Sawada et al.(2016)
+Li et al.	PMID26873401;ESCC_121	Tumor	originally published by Sawada et al.(2016)
+Li et al.	PMID26873401;ESCC_122	Tumor	originally published by Sawada et al.(2016)
+Li et al.	PMID26873401;ESCC_123	Tumor	originally published by Sawada et al.(2016)
+Li et al.	PMID26873401;ESCC_124	Tumor	originally published by Sawada et al.(2016)
+Li et al.	PMID26873401;ESCC_125	Tumor	originally published by Sawada et al.(2016)
+Li et al.	PMID26873401;ESCC_126	Tumor	originally published by Sawada et al.(2016)
+Li et al.	PMID26873401;ESCC_127	Tumor	originally published by Sawada et al.(2016)
+Li et al.	PMID26873401;ESCC_128	Tumor	originally published by Sawada et al.(2016)
+Li et al.	PMID26873401;ESCC_129	Tumor	originally published by Sawada et al.(2016)
+Li et al.	PMID26873401;ESCC_13	Tumor	originally published by Sawada et al.(2016)
+Li et al.	PMID26873401;ESCC_130	Tumor	originally published by Sawada et al.(2016)
+Li et al.	PMID26873401;ESCC_131	Tumor	originally published by Sawada et al.(2016)
+Li et al.	PMID26873401;ESCC_132	Tumor	originally published by Sawada et al.(2016)
+Li et al.	PMID26873401;ESCC_133	Tumor	originally published by Sawada et al.(2016)
+Li et al.	PMID26873401;ESCC_134	Tumor	originally published by Sawada et al.(2016)
+Li et al.	PMID26873401;ESCC_135	Tumor	originally published by Sawada et al.(2016)
+Li et al.	PMID26873401;ESCC_136	Tumor	originally published by Sawada et al.(2016)
+Li et al.	PMID26873401;ESCC_137	Tumor	originally published by Sawada et al.(2016)
+Li et al.	PMID26873401;ESCC_139	Tumor	originally published by Sawada et al.(2016)
+Li et al.	PMID26873401;ESCC_14	Tumor	originally published by Sawada et al.(2016)
+Li et al.	PMID26873401;ESCC_140	Tumor	originally published by Sawada et al.(2016)
+Li et al.	PMID26873401;ESCC_141	Tumor	originally published by Sawada et al.(2016)
+Li et al.	PMID26873401;ESCC_142	Tumor	originally published by Sawada et al.(2016)
+Li et al.	PMID26873401;ESCC_143	Tumor	originally published by Sawada et al.(2016)
+Li et al.	PMID26873401;ESCC_144	Tumor	originally published by Sawada et al.(2016)
+Li et al.	PMID26873401;ESCC_146	Tumor	originally published by Sawada et al.(2016)
+Li et al.	PMID26873401;ESCC_149	Tumor	originally published by Sawada et al.(2016)
+Li et al.	PMID26873401;ESCC_15	Tumor	originally published by Sawada et al.(2016)
+Li et al.	PMID26873401;ESCC_150	Tumor	originally published by Sawada et al.(2016)
+Li et al.	PMID26873401;ESCC_151	Tumor	originally published by Sawada et al.(2016)
+Li et al.	PMID26873401;ESCC_152	Tumor	originally published by Sawada et al.(2016)
+Li et al.	PMID26873401;ESCC_153	Tumor	originally published by Sawada et al.(2016)
+Li et al.	PMID26873401;ESCC_154	Tumor	originally published by Sawada et al.(2016)
+Li et al.	PMID26873401;ESCC_156	Tumor	originally published by Sawada et al.(2016)
+Li et al.	PMID26873401;ESCC_157	Tumor	originally published by Sawada et al.(2016)
+Li et al.	PMID26873401;ESCC_158	Tumor	originally published by Sawada et al.(2016)
+Li et al.	PMID26873401;ESCC_159	Tumor	originally published by Sawada et al.(2016)
+Li et al.	PMID26873401;ESCC_16	Tumor	originally published by Sawada et al.(2016)
+Li et al.	PMID26873401;ESCC_160	Tumor	originally published by Sawada et al.(2016)
+Li et al.	PMID26873401;ESCC_161	Tumor	originally published by Sawada et al.(2016)
+Li et al.	PMID26873401;ESCC_162	Tumor	originally published by Sawada et al.(2016)
+Li et al.	PMID26873401;ESCC_163	Tumor	originally published by Sawada et al.(2016)
+Li et al.	PMID26873401;ESCC_164	Tumor	originally published by Sawada et al.(2016)
+Li et al.	PMID26873401;ESCC_165	Tumor	originally published by Sawada et al.(2016)
+Li et al.	PMID26873401;ESCC_167	Tumor	originally published by Sawada et al.(2016)
+Li et al.	PMID26873401;ESCC_168	Tumor	originally published by Sawada et al.(2016)
+Li et al.	PMID26873401;ESCC_169	Tumor	originally published by Sawada et al.(2016)
+Li et al.	PMID26873401;ESCC_17	Tumor	originally published by Sawada et al.(2016)
+Li et al.	PMID26873401;ESCC_170	Tumor	originally published by Sawada et al.(2016)
+Li et al.	PMID26873401;ESCC_18	Tumor	originally published by Sawada et al.(2016)
+Li et al.	PMID26873401;ESCC_21	Tumor	originally published by Sawada et al.(2016)
+Li et al.	PMID26873401;ESCC_22	Tumor	originally published by Sawada et al.(2016)
+Li et al.	PMID26873401;ESCC_24	Tumor	originally published by Sawada et al.(2016)
+Li et al.	PMID26873401;ESCC_25	Tumor	originally published by Sawada et al.(2016)
+Li et al.	PMID26873401;ESCC_26	Tumor	originally published by Sawada et al.(2016)
+Li et al.	PMID26873401;ESCC_27	Tumor	originally published by Sawada et al.(2016)
+Li et al.	PMID26873401;ESCC_28	Tumor	originally published by Sawada et al.(2016)
+Li et al.	PMID26873401;ESCC_29	Tumor	originally published by Sawada et al.(2016)
+Li et al.	PMID26873401;ESCC_3	Tumor	originally published by Sawada et al.(2016)
+Li et al.	PMID26873401;ESCC_30	Tumor	originally published by Sawada et al.(2016)
+Li et al.	PMID26873401;ESCC_31	Tumor	originally published by Sawada et al.(2016)
+Li et al.	PMID26873401;ESCC_32	Tumor	originally published by Sawada et al.(2016)
+Li et al.	PMID26873401;ESCC_33	Tumor	originally published by Sawada et al.(2016)
+Li et al.	PMID26873401;ESCC_34	Tumor	originally published by Sawada et al.(2016)
+Li et al.	PMID26873401;ESCC_35	Tumor	originally published by Sawada et al.(2016)
+Li et al.	PMID26873401;ESCC_36	Tumor	originally published by Sawada et al.(2016)
+Li et al.	PMID26873401;ESCC_37	Tumor	originally published by Sawada et al.(2016)
+Li et al.	PMID26873401;ESCC_38	Tumor	originally published by Sawada et al.(2016)
+Li et al.	PMID26873401;ESCC_39	Tumor	originally published by Sawada et al.(2016)
+Li et al.	PMID26873401;ESCC_4	Tumor	originally published by Sawada et al.(2016)
+Li et al.	PMID26873401;ESCC_40	Tumor	originally published by Sawada et al.(2016)
+Li et al.	PMID26873401;ESCC_41	Tumor	originally published by Sawada et al.(2016)
+Li et al.	PMID26873401;ESCC_42	Tumor	originally published by Sawada et al.(2016)
+Li et al.	PMID26873401;ESCC_43	Tumor	originally published by Sawada et al.(2016)
+Li et al.	PMID26873401;ESCC_44	Tumor	originally published by Sawada et al.(2016)
+Li et al.	PMID26873401;ESCC_45	Tumor	originally published by Sawada et al.(2016)
+Li et al.	PMID26873401;ESCC_46	Tumor	originally published by Sawada et al.(2016)
+Li et al.	PMID26873401;ESCC_47	Tumor	originally published by Sawada et al.(2016)
+Li et al.	PMID26873401;ESCC_5	Tumor	originally published by Sawada et al.(2016)
+Li et al.	PMID26873401;ESCC_50	Tumor	originally published by Sawada et al.(2016)
+Li et al.	PMID26873401;ESCC_51	Tumor	originally published by Sawada et al.(2016)
+Li et al.	PMID26873401;ESCC_52	Tumor	originally published by Sawada et al.(2016)
+Li et al.	PMID26873401;ESCC_53	Tumor	originally published by Sawada et al.(2016)
+Li et al.	PMID26873401;ESCC_54	Tumor	originally published by Sawada et al.(2016)
+Li et al.	PMID26873401;ESCC_55	Tumor	originally published by Sawada et al.(2016)
+Li et al.	PMID26873401;ESCC_56	Tumor	originally published by Sawada et al.(2016)
+Li et al.	PMID26873401;ESCC_57	Tumor	originally published by Sawada et al.(2016)
+Li et al.	PMID26873401;ESCC_58	Tumor	originally published by Sawada et al.(2016)
+Li et al.	PMID26873401;ESCC_6	Tumor	originally published by Sawada et al.(2016)
+Li et al.	PMID26873401;ESCC_60	Tumor	originally published by Sawada et al.(2016)
+Li et al.	PMID26873401;ESCC_61	Tumor	originally published by Sawada et al.(2016)
+Li et al.	PMID26873401;ESCC_62	Tumor	originally published by Sawada et al.(2016)
+Li et al.	PMID26873401;ESCC_63	Tumor	originally published by Sawada et al.(2016)
+Li et al.	PMID26873401;ESCC_64	Tumor	originally published by Sawada et al.(2016)
+Li et al.	PMID26873401;ESCC_65	Tumor	originally published by Sawada et al.(2016)
+Li et al.	PMID26873401;ESCC_66	Tumor	originally published by Sawada et al.(2016)
+Li et al.	PMID26873401;ESCC_68	Tumor	originally published by Sawada et al.(2016)
+Li et al.	PMID26873401;ESCC_71	Tumor	originally published by Sawada et al.(2016)
+Li et al.	PMID26873401;ESCC_72	Tumor	originally published by Sawada et al.(2016)
+Li et al.	PMID26873401;ESCC_73	Tumor	originally published by Sawada et al.(2016)
+Li et al.	PMID26873401;ESCC_74	Tumor	originally published by Sawada et al.(2016)
+Li et al.	PMID26873401;ESCC_75	Tumor	originally published by Sawada et al.(2016)
+Li et al.	PMID26873401;ESCC_76	Tumor	originally published by Sawada et al.(2016)
+Li et al.	PMID26873401;ESCC_77	Tumor	originally published by Sawada et al.(2016)
+Li et al.	PMID26873401;ESCC_78	Tumor	originally published by Sawada et al.(2016)
+Li et al.	PMID26873401;ESCC_79	Tumor	originally published by Sawada et al.(2016)
+Li et al.	PMID26873401;ESCC_8	Tumor	originally published by Sawada et al.(2016)
+Li et al.	PMID26873401;ESCC_80	Tumor	originally published by Sawada et al.(2016)
+Li et al.	PMID26873401;ESCC_81	Tumor	originally published by Sawada et al.(2016)
+Li et al.	PMID26873401;ESCC_82	Tumor	originally published by Sawada et al.(2016)
+Li et al.	PMID26873401;ESCC_83	Tumor	originally published by Sawada et al.(2016)
+Li et al.	PMID26873401;ESCC_84	Tumor	originally published by Sawada et al.(2016)
+Li et al.	PMID26873401;ESCC_86	Tumor	originally published by Sawada et al.(2016)
+Li et al.	PMID26873401;ESCC_87	Tumor	originally published by Sawada et al.(2016)
+Li et al.	PMID26873401;ESCC_9	Tumor	originally published by Sawada et al.(2016)
+Li et al.	PMID26873401;ESCC_91	Tumor	originally published by Sawada et al.(2016)
+Li et al.	PMID26873401;ESCC_92	Tumor	originally published by Sawada et al.(2016)
+Li et al.	PMID26873401;ESCC_93	Tumor	originally published by Sawada et al.(2016)
+Li et al.	PMID26873401;ESCC_94	Tumor	originally published by Sawada et al.(2016)
+Li et al.	PMID26873401;ESCC_95	Tumor	originally published by Sawada et al.(2016)
+Li et al.	PMID26873401;ESCC_96	Tumor	originally published by Sawada et al.(2016)
+Li et al.	PMID26873401;ESCC_99	Tumor	originally published by Sawada et al.(2016)
+Li et al.	PMID27058444;2603-QC-103	Tumor	originally published by Qin et al.(2016)
+Li et al.	PMID27058444;2603-QC-105	Tumor	originally published by Qin et al.(2016)
+Li et al.	PMID27058444;2603-QC-107	Tumor	originally published by Qin et al.(2016)
+Li et al.	PMID27058444;2603-QC-109	Tumor	originally published by Qin et al.(2016)
+Li et al.	PMID27058444;2603-QC-11	Tumor	originally published by Qin et al.(2016)
+Li et al.	PMID27058444;2603-QC-111	Tumor	originally published by Qin et al.(2016)
+Li et al.	PMID27058444;2603-QC-115	Tumor	originally published by Qin et al.(2016)
+Li et al.	PMID27058444;2603-QC-117	Tumor	originally published by Qin et al.(2016)
+Li et al.	PMID27058444;2603-QC-121	Tumor	originally published by Qin et al.(2016)
+Li et al.	PMID27058444;2603-QC-123	Tumor	originally published by Qin et al.(2016)
+Li et al.	PMID27058444;2603-QC-125	Tumor	originally published by Qin et al.(2016)
+Li et al.	PMID27058444;2603-QC-127	Tumor	originally published by Qin et al.(2016)
+Li et al.	PMID27058444;2603-QC-129	Tumor	originally published by Qin et al.(2016)
+Li et al.	PMID27058444;2603-QC-13	Tumor	originally published by Qin et al.(2016)
+Li et al.	PMID27058444;2603-QC-131	Tumor	originally published by Qin et al.(2016)
+Li et al.	PMID27058444;2603-QC-133	Tumor	originally published by Qin et al.(2016)
+Li et al.	PMID27058444;2603-QC-135	Tumor	originally published by Qin et al.(2016)
+Li et al.	PMID27058444;2603-QC-15	Tumor	originally published by Qin et al.(2016)
+Li et al.	PMID27058444;2603-QC-17	Tumor	originally published by Qin et al.(2016)
+Li et al.	PMID27058444;2603-QC-19	Tumor	originally published by Qin et al.(2016)
+Li et al.	PMID27058444;2603-QC-21	Tumor	originally published by Qin et al.(2016)
+Li et al.	PMID27058444;2603-QC-23	Tumor	originally published by Qin et al.(2016)
+Li et al.	PMID27058444;2603-QC-25	Tumor	originally published by Qin et al.(2016)
+Li et al.	PMID27058444;2603-QC-27	Tumor	originally published by Qin et al.(2016)
+Li et al.	PMID27058444;2603-QC-29	Tumor	originally published by Qin et al.(2016)
+Li et al.	PMID27058444;2603-QC-3	Tumor	originally published by Qin et al.(2016)
+Li et al.	PMID27058444;2603-QC-31	Tumor	originally published by Qin et al.(2016)
+Li et al.	PMID27058444;2603-QC-33	Tumor	originally published by Qin et al.(2016)
+Li et al.	PMID27058444;2603-QC-35	Tumor	originally published by Qin et al.(2016)
+Li et al.	PMID27058444;2603-QC-39	Tumor	originally published by Qin et al.(2016)
+Li et al.	PMID27058444;2603-QC-41	Tumor	originally published by Qin et al.(2016)
+Li et al.	PMID27058444;2603-QC-47	Tumor	originally published by Qin et al.(2016)
+Li et al.	PMID27058444;2603-QC-49	Tumor	originally published by Qin et al.(2016)
+Li et al.	PMID27058444;2603-QC-5	Tumor	originally published by Qin et al.(2016)
+Li et al.	PMID27058444;2603-QC-51	Tumor	originally published by Qin et al.(2016)
+Li et al.	PMID27058444;2603-QC-53	Tumor	originally published by Qin et al.(2016)
+Li et al.	PMID27058444;2603-QC-57	Tumor	originally published by Qin et al.(2016)
+Li et al.	PMID27058444;2603-QC-59	Tumor	originally published by Qin et al.(2016)
+Li et al.	PMID27058444;2603-QC-63	Tumor	originally published by Qin et al.(2016)
+Li et al.	PMID27058444;2603-QC-65	Tumor	originally published by Qin et al.(2016)
+Li et al.	PMID27058444;2603-QC-69	Tumor	originally published by Qin et al.(2016)
+Li et al.	PMID27058444;2603-QC-71	Tumor	originally published by Qin et al.(2016)
+Li et al.	PMID27058444;2603-QC-73	Tumor	originally published by Qin et al.(2016)
+Li et al.	PMID27058444;2603-QC-75	Tumor	originally published by Qin et al.(2016)
+Li et al.	PMID27058444;2603-QC-77	Tumor	originally published by Qin et al.(2016)
+Li et al.	PMID27058444;2603-QC-79	Tumor	originally published by Qin et al.(2016)
+Li et al.	PMID27058444;2603-QC-81	Tumor	originally published by Qin et al.(2016)
+Li et al.	PMID27058444;2603-QC-83	Tumor	originally published by Qin et al.(2016)
+Li et al.	PMID27058444;2603-QC-85	Tumor	originally published by Qin et al.(2016)
+Li et al.	PMID27058444;2603-QC-87	Tumor	originally published by Qin et al.(2016)
+Li et al.	PMID27058444;2603-QC-89	Tumor	originally published by Qin et al.(2016)
+Li et al.	PMID27058444;2603-QC-9	Tumor	originally published by Qin et al.(2016)
+Li et al.	PMID27058444;2603-QC-91	Tumor	originally published by Qin et al.(2016)
+Li et al.	PMID27058444;2603-QC-93	Tumor	originally published by Qin et al.(2016)
+Li et al.	PMID27058444;2603-QC-95	Tumor	originally published by Qin et al.(2016)
+Li et al.	PMID27058444;2603-QC-97	Tumor	originally published by Qin et al.(2016)
+Li et al.	PMID27058444;2603-QC-99	Tumor	originally published by Qin et al.(2016)
+Li et al.	PMID27058444;GS000007884-ASM-T	Tumor	originally published by Qin et al.(2016)
+Li et al.	PMID27058444;GS000007885-ASM-T	Tumor	originally published by Qin et al.(2016)
+Li et al.	PMID27058444;GS000007886-ASM-T	Tumor	originally published by Qin et al.(2016)
+Li et al.	PMID27058444;GS000007967-ASM-T	Tumor	originally published by Qin et al.(2016)
+Li et al.	PMID27058444;GS000008178-ASM-T	Tumor	originally published by Qin et al.(2016)
+Li et al.	PMID27058444;GS000010520-ASM-T	Tumor	originally published by Qin et al.(2016)
+Li et al.	PMID27058444;GS000010802-ASM-T	Tumor	originally published by Qin et al.(2016)
+Li et al.	PMID27058444;GS000010803-ASM-T	Tumor	originally published by Qin et al.(2016)
+Li et al.	PMID27058444;GS000010875-ASM-T	Tumor	originally published by Qin et al.(2016)
+Li et al.	PMID27058444;GS000011751-ASM-T	Tumor	originally published by Qin et al.(2016)
+Li et al.	PMID28548104;ESCC_10	Tumor	originally published by Chang et al.(2017)
+Li et al.	PMID28548104;ESCC_12	Tumor	originally published by Chang et al.(2017)
+Li et al.	PMID28548104;ESCC_125	Tumor	originally published by Chang et al.(2017)
+Li et al.	PMID28548104;ESCC_130	Tumor	originally published by Chang et al.(2017)
+Li et al.	PMID28548104;ESCC_131	Tumor	originally published by Chang et al.(2017)
+Li et al.	PMID28548104;ESCC_132	Tumor	originally published by Chang et al.(2017)
+Li et al.	PMID28548104;ESCC_134	Tumor	originally published by Chang et al.(2017)
+Li et al.	PMID28548104;ESCC_138	Tumor	originally published by Chang et al.(2017)
+Li et al.	PMID28548104;ESCC_140	Tumor	originally published by Chang et al.(2017)
+Li et al.	PMID28548104;ESCC_142	Tumor	originally published by Chang et al.(2017)
+Li et al.	PMID28548104;ESCC_143	Tumor	originally published by Chang et al.(2017)
+Li et al.	PMID28548104;ESCC_144	Tumor	originally published by Chang et al.(2017)
+Li et al.	PMID28548104;ESCC_145	Tumor	originally published by Chang et al.(2017)
+Li et al.	PMID28548104;ESCC_149	Tumor	originally published by Chang et al.(2017)
+Li et al.	PMID28548104;ESCC_150	Tumor	originally published by Chang et al.(2017)
+Li et al.	PMID28548104;ESCC_152	Tumor	originally published by Chang et al.(2017)
+Li et al.	PMID28548104;ESCC_156	Tumor	originally published by Chang et al.(2017)
+Li et al.	PMID28548104;ESCC_158	Tumor	originally published by Chang et al.(2017)
+Li et al.	PMID28548104;ESCC_16	Tumor	originally published by Chang et al.(2017)
+Li et al.	PMID28548104;ESCC_161	Tumor	originally published by Chang et al.(2017)
+Li et al.	PMID28548104;ESCC_162	Tumor	originally published by Chang et al.(2017)
+Li et al.	PMID28548104;ESCC_168	Tumor	originally published by Chang et al.(2017)
+Li et al.	PMID28548104;ESCC_169	Tumor	originally published by Chang et al.(2017)
+Li et al.	PMID28548104;ESCC_170	Tumor	originally published by Chang et al.(2017)
+Li et al.	PMID28548104;ESCC_171	Tumor	originally published by Chang et al.(2017)
+Li et al.	PMID28548104;ESCC_172	Tumor	originally published by Chang et al.(2017)
+Li et al.	PMID28548104;ESCC_173	Tumor	originally published by Chang et al.(2017)
+Li et al.	PMID28548104;ESCC_175	Tumor	originally published by Chang et al.(2017)
+Li et al.	PMID28548104;ESCC_178	Tumor	originally published by Chang et al.(2017)
+Li et al.	PMID28548104;ESCC_179	Tumor	originally published by Chang et al.(2017)
+Li et al.	PMID28548104;ESCC_182	Tumor	originally published by Chang et al.(2017)
+Li et al.	PMID28548104;ESCC_185	Tumor	originally published by Chang et al.(2017)
+Li et al.	PMID28548104;ESCC_19	Tumor	originally published by Chang et al.(2017)
+Li et al.	PMID28548104;ESCC_191	Tumor	originally published by Chang et al.(2017)
+Li et al.	PMID28548104;ESCC_196	Tumor	originally published by Chang et al.(2017)
+Li et al.	PMID28548104;ESCC_198	Tumor	originally published by Chang et al.(2017)
+Li et al.	PMID28548104;ESCC_199	Tumor	originally published by Chang et al.(2017)
+Li et al.	PMID28548104;ESCC_201	Tumor	originally published by Chang et al.(2017)
+Li et al.	PMID28548104;ESCC_206	Tumor	originally published by Chang et al.(2017)
+Li et al.	PMID28548104;ESCC_208	Tumor	originally published by Chang et al.(2017)
+Li et al.	PMID28548104;ESCC_21	Tumor	originally published by Chang et al.(2017)
+Li et al.	PMID28548104;ESCC_210	Tumor	originally published by Chang et al.(2017)
+Li et al.	PMID28548104;ESCC_213	Tumor	originally published by Chang et al.(2017)
+Li et al.	PMID28548104;ESCC_215	Tumor	originally published by Chang et al.(2017)
+Li et al.	PMID28548104;ESCC_220	Tumor	originally published by Chang et al.(2017)
+Li et al.	PMID28548104;ESCC_222	Tumor	originally published by Chang et al.(2017)
+Li et al.	PMID28548104;ESCC_223	Tumor	originally published by Chang et al.(2017)
+Li et al.	PMID28548104;ESCC_224	Tumor	originally published by Chang et al.(2017)
+Li et al.	PMID28548104;ESCC_225	Tumor	originally published by Chang et al.(2017)
+Li et al.	PMID28548104;ESCC_23	Tumor	originally published by Chang et al.(2017)
+Li et al.	PMID28548104;ESCC_234	Tumor	originally published by Chang et al.(2017)
+Li et al.	PMID28548104;ESCC_235	Tumor	originally published by Chang et al.(2017)
+Li et al.	PMID28548104;ESCC_239	Tumor	originally published by Chang et al.(2017)
+Li et al.	PMID28548104;ESCC_24	Tumor	originally published by Chang et al.(2017)
+Li et al.	PMID28548104;ESCC_240	Tumor	originally published by Chang et al.(2017)
+Li et al.	PMID28548104;ESCC_243	Tumor	originally published by Chang et al.(2017)
+Li et al.	PMID28548104;ESCC_245	Tumor	originally published by Chang et al.(2017)
+Li et al.	PMID28548104;ESCC_246	Tumor	originally published by Chang et al.(2017)
+Li et al.	PMID28548104;ESCC_249	Tumor	originally published by Chang et al.(2017)
+Li et al.	PMID28548104;ESCC_26	Tumor	originally published by Chang et al.(2017)
+Li et al.	PMID28548104;ESCC_27	Tumor	originally published by Chang et al.(2017)
+Li et al.	PMID28548104;ESCC_3	Tumor	originally published by Chang et al.(2017)
+Li et al.	PMID28548104;ESCC_35	Tumor	originally published by Chang et al.(2017)
+Li et al.	PMID28548104;ESCC_36	Tumor	originally published by Chang et al.(2017)
+Li et al.	PMID28548104;ESCC_39	Tumor	originally published by Chang et al.(2017)
+Li et al.	PMID28548104;ESCC_42	Tumor	originally published by Chang et al.(2017)
+Li et al.	PMID28548104;ESCC_48	Tumor	originally published by Chang et al.(2017)
+Li et al.	PMID28548104;ESCC_50	Tumor	originally published by Chang et al.(2017)
+Li et al.	PMID28548104;ESCC_54	Tumor	originally published by Chang et al.(2017)
+Li et al.	PMID28548104;ESCC_55	Tumor	originally published by Chang et al.(2017)
+Li et al.	PMID28548104;ESCC_57	Tumor	originally published by Chang et al.(2017)
+Li et al.	PMID28548104;ESCC_58	Tumor	originally published by Chang et al.(2017)
+Li et al.	PMID28548104;ESCC_60	Tumor	originally published by Chang et al.(2017)
+Li et al.	PMID28548104;ESCC_61	Tumor	originally published by Chang et al.(2017)
+Li et al.	PMID28548104;ESCC_62	Tumor	originally published by Chang et al.(2017)
+Li et al.	PMID28548104;ESCC_64	Tumor	originally published by Chang et al.(2017)
+Li et al.	PMID28548104;ESCC_65	Tumor	originally published by Chang et al.(2017)
+Li et al.	PMID28548104;ESCC_E11	Tumor	originally published by Chang et al.(2017)
+Li et al.	PMID28548104;ESCC_E25	Tumor	originally published by Chang et al.(2017)
+Li et al.	PMID28548104;ESCC_E26	Tumor	originally published by Chang et al.(2017)
+Li et al.	PMID28548104;ESCC_E3	Tumor	originally published by Chang et al.(2017)
+Li et al.	PMID28548104;ESCC_E30	Tumor	originally published by Chang et al.(2017)
+Li et al.	PMID28548104;ESCC_E33	Tumor	originally published by Chang et al.(2017)
+Li et al.	PMID28548104;ESCC_E34	Tumor	originally published by Chang et al.(2017)
+Li et al.	PMID28548104;ESCC_E45	Tumor	originally published by Chang et al.(2017)
+Li et al.	PMID28548104;ESCC_E47	Tumor	originally published by Chang et al.(2017)
+Li et al.	PMID28548104;ESCC_E50	Tumor	originally published by Chang et al.(2017)
+Li et al.	PMID28548104;ESCC_E71	Tumor	originally published by Chang et al.(2017)
+Li et al.	PMID28548104;ESCC_E74	Tumor	originally published by Chang et al.(2017)
+Li et al.	PMID28548104;ESCC_E75	Tumor	originally published by Chang et al.(2017)
+Li et al.	PMID28548104;ESCC_E78	Tumor	originally published by Chang et al.(2017)
+Li et al.	PMID28548104;ESCC_E79	Tumor	originally published by Chang et al.(2017)
+Li et al.	PMID28608921;ESCC_10A	Tumor	originally published by Dai et al.(2017)
+Li et al.	PMID28608921;ESCC_11A	Tumor	originally published by Dai et al.(2017)
+Li et al.	PMID28608921;ESCC_12A	Tumor	originally published by Dai et al.(2017)
+Li et al.	PMID28608921;ESCC_15A	Tumor	originally published by Dai et al.(2017)
+Li et al.	PMID28608921;ESCC_16A	Tumor	originally published by Dai et al.(2017)
+Li et al.	PMID28608921;ESCC_17A	Tumor	originally published by Dai et al.(2017)
+Li et al.	PMID28608921;ESCC_18A	Tumor	originally published by Dai et al.(2017)
+Li et al.	PMID28608921;ESCC_19A	Tumor	originally published by Dai et al.(2017)
+Li et al.	PMID28608921;ESCC_1A	Tumor	originally published by Dai et al.(2017)
+Li et al.	PMID28608921;ESCC_21A	Tumor	originally published by Dai et al.(2017)
+Li et al.	PMID28608921;ESCC_22A	Tumor	originally published by Dai et al.(2017)
+Li et al.	PMID28608921;ESCC_23A	Tumor	originally published by Dai et al.(2017)
+Li et al.	PMID28608921;ESCC_24A	Tumor	originally published by Dai et al.(2017)
+Li et al.	PMID28608921;ESCC_26A	Tumor	originally published by Dai et al.(2017)
+Li et al.	PMID28608921;ESCC_29A	Tumor	originally published by Dai et al.(2017)
+Li et al.	PMID28608921;ESCC_2A	Tumor	originally published by Dai et al.(2017)
+Li et al.	PMID28608921;ESCC_30A	Tumor	originally published by Dai et al.(2017)
+Li et al.	PMID28608921;ESCC_31A	Tumor	originally published by Dai et al.(2017)
+Li et al.	PMID28608921;ESCC_33A	Tumor	originally published by Dai et al.(2017)
+Li et al.	PMID28608921;ESCC_34A	Tumor	originally published by Dai et al.(2017)
+Li et al.	PMID28608921;ESCC_35A	Tumor	originally published by Dai et al.(2017)
+Li et al.	PMID28608921;ESCC_36A	Tumor	originally published by Dai et al.(2017)
+Li et al.	PMID28608921;ESCC_37A	Tumor	originally published by Dai et al.(2017)
+Li et al.	PMID28608921;ESCC_39A	Tumor	originally published by Dai et al.(2017)
+Li et al.	PMID28608921;ESCC_3A	Tumor	originally published by Dai et al.(2017)
+Li et al.	PMID28608921;ESCC_41A	Tumor	originally published by Dai et al.(2017)
+Li et al.	PMID28608921;ESCC_43A	Tumor	originally published by Dai et al.(2017)
+Li et al.	PMID28608921;ESCC_49A	Tumor	originally published by Dai et al.(2017)
+Li et al.	PMID28608921;ESCC_4A	Tumor	originally published by Dai et al.(2017)
+Li et al.	PMID28608921;ESCC_52A	Tumor	originally published by Dai et al.(2017)
+Li et al.	PMID28608921;ESCC_57A	Tumor	originally published by Dai et al.(2017)
+Li et al.	PMID28608921;ESCC_5A	Tumor	originally published by Dai et al.(2017)
+Li et al.	PMID28608921;ESCC_62A	Tumor	originally published by Dai et al.(2017)
+Li et al.	PMID28608921;ESCC_66A	Tumor	originally published by Dai et al.(2017)
+Li et al.	PMID28608921;ESCC_6A	Tumor	originally published by Dai et al.(2017)
+Li et al.	PMID28608921;ESCC_8A	Tumor	originally published by Dai et al.(2017)
+Li et al.	PMID28608921;ESCC_9A	Tumor	originally published by Dai et al.(2017)
+Li et al.	PMID28608921;ESCC_B519A	Tumor	originally published by Dai et al.(2017)
+Li et al.	PMID28608921;ESCC_R176A	Tumor	originally published by Dai et al.(2017)
+Li et al.	PMID28608921;ESCC_S1A	Tumor	originally published by Dai et al.(2017)
+Li et al.	PMID28608921;ESCC_S2A	Tumor	originally published by Dai et al.(2017)
+Li et al.	PMID30012096;ZH12	Tumor	originally published by Guo et al.(2018)
+Li et al.	PMID30012096;ZH16	Tumor	originally published by Guo et al.(2018)
+Li et al.	PMID30012096;ZH17	Tumor	originally published by Guo et al.(2018)
+Li et al.	PMID30012096;ZH19	Tumor	originally published by Guo et al.(2018)
+Li et al.	PMID30012096;ZH22	Tumor	originally published by Guo et al.(2018)
+Li et al.	PMID30012096;ZH23	Tumor	originally published by Guo et al.(2018)
+Li et al.	PMID30012096;ZH24	Tumor	originally published by Guo et al.(2018)
+Li et al.	PMID30012096;ZH25	Tumor	originally published by Guo et al.(2018)
+Li et al.	PMID30012096;ZH26	Tumor	originally published by Guo et al.(2018)
+Li et al.	PMID30975989;ESCC001	Tumor	originally published by Yan et al.(2019)
+Li et al.	PMID30975989;ESCC002	Tumor	originally published by Yan et al.(2019)
+Li et al.	PMID30975989;ESCC004	Tumor	originally published by Yan et al.(2019)
+Li et al.	PMID30975989;ESCC005	Tumor	originally published by Yan et al.(2019)
+Li et al.	PMID30975989;ESCC006	Tumor	originally published by Yan et al.(2019)
+Li et al.	PMID30975989;ESCC007	Tumor	originally published by Yan et al.(2019)
+Li et al.	PMID30975989;ESCC008	Tumor	originally published by Yan et al.(2019)
+Li et al.	PMID30975989;ESCC009	Tumor	originally published by Yan et al.(2019)
+Li et al.	PMID30975989;ESCC010	Tumor	originally published by Yan et al.(2019)
+Li et al.	PMID30975989;ESCC011	Tumor	originally published by Yan et al.(2019)
+Li et al.	PMID30975989;ESCC012	Tumor	originally published by Yan et al.(2019)
+Li et al.	PMID30975989;ESCC014	Tumor	originally published by Yan et al.(2019)
+Li et al.	PMID30975989;ESCC015	Tumor	originally published by Yan et al.(2019)
+Li et al.	PMID30975989;ESCC016	Tumor	originally published by Yan et al.(2019)
+Li et al.	PMID30975989;ESCC018	Tumor	originally published by Yan et al.(2019)
+Li et al.	PMID30975989;ESCC019	Tumor	originally published by Yan et al.(2019)
+Li et al.	PMID30975989;ESCC021	Tumor	originally published by Yan et al.(2019)
+Li et al.	PMID30975989;ESCC022	Tumor	originally published by Yan et al.(2019)
+Li et al.	PMID30975989;ESCC023	Tumor	originally published by Yan et al.(2019)
+Li et al.	PMID30975989;ESCC024	Tumor	originally published by Yan et al.(2019)
+Li et al.	PMID30975989;ESCC025	Tumor	originally published by Yan et al.(2019)
+Li et al.	PMID30975989;ESCC026	Tumor	originally published by Yan et al.(2019)
+Li et al.	PMID30975989;ESCC027	Tumor	originally published by Yan et al.(2019)
+Li et al.	PMID30975989;ESCC028	Tumor	originally published by Yan et al.(2019)
+Li et al.	PMID30975989;ESCC029	Tumor	originally published by Yan et al.(2019)
+Li et al.	PMID30975989;ESCC030	Tumor	originally published by Yan et al.(2019)
+Li et al.	PMID30975989;ESCC031	Tumor	originally published by Yan et al.(2019)
+Li et al.	PMID30975989;ESCC032	Tumor	originally published by Yan et al.(2019)
+Li et al.	PMID30975989;ESCC033	Tumor	originally published by Yan et al.(2019)
+Li et al.	PMID30975989;ESCC034	Tumor	originally published by Yan et al.(2019)
+Li et al.	PMID30975989;ESCC035	Tumor	originally published by Yan et al.(2019)
+Li et al.	PMID30975989;ESCC036	Tumor	originally published by Yan et al.(2019)
+Li et al.	PMID30975989;ESCC037	Tumor	originally published by Yan et al.(2019)
+Li et al.	PMID30975989;ESCC038	Tumor	originally published by Yan et al.(2019)
+Li et al.	PMID30975989;ESCC039	Tumor	originally published by Yan et al.(2019)
+Li et al.	PMID30975989;ESCC042	Tumor	originally published by Yan et al.(2019)
+Li et al.	PMID30975989;ESCC043	Tumor	originally published by Yan et al.(2019)
+Li et al.	PMID30975989;ESCC044	Tumor	originally published by Yan et al.(2019)
+Li et al.	PMID30975989;ESCC045	Tumor	originally published by Yan et al.(2019)
+Li et al.	PMID31289612;11489	Tumor	originally published by Urabe et al.(2019)
+Li et al.	PMID31289612;11515	Tumor	originally published by Urabe et al.(2019)
+Li et al.	PMID31289612;22739	Tumor	originally published by Urabe et al.(2019)
+Li et al.	PMID31289612;22780	Tumor	originally published by Urabe et al.(2019)
+Li et al.	PMID31289612;22833	Tumor	originally published by Urabe et al.(2019)
+Li et al.	PMID31289612;23658	Tumor	originally published by Urabe et al.(2019)
+Li et al.	PMID31289612;23727	Tumor	originally published by Urabe et al.(2019)
+Li et al.	PMID31289612;24311	Tumor	originally published by Urabe et al.(2019)
+Li et al.	PMID31289612;24411	Tumor	originally published by Urabe et al.(2019)
+Li et al.	PMID31289612;25074	Tumor	originally published by Urabe et al.(2019)
+Li et al.	PMID31289612;25089	Tumor	originally published by Urabe et al.(2019)
+Li et al.	PMID31289612;25178	Tumor	originally published by Urabe et al.(2019)
+Li et al.	PMID31289612;25243	Tumor	originally published by Urabe et al.(2019)
+Li et al.	PMID31289612;25287	Tumor	originally published by Urabe et al.(2019)
+Li et al.	PMID31289612;26694	Tumor	originally published by Urabe et al.(2019)
+Li et al.	PMID31289612;26723	Tumor	originally published by Urabe et al.(2019)
+Li et al.	PMID32398863;BDESCC-01-001	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-005	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-011	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-012	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-013	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-014	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-015	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-025	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-031	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-032	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-033	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-036	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-037	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-038	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-042	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-045	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-046	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-048	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-050	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-051	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-054	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-055	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-056	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-058	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-059	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-064	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-065	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-066	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-067	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-069	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-070	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-072	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-074	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-076	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-078	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-079	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-080	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-081	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-084	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-085	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-088	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-091	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-092	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-093	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-096	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-097	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-1000	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-103	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-105	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-107	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-111	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-112	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-115	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-116	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-118	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-121	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-123	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-129	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-130	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-131	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-135	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-136	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-142	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-143	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-146	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-147	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-148	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-150	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-151	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-152	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-154	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-155	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-158	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-159	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-160	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-161	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-163	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-164	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-165	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-166	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-167	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-171	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-174	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-175	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-176	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-177	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-183	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-185	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-186	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-189	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-192	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-195	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-197	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-198	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-199	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-207	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-208	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-209	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-210	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-211	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-214	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-216	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-217	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-220	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-223	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-224	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-225	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-226	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-231	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-232	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-234	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-235	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-236	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-237	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-238	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-239	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-240	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-241	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-242	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-243	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-244	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-245	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-249	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-251	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-252	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-255	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-256	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-257	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-258	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-262	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-267	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-270	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-271	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-272	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-274	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-275	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-277	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-278	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-280	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-281	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-282	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-283	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-287	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-289	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-292	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-295	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-299	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-301	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-302	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-304	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-305	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-309	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-310	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-311	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-314	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-315	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-316	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-319	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-320	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-322	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-323	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-324	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-325	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-327	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-329	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-331	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-335	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-338	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-340	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-341	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-343	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-344	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-345	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-346	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-350	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-351	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-354	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-356	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-359	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-364	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-366	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-368	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-371	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-372	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-376	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-380	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-381	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-382	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-384	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-386	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-387	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-391	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-392	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-397	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-399	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-401	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-403	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-404	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-408	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-409	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-410	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-412	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-414	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-415	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-417	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-418	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-421	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-422	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-423	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-424	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-426	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-429	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-430	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-432	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-435	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-436	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-437	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-438	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-440	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-442	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-443	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-445	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-446	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-447	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-450	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-451	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-452	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-453	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-454	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-457	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-458	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-459	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-461	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-464	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-467	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-471	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-474	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-475	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-476	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-478	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-482	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-483	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-485	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-486	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-487	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-489	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-490	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-491	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-494	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-495	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-497	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-501	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-503	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-505	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-506	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-507	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-510	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-511	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-512	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-513	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-516	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-517	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-518	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-519	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-520	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-522	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-523	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-526	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-528	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-529	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-532	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-537	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-539	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-540	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-541	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-542	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-543	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-544	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-545	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-546	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-547	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-551	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-552	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-553	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-554	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-555	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-557	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-560	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-562	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-565	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-566	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-568	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-570	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-572	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-573	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-574	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-575	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-578	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-579	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-580	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-583	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-584	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-586	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-588	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-589	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-591	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-592	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-594	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-595	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-599	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-600	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-601	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-603	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-606	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-607	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-611	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-613	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-615	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-618	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-619	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-621	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-622	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-627	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-631	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-634	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-635	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-640	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-641	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-642	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-643	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-644	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-647	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-650	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-652	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-653	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-654	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-655	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-656	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-657	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-659	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-663	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-664	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-665	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-666	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-667	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-668	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-670	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-672	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-673	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-676	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-677	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-680	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-681	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-683	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-684	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-685	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-686	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-687	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-688	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-691	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-693	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-694	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-695	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-698	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-699	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-702	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-706	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-709	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-710	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-712	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-715	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-716	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-717	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-718	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-719	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-722	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-723	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-728	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-730	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-732	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-734	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-736	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-740	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-744	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-749	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-751	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-753	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-754	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-755	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-758	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-761	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-763	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-765	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-767	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-769	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-770	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-771	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-775	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-776	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-777	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-778	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-780	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-781	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-782	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-783	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-785	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-786	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-787	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-789	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-791	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-793	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-794	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-796	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-801	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-805	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-809	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-812	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-816	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-819	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-820	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-821	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-822	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-823	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-824	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-826	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-829	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-832	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-836	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-838A	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-838B	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-841	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-842	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-843	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-844	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-845	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-846	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-847	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-851	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-855	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-858	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-859	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-860	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-861	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-862	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-865	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-866	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-869	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-870	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-871	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-873	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-874	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-875	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-880	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-881	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-885	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-886	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-887	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-888	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-890	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-893	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-894	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-897	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-900	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-901	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-903	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-907	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-908	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-910	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-911	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-913	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-914	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-915	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-916	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-918	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-922	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-924	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-927	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-935	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-936	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-937	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-939	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-942	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-943	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-948	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-950	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-951	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-956	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-960	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-961	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-962	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-963	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-968	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-973	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-974	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-976	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-977	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-980	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-982	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-983	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-986	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-987	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-989	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-992	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-993	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-994	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-995	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-996	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32398863;BDESCC-01-999	Tumor	originally published by Cui et al.(2020)
+Li et al.	PMID32974170;42473	Tumor	originally published by Mangalaparthi et al.(2018)
+Li et al.	PMID32974170;42474	Tumor	originally published by Mangalaparthi et al.(2018)
+Li et al.	PMID32974170;42475	Tumor	originally published by Mangalaparthi et al.(2018)
+Li et al.	PMID32974170;42476	Tumor	originally published by Mangalaparthi et al.(2018)
+Li et al.	PMID32974170;42477	Tumor	originally published by Mangalaparthi et al.(2018)
+Li et al.	PMID32974170;42478	Tumor	originally published by Mangalaparthi et al.(2018)
+Li et al.	PMID32974170;42479	Tumor	originally published by Mangalaparthi et al.(2018)
+Li et al.	PMID32974170;42480	Tumor	originally published by Mangalaparthi et al.(2018)
+Li et al.	PMID32974170;42481	Tumor	originally published by Mangalaparthi et al.(2018)
+Li et al.	PMID32974170;42492	Tumor	originally published by Mangalaparthi et al.(2018)
+Li et al.	PMID32974170;42493	Tumor	originally published by Mangalaparthi et al.(2018)
+Li et al.	PMID32974170;42494	Tumor	originally published by Mangalaparthi et al.(2018)
+Li et al.	PMID32974170;42495	Tumor	originally published by Mangalaparthi et al.(2018)
+Li et al.	PMID32974170;42496	Tumor	originally published by Mangalaparthi et al.(2018)
+Li et al.	PMID32974170;42497	Tumor	originally published by Mangalaparthi et al.(2018)
+Li et al.	PMID32974170;42498	Tumor	originally published by Mangalaparthi et al.(2018)
+Li et al.	PMID32974170;42499	Tumor	originally published by Mangalaparthi et al.(2018)
+Li et al.	PMID32974170;42500	Tumor	originally published by Mangalaparthi et al.(2018)
+Li et al.	PMID32974170;42501	Tumor	originally published by Mangalaparthi et al.(2018)
+Li et al.	PMID32974170;56957	Tumor	originally published by Mangalaparthi et al.(2018)
+Li et al.	PMID32974170;56958	Tumor	originally published by Mangalaparthi et al.(2018)
+Li et al.	PMID34263978;12	Tumor	originally published by Takemoto et al.(2021)
+Li et al.	PMID34263978;12T	Tumor	originally published by Takemoto et al.(2021)
+Li et al.	PMID34263978;13T	Tumor	originally published by Takemoto et al.(2021)
+Li et al.	PMID34263978;14T	Tumor	originally published by Takemoto et al.(2021)
+Li et al.	PMID34263978;15	Tumor	originally published by Takemoto et al.(2021)
+Li et al.	PMID34263978;16	Tumor	originally published by Takemoto et al.(2021)
+Li et al.	PMID34263978;17	Tumor	originally published by Takemoto et al.(2021)
+Li et al.	PMID34263978;2	Tumor	originally published by Takemoto et al.(2021)
+Li et al.	PMID34263978;21T	Tumor	originally published by Takemoto et al.(2021)
+Li et al.	PMID34263978;23	Tumor	originally published by Takemoto et al.(2021)
+Li et al.	PMID34263978;23T	Tumor	originally published by Takemoto et al.(2021)
+Li et al.	PMID34263978;25	Tumor	originally published by Takemoto et al.(2021)
+Li et al.	PMID34263978;26T	Tumor	originally published by Takemoto et al.(2021)
+Li et al.	PMID34263978;28T	Tumor	originally published by Takemoto et al.(2021)
+Li et al.	PMID34263978;29T	Tumor	originally published by Takemoto et al.(2021)
+Li et al.	PMID34263978;3	Tumor	originally published by Takemoto et al.(2021)
+Li et al.	PMID34263978;30T	Tumor	originally published by Takemoto et al.(2021)
+Li et al.	PMID34263978;31	Tumor	originally published by Takemoto et al.(2021)
+Li et al.	PMID34263978;32	Tumor	originally published by Takemoto et al.(2021)
+Li et al.	PMID34263978;32T	Tumor	originally published by Takemoto et al.(2021)
+Li et al.	PMID34263978;36T	Tumor	originally published by Takemoto et al.(2021)
+Li et al.	PMID34263978;37	Tumor	originally published by Takemoto et al.(2021)
+Li et al.	PMID34263978;39	Tumor	originally published by Takemoto et al.(2021)
+Li et al.	PMID34263978;4	Tumor	originally published by Takemoto et al.(2021)
+Li et al.	PMID34263978;40	Tumor	originally published by Takemoto et al.(2021)
+Li et al.	PMID34263978;41T	Tumor	originally published by Takemoto et al.(2021)
+Li et al.	PMID34263978;42T	Tumor	originally published by Takemoto et al.(2021)
+Li et al.	PMID34263978;43T	Tumor	originally published by Takemoto et al.(2021)
+Li et al.	PMID34263978;44T	Tumor	originally published by Takemoto et al.(2021)
+Li et al.	PMID34263978;46T	Tumor	originally published by Takemoto et al.(2021)
+Li et al.	PMID34263978;48T	Tumor	originally published by Takemoto et al.(2021)
+Li et al.	PMID34263978;49	Tumor	originally published by Takemoto et al.(2021)
+Li et al.	PMID34263978;49T	Tumor	originally published by Takemoto et al.(2021)
+Li et al.	PMID34263978;4T	Tumor	originally published by Takemoto et al.(2021)
+Li et al.	PMID34263978;50T	Tumor	originally published by Takemoto et al.(2021)
+Li et al.	PMID34263978;51	Tumor	originally published by Takemoto et al.(2021)
+Li et al.	PMID34263978;51T	Tumor	originally published by Takemoto et al.(2021)
+Li et al.	PMID34263978;52T	Tumor	originally published by Takemoto et al.(2021)
+Li et al.	PMID34263978;53T	Tumor	originally published by Takemoto et al.(2021)
+Li et al.	PMID34263978;54	Tumor	originally published by Takemoto et al.(2021)
+Li et al.	PMID34263978;54T	Tumor	originally published by Takemoto et al.(2021)
+Li et al.	PMID34263978;55T	Tumor	originally published by Takemoto et al.(2021)
+Li et al.	PMID34263978;56	Tumor	originally published by Takemoto et al.(2021)
+Li et al.	PMID34263978;56T	Tumor	originally published by Takemoto et al.(2021)
+Li et al.	PMID34263978;57	Tumor	originally published by Takemoto et al.(2021)
+Li et al.	PMID34263978;57T	Tumor	originally published by Takemoto et al.(2021)
+Li et al.	PMID34263978;59	Tumor	originally published by Takemoto et al.(2021)
+Li et al.	PMID34263978;6	Tumor	originally published by Takemoto et al.(2021)
+Li et al.	PMID34263978;60	Tumor	originally published by Takemoto et al.(2021)
+Li et al.	PMID34263978;61	Tumor	originally published by Takemoto et al.(2021)
+Li et al.	PMID34263978;62	Tumor	originally published by Takemoto et al.(2021)
+Li et al.	PMID34263978;6T	Tumor	originally published by Takemoto et al.(2021)
+Li et al.	PMID34263978;72	Tumor	originally published by Takemoto et al.(2021)
+Li et al.	PMID34263978;73	Tumor	originally published by Takemoto et al.(2021)
+Li et al.	PMID34263978;74	Tumor	originally published by Takemoto et al.(2021)
+Li et al.	PMID34263978;77	Tumor	originally published by Takemoto et al.(2021)
+Li et al.	PMID34263978;79	Tumor	originally published by Takemoto et al.(2021)
+Li et al.	PMID34263978;8	Tumor	originally published by Takemoto et al.(2021)
+Li et al.	PMID34263978;80	Tumor	originally published by Takemoto et al.(2021)
+Li et al.	PMID34263978;84	Tumor	originally published by Takemoto et al.(2021)
+Li et al.	PMID34263978;85	Tumor	originally published by Takemoto et al.(2021)
+Li et al.	PMID34263978;86	Tumor	originally published by Takemoto et al.(2021)
+Li et al.	PMID34263978;89	Tumor	originally published by Takemoto et al.(2021)
+Li et al.	PMID34263978;9	Tumor	originally published by Takemoto et al.(2021)
+Li et al.	PMID34263978;94	Tumor	originally published by Takemoto et al.(2021)
+Li et al.	PMID34263978;95	Tumor	originally published by Takemoto et al.(2021)
+Li et al.	PMID34263978;96	Tumor	originally published by Takemoto et al.(2021)
+Li et al.	PMID34263978;9T	Tumor	originally published by Takemoto et al.(2021)
+Li et al.	PMID34263978;DR029	Tumor	originally published by Takemoto et al.(2021)
+Li et al.	PMID34263978;DR041	Tumor	originally published by Takemoto et al.(2021)
+Li et al.	PMID34263978;DR044	Tumor	originally published by Takemoto et al.(2021)
+Li et al.	PMID34263978;DR079	Tumor	originally published by Takemoto et al.(2021)
+Li et al.	PMID34263978;DR099	Tumor	originally published by Takemoto et al.(2021)
+Li et al.	PMID34263978;DR106	Tumor	originally published by Takemoto et al.(2021)
+Li et al.	PMID34263978;DR107	Tumor	originally published by Takemoto et al.(2021)
+Li et al.	PMID34263978;DR134	Tumor	originally published by Takemoto et al.(2021)
+Li et al.	PMID34263978;DR148	Tumor	originally published by Takemoto et al.(2021)
+Li et al.	PMID34263978;DR150	Tumor	originally published by Takemoto et al.(2021)
+Li et al.	PMID34263978;DR154	Tumor	originally published by Takemoto et al.(2021)
+Li et al.	PMID34263978;DR158	Tumor	originally published by Takemoto et al.(2021)
+Li et al.	PMID34263978;DR169	Tumor	originally published by Takemoto et al.(2021)
+Li et al.	PMID34263978;DR178	Tumor	originally published by Takemoto et al.(2021)
+Li et al.	PMID34263978;DR186	Tumor	originally published by Takemoto et al.(2021)
+Li et al.	PMID34263978;DR216	Tumor	originally published by Takemoto et al.(2021)
+Li et al.	PMID34263978;DR217	Tumor	originally published by Takemoto et al.(2021)
+Li et al.	PMID34263978;DR220	Tumor	originally published by Takemoto et al.(2021)
+Li et al.	PMID34263978;DR230	Tumor	originally published by Takemoto et al.(2021)
+Li et al.	PMID34263978;DR240	Tumor	originally published by Takemoto et al.(2021)
+Li et al.	PMID34285259;T1	Tumor	originally published by Erkizan et al.(2021)
+Li et al.	PMID34285259;T14	Tumor	originally published by Erkizan et al.(2021)
+Li et al.	PMID34285259;T15	Tumor	originally published by Erkizan et al.(2021)
+Li et al.	PMID34285259;T16	Tumor	originally published by Erkizan et al.(2021)
+Li et al.	PMID34285259;T19	Tumor	originally published by Erkizan et al.(2021)
+Li et al.	PMID34285259;T5	Tumor	originally published by Erkizan et al.(2021)
+Li et al.	PMID34285259;T6	Tumor	originally published by Erkizan et al.(2021)
+Li et al.	PMID34285259;T7	Tumor	originally published by Erkizan et al.(2021)
+Li et al.	PMID34285259;T8	Tumor	originally published by Erkizan et al.(2021)
+Li et al.	PMID34285259;T9	Tumor	originally published by Erkizan et al.(2021)
+Li et al.	PMID34413060;Case_A	Tumor	originally published by Hirata et al.(2021)
+Li et al.	PMID34413060;Case_B	Tumor	originally published by Hirata et al.(2021)
+Li et al.	PMID34413060;Case_C	Tumor	originally published by Hirata et al.(2021)
+Li et al.	PMID34413060;Case_D	Tumor	originally published by Hirata et al.(2021)
+Li et al.	PMID34413060;Case_E	Tumor	originally published by Hirata et al.(2021)
+Li et al.	TCGA;TCGA-IC-A6RF	Tumor	originally from TCGA
+Li et al.	TCGA;TCGA-IG-A3I8	Tumor	originally from TCGA
+Li et al.	TCGA;TCGA-IG-A3QL	Tumor	originally from TCGA
+Li et al.	TCGA;TCGA-IG-A3Y9	Tumor	originally from TCGA
+Li et al.	TCGA;TCGA-IG-A3YA	Tumor	originally from TCGA
+Li et al.	TCGA;TCGA-IG-A3YB	Tumor	originally from TCGA
+Li et al.	TCGA;TCGA-IG-A3YC	Tumor	originally from TCGA
+Li et al.	TCGA;TCGA-IG-A4P3	Tumor	originally from TCGA
+Li et al.	TCGA;TCGA-IG-A4QT	Tumor	originally from TCGA
+Li et al.	TCGA;TCGA-IG-A50L	Tumor	originally from TCGA
+Li et al.	TCGA;TCGA-IG-A51D	Tumor	originally from TCGA
+Li et al.	TCGA;TCGA-IG-A5B8	Tumor	originally from TCGA
+Li et al.	TCGA;TCGA-IG-A5S3	Tumor	originally from TCGA
+Li et al.	TCGA;TCGA-IG-A625	Tumor	originally from TCGA
+Li et al.	TCGA;TCGA-IG-A6QS	Tumor	originally from TCGA
+Li et al.	TCGA;TCGA-IG-A8O2	Tumor	originally from TCGA
+Li et al.	TCGA;TCGA-IG-A97H	Tumor	originally from TCGA
+Li et al.	TCGA;TCGA-IG-A97I	Tumor	originally from TCGA
+Li et al.	TCGA;TCGA-JY-A6FA	Tumor	originally from TCGA
+Li et al.	TCGA;TCGA-JY-A6FD	Tumor	originally from TCGA
+Li et al.	TCGA;TCGA-JY-A6FE	Tumor	originally from TCGA
+Li et al.	TCGA;TCGA-JY-A93F	Tumor	originally from TCGA
+Li et al.	TCGA;TCGA-KH-A6WC	Tumor	originally from TCGA
+Li et al.	TCGA;TCGA-L5-A43H	Tumor	originally from TCGA
+Li et al.	TCGA;TCGA-L5-A43J	Tumor	originally from TCGA
+Li et al.	TCGA;TCGA-L5-A88S	Tumor	originally from TCGA
+Li et al.	TCGA;TCGA-L5-A88W	Tumor	originally from TCGA
+Li et al.	TCGA;TCGA-L5-A88Z	Tumor	originally from TCGA
+Li et al.	TCGA;TCGA-L5-A8NK	Tumor	originally from TCGA
+Li et al.	TCGA;TCGA-L5-A8NQ	Tumor	originally from TCGA
+Li et al.	TCGA;TCGA-L7-A56G	Tumor	originally from TCGA
+Li et al.	TCGA;TCGA-LN-A49K	Tumor	originally from TCGA
+Li et al.	TCGA;TCGA-LN-A49L	Tumor	originally from TCGA
+Li et al.	TCGA;TCGA-LN-A49M	Tumor	originally from TCGA
+Li et al.	TCGA;TCGA-LN-A49N	Tumor	originally from TCGA
+Li et al.	TCGA;TCGA-LN-A49O	Tumor	originally from TCGA
+Li et al.	TCGA;TCGA-LN-A49P	Tumor	originally from TCGA
+Li et al.	TCGA;TCGA-LN-A49R	Tumor	originally from TCGA
+Li et al.	TCGA;TCGA-LN-A49S	Tumor	originally from TCGA
+Li et al.	TCGA;TCGA-LN-A49U	Tumor	originally from TCGA
+Li et al.	TCGA;TCGA-LN-A49V	Tumor	originally from TCGA
+Li et al.	TCGA;TCGA-LN-A49W	Tumor	originally from TCGA
+Li et al.	TCGA;TCGA-LN-A49X	Tumor	originally from TCGA
+Li et al.	TCGA;TCGA-LN-A49Y	Tumor	originally from TCGA
+Li et al.	TCGA;TCGA-LN-A4A1	Tumor	originally from TCGA
+Li et al.	TCGA;TCGA-LN-A4A2	Tumor	originally from TCGA
+Li et al.	TCGA;TCGA-LN-A4A3	Tumor	originally from TCGA
+Li et al.	TCGA;TCGA-LN-A4A4	Tumor	originally from TCGA
+Li et al.	TCGA;TCGA-LN-A4A5	Tumor	originally from TCGA
+Li et al.	TCGA;TCGA-LN-A4A6	Tumor	originally from TCGA
+Li et al.	TCGA;TCGA-LN-A4A8	Tumor	originally from TCGA
+Li et al.	TCGA;TCGA-LN-A4A9	Tumor	originally from TCGA
+Li et al.	TCGA;TCGA-LN-A4MQ	Tumor	originally from TCGA
+Li et al.	TCGA;TCGA-LN-A4MR	Tumor	originally from TCGA
+Li et al.	TCGA;TCGA-LN-A5U5	Tumor	originally from TCGA
+Li et al.	TCGA;TCGA-LN-A5U6	Tumor	originally from TCGA
+Li et al.	TCGA;TCGA-LN-A5U7	Tumor	originally from TCGA
+Li et al.	TCGA;TCGA-LN-A7HV	Tumor	originally from TCGA
+Li et al.	TCGA;TCGA-LN-A7HW	Tumor	originally from TCGA
+Li et al.	TCGA;TCGA-LN-A7HX	Tumor	originally from TCGA
+Li et al.	TCGA;TCGA-LN-A7HY	Tumor	originally from TCGA
+Li et al.	TCGA;TCGA-LN-A7HZ	Tumor	originally from TCGA
+Li et al.	TCGA;TCGA-LN-A8HZ	Tumor	originally from TCGA
+Li et al.	TCGA;TCGA-LN-A8I0	Tumor	originally from TCGA
+Li et al.	TCGA;TCGA-LN-A8I1	Tumor	originally from TCGA
+Li et al.	TCGA;TCGA-LN-A9FO	Tumor	originally from TCGA
+Li et al.	TCGA;TCGA-LN-A9FP	Tumor	originally from TCGA
+Li et al.	TCGA;TCGA-LN-A9FQ	Tumor	originally from TCGA
+Li et al.	TCGA;TCGA-LN-A9FR	Tumor	originally from TCGA
+Li et al.	TCGA;TCGA-Q9-A6FU	Tumor	originally from TCGA
+Li et al.	TCGA;TCGA-S8-A6BW	Tumor	originally from TCGA
+Li et al.	TCGA;TCGA-V5-A7RC	Tumor	originally from TCGA
+Li et al.	TCGA;TCGA-V5-AASV	Tumor	originally from TCGA
+Li et al.	TCGA;TCGA-VR-A8EO	Tumor	originally from TCGA
+Li et al.	TCGA;TCGA-VR-A8EP	Tumor	originally from TCGA
+Li et al.	TCGA;TCGA-VR-A8ER	Tumor	originally from TCGA
+Li et al.	TCGA;TCGA-VR-A8ET	Tumor	originally from TCGA
+Li et al.	TCGA;TCGA-VR-A8EU	Tumor	originally from TCGA
+Li et al.	TCGA;TCGA-VR-A8EW	Tumor	originally from TCGA
+Li et al.	TCGA;TCGA-VR-A8EX	Tumor	originally from TCGA
+Li et al.	TCGA;TCGA-VR-A8EY	Tumor	originally from TCGA
+Li et al.	TCGA;TCGA-VR-A8EZ	Tumor	originally from TCGA
+Li et al.	TCGA;TCGA-VR-A8Q7	Tumor	originally from TCGA
+Li et al.	TCGA;TCGA-VR-AA4G	Tumor	originally from TCGA
+Li et al.	TCGA;TCGA-VR-AA7B	Tumor	originally from TCGA
+Li et al.	TCGA;TCGA-VR-AA7D	Tumor	originally from TCGA
+Li et al.	TCGA;TCGA-VR-AA7I	Tumor	originally from TCGA
+Li et al.	TCGA;TCGA-XP-A8T6	Tumor	originally from TCGA
+Li et al.	TCGA;TCGA-XP-A8T7	Tumor	originally from TCGA
+Li et al.	TCGA;TCGA-XP-A8T8	Tumor	originally from TCGA
+Li et al.	TCGA;TCGA-Z6-A8JD	Tumor	originally from TCGA
+Li et al.	TCGA;TCGA-Z6-A8JE	Tumor	originally from TCGA
+Li et al.	TCGA;TCGA-Z6-A9VB	Tumor	originally from TCGA
+Li et al.	TCGA;TCGA-Z6-AAPN	Tumor	originally from TCGA
+Yokoyama et al.	UPN100_ND	Normal	N/A
+Yokoyama et al.	UPN100_PC	Tumor	N/A
+Yokoyama et al.	UPN101_ND	Normal	N/A
+Yokoyama et al.	UPN101_PC	Tumor	N/A
+Yokoyama et al.	UPN102_ND	Normal	N/A
+Yokoyama et al.	UPN102_PC	Tumor	N/A
+Yokoyama et al.	UPN103_ND	Normal	N/A
+Yokoyama et al.	UPN104_ND	Normal	N/A
+Yokoyama et al.	UPN104_PC	Tumor	N/A
+Yokoyama et al.	UPN105_ND	Normal	N/A
+Yokoyama et al.	UPN105_PC	Tumor	N/A
+Yokoyama et al.	UPN106_ND	Normal	N/A
+Yokoyama et al.	UPN106_PC	Tumor	N/A
+Yokoyama et al.	UPN107_ND	Normal	N/A
+Yokoyama et al.	UPN107_PC	Tumor	N/A
+Yokoyama et al.	UPN108_ND	Normal	N/A
+Yokoyama et al.	UPN108_PC	Tumor	N/A
+Yokoyama et al.	UPN109_ND	Normal	N/A
+Yokoyama et al.	UPN109_PC	Tumor	N/A
+Yokoyama et al.	UPN10_ND	Normal	N/A
+Yokoyama et al.	UPN10_PC	Tumor	N/A
+Yokoyama et al.	UPN110_PC	Tumor	N/A
+Yokoyama et al.	UPN111_ND	Normal	N/A
+Yokoyama et al.	UPN111_PC	Tumor	N/A
+Yokoyama et al.	UPN112_ND	Normal	N/A
+Yokoyama et al.	UPN112_PC	Tumor	N/A
+Yokoyama et al.	UPN113_ND	Normal	N/A
+Yokoyama et al.	UPN113_PC	Tumor	N/A
+Yokoyama et al.	UPN114_ND	Normal	N/A
+Yokoyama et al.	UPN114_PC	Tumor	N/A
+Yokoyama et al.	UPN115_ND	Normal	N/A
+Yokoyama et al.	UPN115_PC	Tumor	N/A
+Yokoyama et al.	UPN116_ND	Normal	N/A
+Yokoyama et al.	UPN116_PC	Tumor	N/A
+Yokoyama et al.	UPN117_ND	Normal	N/A
+Yokoyama et al.	UPN117_PC	Tumor	N/A
+Yokoyama et al.	UPN118_ND	Normal	N/A
+Yokoyama et al.	UPN118_PC	Tumor	N/A
+Yokoyama et al.	UPN119_ND	Normal	N/A
+Yokoyama et al.	UPN119_PC	Tumor	N/A
+Yokoyama et al.	UPN11_ND	Normal	N/A
+Yokoyama et al.	UPN11_PC	Tumor	N/A
+Yokoyama et al.	UPN120_ND	Normal	N/A
+Yokoyama et al.	UPN120_PC	Tumor	N/A
+Yokoyama et al.	UPN121_ND	Normal	N/A
+Yokoyama et al.	UPN121_PC	Tumor	N/A
+Yokoyama et al.	UPN122_ND	Normal	N/A
+Yokoyama et al.	UPN122_PC	Tumor	N/A
+Yokoyama et al.	UPN123_ND	Normal	N/A
+Yokoyama et al.	UPN123_PC	Tumor	N/A
+Yokoyama et al.	UPN124_ND	Normal	N/A
+Yokoyama et al.	UPN124_PC	Tumor	N/A
+Yokoyama et al.	UPN125_ND	Normal	N/A
+Yokoyama et al.	UPN125_PC	Tumor	N/A
+Yokoyama et al.	UPN126_ND	Normal	N/A
+Yokoyama et al.	UPN126_PC	Tumor	N/A
+Yokoyama et al.	UPN127_ND	Normal	N/A
+Yokoyama et al.	UPN127_PC	Tumor	N/A
+Yokoyama et al.	UPN128_ND	Normal	N/A
+Yokoyama et al.	UPN128_PC	Tumor	N/A
+Yokoyama et al.	UPN129_ND	Normal	N/A
+Yokoyama et al.	UPN129_PC	Tumor	N/A
+Yokoyama et al.	UPN12_ND	Normal	N/A
+Yokoyama et al.	UPN12_PC	Tumor	N/A
+Yokoyama et al.	UPN130_ND	Normal	N/A
+Yokoyama et al.	UPN130_PC	Tumor	N/A
+Yokoyama et al.	UPN131_ND	Normal	N/A
+Yokoyama et al.	UPN131_PC	Tumor	N/A
+Yokoyama et al.	UPN132_ND	Normal	N/A
+Yokoyama et al.	UPN132_PC	Tumor	N/A
+Yokoyama et al.	UPN133_ND	Normal	N/A
+Yokoyama et al.	UPN133_PC	Tumor	N/A
+Yokoyama et al.	UPN13_ND	Normal	N/A
+Yokoyama et al.	UPN14_ND	Normal	N/A
+Yokoyama et al.	UPN14_PC	Tumor	N/A
+Yokoyama et al.	UPN15_ND	Normal	N/A
+Yokoyama et al.	UPN15_PC	Tumor	N/A
+Yokoyama et al.	UPN16_ND	Normal	N/A
+Yokoyama et al.	UPN16_PC	Tumor	N/A
+Yokoyama et al.	UPN17_ND	Normal	N/A
+Yokoyama et al.	UPN17_PC	Tumor	N/A
+Yokoyama et al.	UPN18_PC	Tumor	N/A
+Yokoyama et al.	UPN19_PC	Tumor	N/A
+Yokoyama et al.	UPN1_ND	Normal	N/A
+Yokoyama et al.	UPN1_PC	Tumor	N/A
+Yokoyama et al.	UPN20_ND	Normal	N/A
+Yokoyama et al.	UPN20_PC	Tumor	N/A
+Yokoyama et al.	UPN21_PC	Tumor	N/A
+Yokoyama et al.	UPN22_ND	Normal	N/A
+Yokoyama et al.	UPN22_PC	Tumor	N/A
+Yokoyama et al.	UPN23_ND	Normal	N/A
+Yokoyama et al.	UPN23_PC	Tumor	N/A
+Yokoyama et al.	UPN24_ND	Normal	N/A
+Yokoyama et al.	UPN24_PC	Tumor	N/A
+Yokoyama et al.	UPN25_ND	Normal	N/A
+Yokoyama et al.	UPN25_PC	Tumor	N/A
+Yokoyama et al.	UPN26_ND	Normal	N/A
+Yokoyama et al.	UPN26_PC	Tumor	N/A
+Yokoyama et al.	UPN27_ND	Normal	N/A
+Yokoyama et al.	UPN27_PC	Tumor	N/A
+Yokoyama et al.	UPN28_ND	Normal	N/A
+Yokoyama et al.	UPN28_PC	Tumor	N/A
+Yokoyama et al.	UPN29_ND	Normal	N/A
+Yokoyama et al.	UPN29_PC	Tumor	N/A
+Yokoyama et al.	UPN2_ND	Normal	N/A
+Yokoyama et al.	UPN2_PC	Tumor	N/A
+Yokoyama et al.	UPN30_ND	Normal	N/A
+Yokoyama et al.	UPN30_PC	Tumor	N/A
+Yokoyama et al.	UPN31_ND	Normal	N/A
+Yokoyama et al.	UPN31_PC	Tumor	N/A
+Yokoyama et al.	UPN36_1_10	Normal	N/A
+Yokoyama et al.	UPN36_1_11	Normal	N/A
+Yokoyama et al.	UPN36_1_13	Normal	N/A
+Yokoyama et al.	UPN36_1_14	Normal	N/A
+Yokoyama et al.	UPN36_1_15	Normal	N/A
+Yokoyama et al.	UPN36_1_17	Normal	N/A
+Yokoyama et al.	UPN36_1_18	Normal	N/A
+Yokoyama et al.	UPN36_1_4	Normal	N/A
+Yokoyama et al.	UPN36_1_5	Normal	N/A
+Yokoyama et al.	UPN36_1_6	Normal	N/A
+Yokoyama et al.	UPN36_1_7	Normal	N/A
+Yokoyama et al.	UPN37_1_1	Normal	N/A
+Yokoyama et al.	UPN37_1_10	Normal	N/A
+Yokoyama et al.	UPN37_1_11	Normal	N/A
+Yokoyama et al.	UPN37_1_9	Normal	N/A
+Yokoyama et al.	UPN37_2_11	Normal	N/A
+Yokoyama et al.	UPN37_2_13	Normal	N/A
+Yokoyama et al.	UPN37_2_19	Normal	N/A
+Yokoyama et al.	UPN37_2_2	Normal	N/A
+Yokoyama et al.	UPN37_2_9	Normal	N/A
+Yokoyama et al.	UPN3_ND	Normal	N/A
+Yokoyama et al.	UPN3_PC	Tumor	N/A
+Yokoyama et al.	UPN49_1_1	Normal	N/A
+Yokoyama et al.	UPN49_1_2	Normal	N/A
+Yokoyama et al.	UPN49_1_3	Normal	N/A
+Yokoyama et al.	UPN49_1_4	Normal	N/A
+Yokoyama et al.	UPN49_1_5	Normal	N/A
+Yokoyama et al.	UPN49_1_7	Normal	N/A
+Yokoyama et al.	UPN49_1_8	Normal	N/A
+Yokoyama et al.	UPN49_1_9	Normal	N/A
+Yokoyama et al.	UPN4_ND	Normal	N/A
+Yokoyama et al.	UPN4_PC	Tumor	N/A
+Yokoyama et al.	UPN55_1_11	Normal	N/A
+Yokoyama et al.	UPN55_1_12	Normal	N/A
+Yokoyama et al.	UPN55_1_13	Normal	N/A
+Yokoyama et al.	UPN55_1_15	Normal	N/A
+Yokoyama et al.	UPN55_1_16	Normal	N/A
+Yokoyama et al.	UPN55_1_20	Normal	N/A
+Yokoyama et al.	UPN55_1_23	Normal	N/A
+Yokoyama et al.	UPN58_1_1	Normal	N/A
+Yokoyama et al.	UPN58_1_10	Normal	N/A
+Yokoyama et al.	UPN58_1_11	Normal	N/A
+Yokoyama et al.	UPN58_1_15	Normal	N/A
+Yokoyama et al.	UPN58_1_18	Normal	N/A
+Yokoyama et al.	UPN58_1_20	Normal	N/A
+Yokoyama et al.	UPN58_1_21	Normal	N/A
+Yokoyama et al.	UPN58_1_3	Normal	N/A
+Yokoyama et al.	UPN58_1_6	Normal	N/A
+Yokoyama et al.	UPN58_1_8	Normal	N/A
+Yokoyama et al.	UPN58_1_9	Normal	N/A
+Yokoyama et al.	UPN5_ND	Normal	N/A
+Yokoyama et al.	UPN5_PC	Tumor	N/A
+Yokoyama et al.	UPN6_ND	Normal	N/A
+Yokoyama et al.	UPN6_PC	Tumor	N/A
+Yokoyama et al.	UPN7_ND	Normal	N/A
+Yokoyama et al.	UPN7_PC	Tumor	N/A
+Yokoyama et al.	UPN8_ND	Normal	N/A
+Yokoyama et al.	UPN8_PC	Tumor	N/A
+Yokoyama et al.	UPN97_PC	Tumor	N/A
+Yokoyama et al.	UPN98_ND	Normal	N/A
+Yokoyama et al.	UPN98_PC	Tumor	N/A
+Yokoyama et al.	UPN99_ND	Normal	N/A
+Yokoyama et al.	UPN99_PC	Tumor	N/A
+Yokoyama et al.	UPN9_ND	Normal	N/A
+Yokoyama et al.	UPN9_PC	Tumor	N/A
