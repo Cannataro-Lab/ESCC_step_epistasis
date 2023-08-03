@@ -10,7 +10,7 @@ liu_data <- read.xlsx("input_data/raw_data/mmc2.xlsx", sheet = 12, startRow = 2)
 liu_data <- liu_data %>%
   mutate(type = sub(".*_", "", Sample)) %>%
   filter(type == "T") %>%
-  select(Tumor_Sample_Barcode = Sample, Chromosome, Start_Position = Position, Reference_Allele = `Nucleotide change          (ref                alt)`, Tumor_Seq_Allele2 = ...6) %>%
+  select(Tumor_Sample_Barcode = Sample, Chromosome, Start_Position = Position, Reference_Allele = "Nucleotide.change.(ref.alt)", Tumor_Seq_Allele2 = X6) %>%
   mutate(Pre_or_Pri = "Pri") #clean up data frame for CES analysis
 
 data.table::fwrite(liu_data, "input_data/liu.maf", sep = "\t")
