@@ -6,6 +6,8 @@ library(ces.refset.hg19)
 # Set working directory
 # setwd()
 
+# Download ESCC-META data to input_data/raw_data/
+
 # Read in modified input data ----
 ucla_data <- read_tsv("input_data/ucla.maf")
 yokoyama_data <- read_tsv("input_data/yokoyama.maf")
@@ -15,23 +17,23 @@ liu_data <- read_tsv("input_data/liu.maf")
 
 # Read in data from ESCC-META dataset ----
 # (excluded PMID32929369 data because it includes lung samples) 
-ds1 <- read_csv("ESCC-META/mutational_list/ICGC/mutations_hg19.csv")
-ds2 <- read_csv("ESCC-META/mutational_list/PMID22877736/mutations_hg18.csv") 
-ds3 <- read_csv("ESCC-META/mutational_list/PMID25151357/mutations_hg18.csv") 
-ds4 <- read_csv("ESCC-META/mutational_list/PMID25839328/mutations_hg19.csv")
-ds5 <- read_csv("ESCC-META/mutational_list/PMID26873401/mutations_hg19.csv")
-ds6 <- read_csv("ESCC-META/mutational_list/PMID27058444/mutations_hg19.csv")
-ds7 <- read_csv("ESCC-META/mutational_list/PMID28548104/mutations_hg19.csv")
-ds8 <- read_csv("ESCC-META/mutational_list/PMID28608921/mutations_hg19.csv")
-ds9 <- read_csv("ESCC-META/mutational_list/PMID30012096/mutations_hg19.csv")
-ds10 <- read_csv("ESCC-META/mutational_list/PMID30975989/mutations_hg19.csv")
-ds11 <- read_csv("ESCC-META/mutational_list/PMID31289612/mutations_hg19.csv")
-ds12 <- read_csv("ESCC-META/mutational_list/PMID32398863/mutations_hg19.csv")
-ds14 <- read_csv("ESCC-META/mutational_list/PMID32974170/mutations_hg19.csv")
-ds15 <- read_csv("ESCC-META/mutational_list/PMID34263978/mutations_hg19.csv")
-ds16 <- read_csv("ESCC-META/mutational_list/PMID34285259/mutations_hg38.csv") 
-ds17 <- read_csv("ESCC-META/mutational_list/PMID34413060/mutations_hg19.csv")
-ds18 <- read_csv("ESCC-META/mutational_list/tcga_28052061/mutations_hg19.csv")
+ds1 <- read_csv("input_data/raw_data/ESCC-META/mutational_list/ICGC/mutations_hg19.csv")
+ds2 <- read_csv("input_data/raw_data/ESCC-META/mutational_list/PMID22877736/mutations_hg18.csv") 
+ds3 <- read_csv("input_data/raw_data/ESCC-META/mutational_list/PMID25151357/mutations_hg18.csv") 
+ds4 <- read_csv("input_data/raw_data/ESCC-META/mutational_list/PMID25839328/mutations_hg19.csv")
+ds5 <- read_csv("input_data/raw_data/ESCC-META/mutational_list/PMID26873401/mutations_hg19.csv")
+ds6 <- read_csv("input_data/raw_data/ESCC-META/mutational_list/PMID27058444/mutations_hg19.csv")
+ds7 <- read_csv("input_data/raw_data/ESCC-META/mutational_list/PMID28548104/mutations_hg19.csv")
+ds8 <- read_csv("input_data/raw_data/ESCC-META/mutational_list/PMID28608921/mutations_hg19.csv")
+ds9 <- read_csv("input_data/raw_data/ESCC-META/mutational_list/PMID30012096/mutations_hg19.csv")
+ds10 <- read_csv("input_data/raw_data/ESCC-META/mutational_list/PMID30975989/mutations_hg19.csv")
+ds11 <- read_csv("input_data/raw_data/ESCC-META/mutational_list/PMID31289612/mutations_hg19.csv")
+ds12 <- read_csv("input_data/raw_data/ESCC-META/mutational_list/PMID32398863/mutations_hg19.csv")
+ds14 <- read_csv("input_data/raw_data/ESCC-META/mutational_list/PMID32974170/mutations_hg19.csv")
+ds15 <- read_csv("input_data/raw_data/ESCC-META/mutational_list/PMID34263978/mutations_hg19.csv")
+ds16 <- read_csv("input_data/raw_data/ESCC-META/mutational_list/PMID34285259/mutations_hg38.csv") 
+ds17 <- read_csv("input_data/raw_data/ESCC-META/mutational_list/PMID34413060/mutations_hg19.csv")
+ds18 <- read_csv("input_data/raw_data/ESCC-META/mutational_list/tcga_28052061/mutations_hg19.csv")
 
 # Read in covered regions ----
 covered_regions_ucla <- "targeted_regions/covered_regions_from_UCLA_Lin_S14.bed"

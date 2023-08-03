@@ -4,8 +4,9 @@ library(dplyr)
 library(data.table)
 
 # Download Yuan et al. dataset from https://academic.oup.com/carcin/article/40/12/1445/5579375?login=true (Supplementary table 3)
+# Save file to input_data/raw_data/
 
-yuan_file <- "input_data/raw_data/yuan_carcinogenesis_2019/bgz162_suppl_supplementary_table_3.xlsx"
+yuan_file <- "input_data/raw_data/bgz162_suppl_supplementary_table_3.xlsx"
 
 yuan_data_1 <- read_xlsx(yuan_file, sheet=1) %>%
   mutate(Patient_No = 1)  %>% 

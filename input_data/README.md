@@ -1,6 +1,6 @@
 # Data sources used for the analysis
 
-**Only the data sets from Yuan et al. and ESCC-META require a log in to be downloaded. The other data sets can be pulled by running the data_prep scripts.**
+**Only the data sets from Liu et al., Yuan et al. and ESCC-META need to be downloaded separately. Save all of these files to the folder input_data/raw_data/. The other data sets can be pulled by running the data_prep scripts.**
 
 UCLA data set was obtained from <https://cbioportal-datahub.s3.amazonaws.com/escc_ucla_2014.tar.gz> on June 8 2022
 
@@ -12,4 +12,4 @@ Yokoyama et al. dataset was obtained from <https://static-content.springer.com/e
 
 **ESCC-META dataset which included 18 different datasets was obtained from <https://www.synapse.org/#!Synapse:syn33401857> on October 19 2022**
 
-Liu et al. dataset was obtained from <https://www.gastrojournal.org/cms/10.1053/j.gastro.2017.03.033/attachment/37b9d627-f726-495b-8143-71c5f0e73f40/mmc2.xlsx> on June 29 2023
+**Liu et al. dataset was obtained from <https://www.gastrojournal.org/cms/10.1053/j.gastro.2017.03.033/attachment/37b9d627-f726-495b-8143-71c5f0e73f40/mmc2.xlsx> on June 29 2023**
