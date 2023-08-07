@@ -10,6 +10,7 @@
     -   [input_data/prep_UCLA_maf.R](https://github.com/Cannataro-Lab/ESCC_stage_epistasis/blob/main/input_data/prep_UCLA_maf.R)
     -   [input_data/prep_Yokoyama_maf.R](https://github.com/Cannataro-Lab/ESCC_stage_epistasis/blob/main/input_data/prep_Yokoyama_maf.R)
     -   [input_data/prep_Yuan_maf.R](https://github.com/Cannataro-Lab/ESCC_stage_epistasis/blob/main/input_data/prep_Yuan_maf.R)
+    -   Also be sure to download the ESCC-META dataset from the synapse data portal. More detailed instructions are available within `input_data/README.md`
 
 3.  Recreate cancer effect size analysis by running [analysis/run_analysis.R](https://github.com/Cannataro-Lab/ESCC_stage_epistasis/blob/main/analysis/run_analysis.R)
 
