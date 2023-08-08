@@ -145,30 +145,30 @@ ds4_wes_maf <- ds4_maf %>% filter(!Unique_Patient_Identifier %in%
 ds6_wes_maf <- ds6_maf %>% filter(grepl("QC", Unique_Patient_Identifier))
 ds6_wgs_maf <- ds6_maf %>% filter(grepl("ASM", Unique_Patient_Identifier))
 
-# Check for sample duplicates and sample contamination ----
-mafs <- list(ucla = ucla_data_maf, 
-             yuan = yuan_data_maf,
-             yokoyama = yokoyama_data_maf,
-             martincorena = martincorena_data_maf,
-             liu = liu_data_maf,
-             ds1 = ds1_maf,
-             ds2 = ds2_maf,
-             ds3 = ds3_maf,
-             ds4 = ds4_maf,
-             ds5 = ds5_maf,
-             ds6 = ds6_maf,
-             ds7 = ds7_maf,
-             ds8 = ds8_maf,
-             ds9 = ds9_maf,
-             ds10 = ds10_maf,
-             ds11 = ds11_maf,
-             ds12 = ds12_maf,
-             ds14 = ds14_maf,
-             ds15 = ds15_maf,
-             ds16 = ds16_maf,
-             ds17 = ds17_maf,
-             ds18 = ds18_maf) 
-possible_dups <- check_sample_overlap(maf_list = mafs) 
+# Check for sample duplicates and sample contamination (already reviewed) ----
+# mafs <- list(ucla = ucla_data_maf, 
+#              yuan = yuan_data_maf,
+#              yokoyama = yokoyama_data_maf,
+#              martincorena = martincorena_data_maf,
+#              liu = liu_data_maf,
+#              ds1 = ds1_maf,
+#              ds2 = ds2_maf,
+#              ds3 = ds3_maf,
+#              ds4 = ds4_maf,
+#              ds5 = ds5_maf,
+#              ds6 = ds6_maf,
+#              ds7 = ds7_maf,
+#              ds8 = ds8_maf,
+#              ds9 = ds9_maf,
+#              ds10 = ds10_maf,
+#              ds11 = ds11_maf,
+#              ds12 = ds12_maf,
+#              ds14 = ds14_maf,
+#              ds15 = ds15_maf,
+#              ds16 = ds16_maf,
+#              ds17 = ds17_maf,
+#              ds18 = ds18_maf) 
+# possible_dups <- check_sample_overlap(maf_list = mafs) 
 
 
 # Set up cancereffectsizeR analysis ----
