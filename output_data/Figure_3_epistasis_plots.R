@@ -1,7 +1,6 @@
 library(cancereffectsizeR)
 library(tidyverse)
 library(patchwork)
-library(latex2exp)
 library(cowplot)
 
 # Load in  cesa if necessary
@@ -93,8 +92,7 @@ plot_epistasis_results_with_ci = function(ep_results, current_gene, upper_limit)
   
   text_size <- 18
   geom_text_size <- text_size * (5/14)
-  triangle <- TeX(r'($\blacktriangle$)')
-    
+
   GOI_plot <- ggplot(data = data_for_compare_selected_genes) +
     geom_segment(aes(x=as.numeric(other_gene)-0.1,xend=as.numeric(other_gene)+0.1, y=ces_GOI, yend=ces_GOI_after_OTHER), 
                  arrow = arrow(length = unit(0.1, "inches"), type ="closed")) +
@@ -150,6 +148,3 @@ tp53_ep_plot <- plot_epistasis_results_with_ci(gene_ep_results, "TP53", 6200)
 
 ep_plots_combined <- plot_grid(notch1_ep_plot, tp53_ep_plot, labels = c("A", "B"), ncol = 1, label_size = 20, scale = 0.95)
 ggsave("output_data/fig_3_combined_ep_plots.png", ep_plots_combined, width=18, height=14)
-
-
-
