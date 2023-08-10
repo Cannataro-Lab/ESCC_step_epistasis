@@ -2,11 +2,23 @@ library(tidyverse)
 library(cancereffectsizeR)
 library(data.table)
 library(ces.refset.hg19)
+library(R.utils)
+
 
 # Set working directory
 # setwd()
 
+
 # Download ESCC-META data to input_data/raw_data/
+
+
+# Download liftover files from https://hgdownload.soe.ucsc.edu/goldenPath/hg38/liftOver/ and https://hgdownload.soe.ucsc.edu/goldenPath/hg18/liftOver/
+download.file("https://hgdownload.soe.ucsc.edu/goldenPath/hg38/liftOver/hg38ToHg19.over.chain.gz", destfile = "input_data/hg38ToHg19.over.chain.gz")
+gunzip("input_data/hg38ToHg19.over.chain.gz")
+
+download.file("https://hgdownload.soe.ucsc.edu/goldenPath/hg18/liftOver/hg18ToHg19.over.chain.gz", destfile = "input_data/hg18ToHg19.over.chain.gz")
+gunzip("input_data/hg18ToHg19.over.chain.gz")
+
 
 # Read in modified input data ----
 ucla_data <- read_tsv("input_data/ucla.maf")
@@ -73,8 +85,8 @@ liu_data_maf <- liu_data_maf %>%
   mutate(Pre_or_Pri = "Pri")
 
 ds1_maf <- preload_maf(maf = ds1, refset = "ces.refset.hg19", sample_col = "sample_id", chr_col = "CHROM", start_col = "POS", ref_col = "REF", tumor_allele_col = "ALT")
-ds2_maf <- preload_maf(maf = ds2, refset = "ces.refset.hg19", sample_col = "sample_id", chr_col = "CHROM", start_col = "POS", ref_col = "REF", tumor_allele_col = "ALT", chain_file = "~/../data/genome_data/hg18ToHg19.over.chain")
-ds3_maf <- preload_maf(maf = ds3, refset = "ces.refset.hg19", sample_col = "sample_id", chr_col = "CHROM", start_col = "POS", ref_col = "REF", tumor_allele_col = "ALT", chain_file = "~/../data/genome_data/hg18ToHg19.over.chain")
+ds2_maf <- preload_maf(maf = ds2, refset = "ces.refset.hg19", sample_col = "sample_id", chr_col = "CHROM", start_col = "POS", ref_col = "REF", tumor_allele_col = "ALT", chain_file = "input_data/hg18ToHg19.over.chain")
+ds3_maf <- preload_maf(maf = ds3, refset = "ces.refset.hg19", sample_col = "sample_id", chr_col = "CHROM", start_col = "POS", ref_col = "REF", tumor_allele_col = "ALT", chain_file = "input_data/hg18ToHg19.over.chain")
 ds4_maf <- preload_maf(maf = ds4, refset = "ces.refset.hg19", sample_col = "sample_id", chr_col = "CHROM", start_col = "POS", ref_col = "REF", tumor_allele_col = "ALT")
 ds5_maf <- preload_maf(maf = ds5, refset = "ces.refset.hg19", sample_col = "sample_id", chr_col = "CHROM", start_col = "POS", ref_col = "REF", tumor_allele_col = "ALT")
 ds6_maf <- preload_maf(maf = ds6, refset = "ces.refset.hg19", sample_col = "sample_id", chr_col = "CHROM", start_col = "POS", ref_col = "REF", tumor_allele_col = "ALT")
@@ -86,7 +98,7 @@ ds11_maf <- preload_maf(maf = ds11, refset = "ces.refset.hg19", sample_col = "sa
 ds12_maf <- preload_maf(maf = ds12, refset = "ces.refset.hg19", sample_col = "sample_id", chr_col = "CHROM", start_col = "POS", ref_col = "REF", tumor_allele_col = "ALT")
 ds14_maf <- preload_maf(maf = ds14, refset = "ces.refset.hg19", sample_col = "sample_id", chr_col = "CHROM", start_col = "POS", ref_col = "REF", tumor_allele_col = "ALT")
 ds15_maf <- preload_maf(maf = ds15, refset = "ces.refset.hg19", sample_col = "sample_id", chr_col = "CHROM", start_col = "POS", ref_col = "REF", tumor_allele_col = "ALT")
-ds16_maf <- preload_maf(maf = ds16, refset = "ces.refset.hg19", sample_col = "sample_id", chr_col = "CHROM", start_col = "POS", ref_col = "REF", tumor_allele_col = "ALT", chain_file = "~/../data/genome_data/hg38ToHg19.over.chain")
+ds16_maf <- preload_maf(maf = ds16, refset = "ces.refset.hg19", sample_col = "sample_id", chr_col = "CHROM", start_col = "POS", ref_col = "REF", tumor_allele_col = "ALT", chain_file = "input_data/hg38ToHg19.over.chain")
 ds17_maf <- preload_maf(maf = ds17, refset = "ces.refset.hg19", sample_col = "sample_id", chr_col = "CHROM", start_col = "POS", ref_col = "REF", tumor_allele_col = "ALT")
 ds18_maf <- preload_maf(maf = ds18, refset = "ces.refset.hg19", sample_col = "sample_id", chr_col = "CHROM", start_col = "POS", ref_col = "REF", tumor_allele_col = "ALT")
 
