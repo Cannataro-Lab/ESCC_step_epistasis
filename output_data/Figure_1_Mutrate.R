@@ -45,8 +45,7 @@ change_mut_rates_plot <- ggplot() +
         axis.title = element_text(size = 14), 
         axis.title.x = element_text(vjust = -1.5))
 
-panel_a <- plot_grid(change_mut_rates_plot, labels = c("A"))
-ggsave("output_data/fig_1a_mutrates.png", panel_a, width = 8, height = 6)
+ggsave("output_data/fig_1_mutrates.png", change_mut_rates_plot, width = 8, height = 6)
 
 
 

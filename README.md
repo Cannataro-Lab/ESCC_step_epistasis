@@ -16,7 +16,6 @@
 
 4.  Figures:
 
-    -   Figure 1A: [output_data/Figure_1A_Mutrate.R](https://github.com/Cannataro-Lab/ESCC_stage_epistasis/blob/main/output_data/Figure_1A_Mutrate.R)
-    -   Figure 1B: [output_data/Figure_1B_cosmic_signatures.R](https://github.com/Cannataro-Lab/ESCC_stage_epistasis/blob/main/output_data/Figure_1B_cosmic_signatures.R)
+    -   Figure 1: [output_data/Figure_1_Mutrate.R](https://github.com/Cannataro-Lab/ESCC_stage_epistasis/blob/main/output_data/Figure_1_Mutrate.R)
     -   Figure 2: [output_data/Figure_2_selection_coefficient_plot.R](https://github.com/Cannataro-Lab/ESCC_stage_epistasis/blob/main/output_data/Figure_2_selection_coefficient_plot.R)
     -   Figure 3: [output_data/Figure_3_epistasis_plots](https://github.com/Cannataro-Lab/ESCC_stage_epistasis/blob/main/output_data/Figure_3_epistasis_plots.R)
