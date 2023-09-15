@@ -40,7 +40,7 @@ change_mut_rates_plot <- ggplot() +
   scale_y_continuous(labels=scientific) + 
   scale_x_discrete(labels=c("Conception to \nadult normal tissue", "Conception \nto tumor tissue")) +
   scale_color_brewer(palette = "Dark2") +
-  labs(x = "Trajectory", y = "Mutation rate", color = "Gene") +
+  labs(x = "Trajectory \n", y = "Mutation rate", color = "Gene") +
   theme_bw() +
   theme(axis.text = element_text(size = 14), 
         axis.title = element_text(size = 14), 
