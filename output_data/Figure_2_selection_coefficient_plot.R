@@ -81,7 +81,7 @@ stage_data$gene <- reorder(stage_data$gene, -stage_data$selection_intensity)
 selection_plots <- ggplot(stage_data, aes(x = group, y = selection_intensity, color = group)) +
   geom_point(size=2.5) +
   geom_errorbar(aes(ymin = ci_low_95, ymax = ci_high, width = 0.25)) +
-  labs(x="Trajectory", y="Scaled selection coefficient", color = "Tissue type") +
+  labs(x="Evolutionary trajectory", y="Scaled selection coefficient", color = "Tissue type") +
   scale_color_manual(labels = c("Normal", "Tumor"), values = c("#F8766D", "#00BFC4")) +
   theme_bw() +
   facet_wrap(~gene, ncol=4, scales = "free_y") +
