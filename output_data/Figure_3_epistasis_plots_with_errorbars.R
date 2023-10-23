@@ -101,7 +101,7 @@ plot_epistasis_results_with_ci = function(ep_results, current_gene, upper_limit1
     # coord_cartesian(ylim=c(0,3500)) +
     geom_vline(xintercept = c(1.5, 2.5, 3.5, 4.5, 5.5, 6.5), lwd = 0.5, color = "lightgrey") +
     geom_hline(yintercept = 0, lwd = 0.5, color = "lightgrey", linetype = "dotted") +
-    labs(x = paste0("Gene (paired with ", current_gene, ")"), y = paste0("\nScaled secelction \ncoefficients of \n", current_gene, "\nwhen paired \ngene is \nwildtype (\u25cf) \nand mutated (\u25b8)")) +
+    labs(x = paste0("Gene (paired with ", current_gene, ")"), y = paste0("\nScaled selection \ncoefficients of \n", current_gene, "\nwhen paired \ngene is \nwildtype (\u25cf) \nand mutated (\u25b8)")) +
     #scale_color_discrete(name="p-value", breaks=c("yes", "no"), labels=c("p < 0.05", "p ≥ 0.05")) +
     theme(axis.text = element_text(size = text_size), 
           axis.title = element_text(size = text_size), 
