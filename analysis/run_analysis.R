@@ -251,7 +251,8 @@ samples_used <- samples_used %>%
                            maf_source == "ds17" ~ "originally published by Hirata et al.(2021)",
                            maf_source == "ds18" ~ "originally from TCGA",
                            !startsWith(maf_source, "ds") ~ "N/A")) %>%
-  select(Study, Sample, Normal_or_Tumor, Notes)
+  mutate(Coverage = coverage) %>%
+  select(Study, Sample, Normal_or_Tumor, Coverage, Notes)
 
 write_tsv(samples_used, "output_data/Supplementary_table_1.tsv")
 
