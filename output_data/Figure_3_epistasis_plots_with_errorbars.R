@@ -158,3 +158,5 @@ tp53_ep_plot <- plot_epistasis_results_with_ci(gene_ep_results, "TP53", 9000, 35
 
 ep_plots_combined <- plot_grid(notch1_ep_plot, tp53_ep_plot, labels = c("A", "B"), ncol = 1, label_size = 20, scale = 0.95)
 ggsave("output_data/fig_3_combined_ep_plots_errorbars.png", ep_plots_combined, width=18, height=14)
+ggsave("output_data/fig_3_combined_ep_plots_errorbars.pdf", ep_plots_combined, width=18, height=14, device=cairo_pdf)
+ggsave("output_data/fig_3_combined_ep_plots_errorbars.jpg", ep_plots_combined, width=18, height=14)

@@ -96,7 +96,9 @@ selection_plots <- ggplot(stage_data, aes(x = group, y = selection_intensity, co
         axis.title=element_text(size = 22),
         legend.position = "none",
         text = element_text(size = 22)) +
-  scale_x_discrete(labels= expression(C %->% N, N %->% T))
+  scale_x_discrete(labels= expression(E %->% N, N %->% T))
 selection_plots
 
-ggsave("output_data/fig_2_selection_plots.png", selection_plots, width=17, height=9)
+ggsave("output_data/fig_2_selection_plots.jpg", selection_plots, width=17, height=9)
+ggsave("output_data/fig_2_selection_plots.pdf", selection_plots, width=17, height=9)
+ggsave("output_data/fig_2_selection_plots.jpg", selection_plots, width=17, height=9)

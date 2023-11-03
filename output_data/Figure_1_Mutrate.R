@@ -38,7 +38,7 @@ change_mut_rates_plot <- ggplot() +
   geom_line(data = selected_mut_rates_longer, mapping = aes(x = progression, y = mutation_rate, group = gene, color = gene)) +
   geom_text_repel(data = only_cancer_rates, mapping = aes(x = 2.05, y = mutation_rate, label = gene, color = gene), hjust = -1, direction = "y", size = 5) +
   scale_y_continuous(labels=scientific) + 
-  scale_x_discrete(labels=c("Conception to \nadult normal tissue", "Conception \nto tumor tissue")) +
+  scale_x_discrete(labels=c("Embryogenesis to \nadult normal tissue", "Embryogenesis \nto tumor tissue")) +
   scale_color_brewer(palette = "Dark2") +
   labs(x = "Evolutionary trajectory \n", y = "Mutation rate", color = "Gene") +
   theme_bw() +
@@ -48,6 +48,8 @@ change_mut_rates_plot <- ggplot() +
         legend.position = "none")
 
 ggsave("output_data/fig_1_mutrates.png", change_mut_rates_plot, width = 8, height = 6)
+ggsave("output_data/fig_1_mutrates.pdf", change_mut_rates_plot, width = 8, height = 6)
+ggsave("output_data/fig_1_mutrates.jpg", change_mut_rates_plot, width = 8, height = 6)
 
 
 
