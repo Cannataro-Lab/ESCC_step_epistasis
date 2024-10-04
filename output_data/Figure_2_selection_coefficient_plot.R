@@ -99,6 +99,6 @@ selection_plots <- ggplot(stage_data, aes(x = group, y = selection_intensity, co
   scale_x_discrete(labels= expression(O %->% N, N %->% T))
 selection_plots
 
-ggsave("output_data/fig_2_selection_plots.png", selection_plots, width=17, height=9)
-ggsave("output_data/fig_2_selection_plots.pdf", selection_plots, width=17, height=9)
-ggsave("output_data/fig_2_selection_plots.jpg", selection_plots, width=17, height=9)
+ggsave("output_data/fig_2_selection_plots.png", selection_plots, width=12.7, height=6.38)
+ggsave("output_data/fig_2_selection_plots.pdf", selection_plots, width=12.7, height=6.38)
+ggsave("output_data/fig_2_selection_plots.jpg", selection_plots, width=12.7, height=6.38)
