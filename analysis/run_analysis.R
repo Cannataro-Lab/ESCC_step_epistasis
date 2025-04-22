@@ -463,7 +463,49 @@ selection_results_step <- rbind(cesa@selection_results$TP53,
                                 cesa@selection_results$FBXW7,
                                 cesa@selection_results$RB1)
 
+# Calculate non-step-specific selection intensity for LRT----
 
+# use mutation rates consistent with the method above
+mu_zero_to_one <- mutation_rates %>%
+  select(gene, rate = normal_mu) %>%
+  data.table::setDT()
+mu_zero_to_two <- mutation_rates %>%
+  select(gene, rate = cancer_mu) %>% # this is just the sum of \mu_{0\to1} and \mu_{1\to2}
+  data.table::setDT()
+
+
+cesa <- clear_gene_rates(cesa = cesa)
+
+cesa <- set_gene_rates(cesa = cesa, rates = mu_zero_to_one, missing_genes_take_nearest = T, samples = cesa$samples[Pre_or_Pri=="Pre"]) 
+cesa <- set_gene_rates(cesa = cesa, rates = mu_zero_to_two, missing_genes_take_nearest = T, samples = cesa$samples[Pre_or_Pri=="Pri"]) 
+
+# calculate selection intensities using the simpler one-step model
+cesa <- ces_variant(cesa = cesa, 
+                    variants = compound, 
+                    return_fit = TRUE,
+                    run_name = "simple_model",
+                    conf = 0.95)
+
+
+# Calculate likelihood ratio ----
+genes <- c("TP53", "NOTCH1", "NOTCH2", "NFE2L2", "PIK3CA", "FAT1", "FBXW7", "RB1")
+
+loglik_step <- selection_results_step$loglikelihood
+
+loglik_simple <- cesa@selection_results$simple_model$loglikelihood
+
+loglik_df <- data.frame(
+  gene = genes,
+  loglik_step = loglik_step,
+  loglik_simple = loglik_simple)
+
+loglik_df <- loglik_df %>%
+  mutate(
+    loglik_step = ifelse(loglik_step > 1e5, NA, loglik_step), # just making sure that the loglikelihoods are realistic
+    loglik_simple = ifelse(loglik_simple > 1e5, NA, loglik_simple), # not some large positive number (happens when convergence failed)
+    LRT_stat = -2 * (loglik_simple - loglik_step),
+    p_value = pchisq(LRT_stat, df = 1, lower.tail = FALSE), 
+    p_less_0.5 = ifelse(p_value < 0.05, TRUE, FALSE))
 
 
 # Clear gene rates and calculate gene rates for all samples (not separated by normal and tumor) for epistasis ----
