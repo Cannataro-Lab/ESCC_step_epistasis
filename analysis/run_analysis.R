@@ -11,7 +11,6 @@ library(R.utils)
 
 # Download ESCC-META data to input_data/raw_data/
 
-
 # Download liftover files from https://hgdownload.soe.ucsc.edu/goldenPath/hg38/liftOver/ and https://hgdownload.soe.ucsc.edu/goldenPath/hg18/liftOver/
 download.file("https://hgdownload.soe.ucsc.edu/goldenPath/hg38/liftOver/hg38ToHg19.over.chain.gz", destfile = "input_data/hg38ToHg19.over.chain.gz")
 gunzip("input_data/hg38ToHg19.over.chain.gz")
@@ -29,23 +28,23 @@ liu_data <- read_tsv("input_data/liu.maf")
 
 # Read in data from ESCC-META dataset ----
 # (excluded PMID32929369 data because it includes lung samples) 
-ds1 <- read_csv("input_data/raw_data/ESCC-META/mutational_list/ICGC/mutations_hg19.csv")
-ds2 <- read_csv("input_data/raw_data/ESCC-META/mutational_list/PMID22877736/mutations_hg18.csv") 
-ds3 <- read_csv("input_data/raw_data/ESCC-META/mutational_list/PMID25151357/mutations_hg18.csv") 
-ds4 <- read_csv("input_data/raw_data/ESCC-META/mutational_list/PMID25839328/mutations_hg19.csv")
-ds5 <- read_csv("input_data/raw_data/ESCC-META/mutational_list/PMID26873401/mutations_hg19.csv")
-ds6 <- read_csv("input_data/raw_data/ESCC-META/mutational_list/PMID27058444/mutations_hg19.csv")
-ds7 <- read_csv("input_data/raw_data/ESCC-META/mutational_list/PMID28548104/mutations_hg19.csv")
-ds8 <- read_csv("input_data/raw_data/ESCC-META/mutational_list/PMID28608921/mutations_hg19.csv")
-ds9 <- read_csv("input_data/raw_data/ESCC-META/mutational_list/PMID30012096/mutations_hg19.csv")
-ds10 <- read_csv("input_data/raw_data/ESCC-META/mutational_list/PMID30975989/mutations_hg19.csv")
-ds11 <- read_csv("input_data/raw_data/ESCC-META/mutational_list/PMID31289612/mutations_hg19.csv")
-ds12 <- read_csv("input_data/raw_data/ESCC-META/mutational_list/PMID32398863/mutations_hg19.csv")
-ds14 <- read_csv("input_data/raw_data/ESCC-META/mutational_list/PMID32974170/mutations_hg19.csv")
-ds15 <- read_csv("input_data/raw_data/ESCC-META/mutational_list/PMID34263978/mutations_hg19.csv")
-ds16 <- read_csv("input_data/raw_data/ESCC-META/mutational_list/PMID34285259/mutations_hg38.csv") 
-ds17 <- read_csv("input_data/raw_data/ESCC-META/mutational_list/PMID34413060/mutations_hg19.csv")
-ds18 <- read_csv("input_data/raw_data/ESCC-META/mutational_list/tcga_28052061/mutations_hg19.csv")
+ds1 <- read_csv("~/../data/tumor_data/ESCA/ESCC-META/mutational_list/ICGC/mutations_hg19.csv")
+ds2 <- read_csv("~/../data/tumor_data/ESCA/ESCC-META/mutational_list/PMID22877736/mutations_hg18.csv") 
+ds3 <- read_csv("~/../data/tumor_data/ESCA/ESCC-META/mutational_list/PMID25151357/mutations_hg18.csv") 
+ds4 <- read_csv("~/../data/tumor_data/ESCA/ESCC-META/mutational_list/PMID25839328/mutations_hg19.csv")
+ds5 <- read_csv("~/../data/tumor_data/ESCA/ESCC-META/mutational_list/PMID26873401/mutations_hg19.csv")
+ds6 <- read_csv("~/../data/tumor_data/ESCA/ESCC-META/mutational_list/PMID27058444/mutations_hg19.csv")
+ds7 <- read_csv("~/../data/tumor_data/ESCA/ESCC-META/mutational_list/PMID28548104/mutations_hg19.csv")
+ds8 <- read_csv("~/../data/tumor_data/ESCA/ESCC-META/mutational_list/PMID28608921/mutations_hg19.csv")
+ds9 <- read_csv("~/../data/tumor_data/ESCA/ESCC-META/mutational_list/PMID30012096/mutations_hg19.csv")
+ds10 <- read_csv("~/../data/tumor_data/ESCA/ESCC-META/mutational_list/PMID30975989/mutations_hg19.csv")
+ds11 <- read_csv("~/../data/tumor_data/ESCA/ESCC-META/mutational_list/PMID31289612/mutations_hg19.csv")
+ds12 <- read_csv("~/../data/tumor_data/ESCA/ESCC-META/mutational_list/PMID32398863/mutations_hg19.csv")
+ds14 <- read_csv("~/../data/tumor_data/ESCA/ESCC-META/mutational_list/PMID32974170/mutations_hg19.csv")
+ds15 <- read_csv("~/../data/tumor_data/ESCA/ESCC-META/mutational_list/PMID34263978/mutations_hg19.csv")
+ds16 <- read_csv("~/../data/tumor_data/ESCA/ESCC-META/mutational_list/PMID34285259/mutations_hg38.csv") 
+ds17 <- read_csv("~/../data/tumor_data/ESCA/ESCC-META/mutational_list/PMID34413060/mutations_hg19.csv")
+ds18 <- read_csv("~/../data/tumor_data/ESCA/ESCC-META/mutational_list/tcga_28052061/mutations_hg19.csv")
 
 # Read in covered regions ----
 covered_regions_ucla <- "targeted_regions/covered_regions_from_UCLA_Lin_S14.bed"
@@ -381,7 +380,7 @@ mut_rates_for_p <- mut_rate_df %>%
   mutate(p_2 = 1 - p_1)
 
 set_cancer_rates <- mut_rate_df %>%
-  select(gene,cancer_mu) %>%
+  select(gene, rate = cancer_mu) %>%
   data.table::setDT()
 
 cesa <- clear_gene_rates(cesa = cesa)
@@ -396,25 +395,76 @@ cesa <- trinuc_mutation_rates(cesa, signature_set = "COSMIC_v3.2", signature_exc
 
 
 # New sequential selection method ----
+index_by_state = list()
+name_by_state = list()
+ordering_col = 'Pre_or_Pri'
+ordering = c('Pre', 'Pri')
+
+if(is.null(names(ordering))) {
+  if (length(unlist(ordering)) == length(ordering)) {
+    names(ordering) = unlist(ordering)
+  } else {
+    names(ordering) = 1:length(ordering)
+  }
+}
+
+for (i in 1:length(ordering)) {
+  for (j in 1:length(ordering[[i]])) {
+    index_by_state[[ordering[[i]][j]]] = i
+    name_by_state[[ordering[[i]][j]]] = names(ordering)[i]
+  }
+}
+
+samples = cancereffectsizeR:::select_samples(cesa, samples=cesa$samples)
+sample_index_table = samples[, .(Unique_Patient_Identifier = Unique_Patient_Identifier,
+                                 group_index = unlist(index_by_state[samples[[ordering_col]]]), 
+                                 group_name = unlist(name_by_state[samples[[ordering_col]]]))]
+
 source("analysis/new_sequential_lik.R")
 
 for(comp_ind in 1:length(compound)){
-  
   this_comp <- compound[comp_ind, ]
-  
-  this_gene <- unlist(unique(this_comp$snv_info$genes))
+  this_gene <- unlist(unique(this_comp$snv_info$genes))[1]
   these_props <- mut_rates_for_p[mut_rates_for_p$gene %in% this_gene, c("p_1","p_2")]
   these_props <- c(these_props$p_1, these_props$p_2)
+  
   if(length(this_gene) != 1){
-      this_gene <- unlist(str_split(this_gene[1], "\\."))
-      this_gene <- this_gene[1]
+    this_gene <- unlist(str_split(this_gene[1], "\\."))
+    this_gene <- this_gene[1]
   }
   
-  cesa <- ces_variant(cesa = cesa, variants = this_comp, model = sequential_lik_dev, 
-                      ordering_col = 'Pre_or_Pri', ordering = c('Pre', 'Pri'), 
-                      lik_args = list(sequential_mut_prop = these_props), run_name = this_gene)
+  cat("Running gene:", this_gene, "\n")
   
+  if (length(these_props) != 2 || any(is.na(these_props))) {
+    stop(paste("Missing or invalid mutation rates for", this_gene))
+  }
+  
+  cesa <- ces_variant(cesa = cesa, 
+                      variants = this_comp, 
+                      model = sequential_lik_dev, 
+                      lik_args = list(sample_index = sample_index_table, 
+                                      sequential_mut_prop = these_props), 
+                      optimizer_args = list(method = 'L-BFGS-B', 
+                                            lower = 1e-3, 
+                                            upper = 1e9), # define optimizer arguments to avoid failed convergence 
+                      # (cancereffectsizeR suppresses warnings about failed convergence)
+                      return_fit = TRUE, # return fit for loglikelihood and confidence intervals 
+                      run_name = this_gene,
+                      conf = 0.95
+  )
 }
+
+selection_results_step <- rbind(cesa@selection_results$TP53,
+                                cesa@selection_results$NOTCH1,
+                                cesa@selection_results$NOTCH2,
+                                cesa@selection_results$NFE2L2,
+                                cesa@selection_results$PIK3CA,
+                                cesa@selection_results$FAT1,
+                                cesa@selection_results$FBXW7,
+                                cesa@selection_results$RB1)
+
+
+
 
 # Clear gene rates and calculate gene rates for all samples (not separated by normal and tumor) for epistasis ----
 cesa <- clear_gene_rates(cesa)
@@ -436,6 +486,9 @@ mut_rate_df <- mut_rate_df %>%
   data.table::setDT()
 
 cesa <- clear_gene_rates(cesa = cesa)
+
+mut_rate_df <- mut_rate_df %>%
+  select(gene, rate = total_mu)
 cesa <- set_gene_rates(cesa = cesa, rates = mut_rate_df, missing_genes_take_nearest = T) 
 
 
