@@ -2,10 +2,15 @@ library(tidyverse)
 library(data.table)
 library(openxlsx)
 
-martincorena_url <- "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6298579/bin/NIHMS80426-supplement-Supplementary_Table_2.xlsx"
+# Download Martincorena et al. dataset from https://pmc.ncbi.nlm.nih.gov/articles/instance/6298579/bin/NIHMS80426-supplement-Supplementary_Table_2.xlsx
+# Save file to input_data/raw_data/
 
-martincorena_unmerged_table <- read.xlsx(martincorena_url, sheet = 1, startRow = 17)
-martincorena_merged_table <- read.xlsx(martincorena_url, sheet = 2, startRow = 18)
+martincorena_unmerged_table <- read.xlsx("input_data/raw_data/NIHMS80426-supplement-Supplementary_Table_2.xlsx", 
+                                         sheet = 1, 
+                                         startRow = 17)
+martincorena_merged_table <- read.xlsx("input_data/raw_data/NIHMS80426-supplement-Supplementary_Table_2.xlsx", 
+                                       sheet = 2, 
+                                       startRow = 18)
 
 martincorena_merged_tidy_samples <- martincorena_merged_table %>% 
   select(donor, gene, ntchange, merged) %>% # select columns relevant to analysis
