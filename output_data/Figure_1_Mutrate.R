@@ -30,8 +30,14 @@ selected_mut_rates <- mutation_rates %>%
 selected_mut_rates_longer <- selected_mut_rates %>%
   pivot_longer(cols = c("normal_mu", "cancer_mu"), names_to = "progression", values_to = "mutation_rate")
 selected_mut_rates_longer$progression <- factor(selected_mut_rates_longer$progression, levels = unique(selected_mut_rates_longer$progression))
+
 only_cancer_rates <- selected_mut_rates_longer %>%
   filter(progression == "cancer_mu")
+only_normal_rates <- selected_mut_rates_longer %>%
+  filter(progression == "normal_mu")
+
+mut_rates_specific_genes_longer <- mut_rates_specific_genes %>%
+  pivot_longer(cols = c("normal_mu", "cancer_mu"), names_to = "progression", values_to = "mutation_rate")
 
 change_mut_rates_plot <- ggplot() + 
   geom_point(data = selected_mut_rates_longer, mapping = aes(x = progression, y = mutation_rate, group = gene, color = gene)) +
@@ -40,7 +46,7 @@ change_mut_rates_plot <- ggplot() +
   scale_y_continuous(labels=scientific) + 
   scale_x_discrete(labels=c("Esophageal organogenesis\nto adult normal tissue", "Esophageal organogenesis\nto tumor tissue")) +
   scale_color_brewer(palette = "Dark2") +
-  labs(x = "Evolutionary trajectory \n", y = "Mutation rate", color = "Gene") +
+  labs(x = "Evolutionary trajectory \n", y = "Expected burden per sample per synonymous site", color = "Gene") +
   theme_bw() +
   theme(axis.text = element_text(size = 14), 
         axis.title = element_text(size = 14), 
