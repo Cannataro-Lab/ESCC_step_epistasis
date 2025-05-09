@@ -44,7 +44,8 @@ change_mut_rates_plot <- ggplot() +
   geom_line(data = selected_mut_rates_longer, mapping = aes(x = progression, y = mutation_rate, group = gene, color = gene)) +
   geom_text_repel(data = only_cancer_rates, mapping = aes(x = 2.05, y = mutation_rate, label = gene, color = gene), hjust = -1, direction = "y", size = 5) +
   scale_y_continuous(labels=scientific) + 
-  scale_x_discrete(labels=c("Esophageal organogenesis\nto adult normal tissue", "Esophageal organogenesis\nto tumor tissue")) +
+  scale_x_discrete(labels=c("Esophageal organogenesis\nto adult clonal histologically\nnormal tissue", 
+                            "Esophageal organogenesis\nto tumor tissue")) +
   scale_color_brewer(palette = "Dark2") +
   labs(x = "Evolutionary trajectory \n", y = "Expected burden per sample per synonymous site", color = "Gene") +
   theme_bw() +
