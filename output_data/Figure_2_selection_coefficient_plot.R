@@ -28,38 +28,43 @@ selection_results <- selection_results %>%
 selection_results <- selection_results %>%
   mutate(gene = gsub("\\.1.*","",variant_name)) #extract gene name from variant_name
 
-
-# Compute 95% CIs ----
+# Compute Likelihood Root 95% CIs ----
+genes <- c("FAT1", "NOTCH1", "NOTCH2", "TP53", "PIK3CA", "NFE2L2", "FBXW7", "RB1")
 ci_results <- list()
 
 for (gene in genes) {
   fit_list <- attr(cesa@selection_results[[gene]], "fit")
-  
   fit <- fit_list[[1]]
   
-  coef_vals <- coef(fit)
-  ci_vals <- tryCatch(
-    confint(fit, method = "quad"),  # Wald CI
-    error = function(e) matrix(rep(NA, 4), ncol = 2, byrow = TRUE,
-                               dimnames = list(c("si_Pre", "si_Pri"), c("2.5 %", "97.5 %")))
+  lik_fn <- get(paste0("lik_fn_", gene))
+  
+  ci <- cancereffectsizeR:::univariate_si_conf_ints(
+    fit = fit,
+    lik_fn = lik_fn,
+    min_si = 0.001,
+    max_si = 1e9,
+    conf = 0.95
   )
+  
+  coef_vals <- coef(fit)
   
   ci_results[[gene]] <- data.frame(
     gene = gene,
     si_Pre = coef_vals["si_Pre"],
     si_Pri = coef_vals["si_Pri"],
-    si_Pre_low = ci_vals["si_Pre", 1],
-    si_Pre_high = ci_vals["si_Pre", 2],
-    si_Pri_low = ci_vals["si_Pri", 1],
-    si_Pri_high = ci_vals["si_Pri", 2]
+    si_Pre_low = ifelse(is.null(ci$ci_low_95_si_Pre), NA, ci$ci_low_95_si_Pre),
+    si_Pre_high = ifelse(is.null(ci$ci_high_95_si_Pre), NA, ci$ci_high_95_si_Pre),
+    si_Pri_low = ifelse(is.null(ci$ci_low_95_si_Pri), NA, ci$ci_low_95_si_Pri),
+    si_Pri_high = ifelse(is.null(ci$ci_high_95_si_Pri), NA, ci$ci_high_95_si_Pri)
   )
 }
 
 ci_df <- do.call(rbind, ci_results)
 
 ci_df <- ci_df %>%
-  mutate(si_Pre_low = ifelse(si_Pre_low < 0.001, 0.001, si_Pre_low)) %>% # set 0.001 as lower bound for selection
-  mutate(si_Pri_low = ifelse(si_Pri_low < 0.001, 0.001, si_Pri_low))
+  mutate(si_Pre_low = ifelse(si_Pre_low < 0.001 | is.na(si_Pre_low), 0.001, si_Pre_low),
+         si_Pri_low = ifelse(si_Pri_low < 0.001 | is.na(si_Pri_low), 0.001, si_Pri_low))
+
 ci_df$gene <- factor(ci_df$gene, levels = unique(ci_df$gene))
 
 # Plot step-specific selection results ----
