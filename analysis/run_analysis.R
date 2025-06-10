@@ -421,6 +421,7 @@ sample_index_table = samples[, .(Unique_Patient_Identifier = Unique_Patient_Iden
                                  group_name = unlist(name_by_state[samples[[ordering_col]]]))]
 
 source("analysis/new_sequential_lik.R")
+source("analysis/modified_ces_variant.R")
 
 for(comp_ind in 1:length(compound)){
   this_comp <- compound[comp_ind, ]
@@ -439,7 +440,7 @@ for(comp_ind in 1:length(compound)){
     stop(paste("Missing or invalid mutation rates for", this_gene))
   }
   
-  cesa <- ces_variant(cesa = cesa, 
+  cesa <- modified_ces_variant(cesa = cesa, 
                       variants = this_comp, 
                       model = sequential_lik_dev, 
                       lik_args = list(sample_index = sample_index_table, 
