@@ -1,4 +1,6 @@
 # ESCC_step_epistasis
+[![DOI](https://zenodo.org/badge/669230401.svg)](https://doi.org/10.5281/zenodo.15659607)
+
 ## Steps to run the analysis
 
 1.  Obtain data from links described in [input_data/README.md](https://github.com/Cannataro-Lab/ESCC_step_epistasis/blob/main/input_data/README.md)
