@@ -1,3 +1,6 @@
+# Function that is nearly identical to ces_variant() in cancereffectsizeR 
+# This modified version saves the likelihood function from MLE for each gene to the environment for later calculation of confidence intervals
+
 modified_ces_variant <- function (cesa = NULL, variants = select_variants(cesa, min_freq = 2), 
           samples = character(), model = "default", run_name = "auto", 
           lik_args = list(), optimizer_args = if (identical(model, 
