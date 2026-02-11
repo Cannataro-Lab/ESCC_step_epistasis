@@ -3,6 +3,12 @@ library(cancereffectsizeR)
 library(data.table)
 library(ces.refset.hg19)
 library(R.utils)
+library(TxDb.Hsapiens.UCSC.hg19.knownGene)
+library(BSgenome.Hsapiens.UCSC.hg19)
+library(GenomicRanges)
+library(IRanges)
+library(Biostrings)
+library(VariantAnnotation)
 
 
 # Set working directory
@@ -255,6 +261,187 @@ samples_used <- samples_used %>%
 
 write_tsv(samples_used, "output_data/Supplementary_table_1.tsv")
 
+# Write supplementary table 3 outlining all variants in the eight genes that our analyses focus on ----
+eight_genes <- c("NOTCH1", "NOTCH2", "TP53", "FAT1", "NFE2L2", "FBXW7", "PIK3CA", "RB1")
+
+supp_table_3 <- cesa@maf %>% 
+  filter(top_gene %in% eight_genes) %>%
+  mutate(liftover = ifelse(is.na(prelift_start), FALSE, TRUE)) %>% # Flag whether a liftover occurred
+  left_join(cesa@samples, by = "Unique_Patient_Identifier") %>%   # Add sample-level metadata (e.g., Pre_or_Pri) using patient/sample identifier
+  mutate(
+    Original_genome_build = case_when( # Infer the reference genome build in which the variant was originally reported
+      liftover == FALSE            ~ "hg19",
+      maf_source == "ds16"         ~ "hg38",
+      maf_source %in% c("ds2","ds3") ~ "hg18"
+    )
+  ) %>%
+  mutate(
+    Tissue_origin = case_when( # Translate internal labels into the manuscript-facing tissue origin categories
+      Pre_or_Pri == "Pre" ~ "CHNE",
+      Pre_or_Pri == "Pri" ~ "ESCC"
+    )
+  ) %>%
+  mutate(
+    Study = case_when( # Map maf_source codes to manuscript-facing study names
+      maf_source == "ucla"         ~ "Lin et al. (UCLA, cBioPortal)",
+      maf_source == "yuan"         ~ "Yuan et al.",
+      maf_source == "yokoyama"     ~ "Yokoyama et al.",
+      maf_source == "martincorena" ~ "Martincorena et al.",
+      maf_source == "liu"          ~ "Liu et al.",
+      maf_source == "ds1"          ~ "Li et al. (originally from ICGC)",
+      maf_source == "ds2"          ~ "Li et al. (originally published by Agrawal et al. (2012))",
+      maf_source == "ds3"          ~ "Li et al. (originally published by Gao et al.(2014))",
+      maf_source == "ds4"          ~ "Li et al. (originally published by Zhang et al.(2015))",
+      maf_source == "ds5"          ~ "Li et al. (originally published by Sawada et al.(2016))",
+      maf_source == "ds6"          ~ "Li et al. (originally published by Qin et al.(2016))",
+      maf_source == "ds7"          ~ "Li et al. (originally published by Chang et al.(2017))",
+      maf_source == "ds8"          ~ "Li et al. (originally published by Dai et al.(2017))",
+      maf_source == "ds9"          ~ "Li et al. (originally published by Guo et al.(2018))",
+      maf_source == "ds10"         ~ "Li et al. (originally published by Yan et al.(2019))",
+      maf_source == "ds11"         ~ "Li et al. (originally published by Urabe et al.(2019))",
+      maf_source == "ds12"         ~ "Li et al. (originally published by Cui et al.(2020))",
+      maf_source == "ds14"         ~ "Li et al. (originally published by Mangalaparthi et al.(2018))",
+      maf_source == "ds15"         ~ "Li et al. (originally published by Takemoto et al.(2021))",
+      maf_source == "ds16"         ~ "Li et al. (originally published by Erkizan et al.(2021))",
+      maf_source == "ds17"         ~ "Li et al. (originally published by Hirata et al.(2021))",
+      maf_source == "ds18"         ~ "Li et al. (originally from TCGA)"
+    )
+  )
+
+supp_table_3_pos <- supp_table_3 %>% # Construct genomic position strings (original build + hg19)
+  mutate(
+    Genomic_position_before_liftover = ifelse( # Report genomic HGVS-like coordinates in the original build
+      liftover == FALSE,
+      paste0( 
+        Original_genome_build, ".chr", Chromosome, ":g.",
+        Start_Position, Reference_Allele, ">", Tumor_Allele
+      ),
+      paste0( 
+        Original_genome_build, ".", prelift_chr, ":g.",
+        prelift_start, Reference_Allele, ">", Tumor_Allele
+      )
+    )
+  ) %>%
+  mutate(
+    Genomic_position_after_liftover = paste0( # Report genomic HGVS-like coordinates in the hg19 build
+      "hg19.chr", Chromosome, ":g.",
+      Start_Position, Reference_Allele, ">", Tumor_Allele
+    )
+  )
+
+
+# Load hg19 transcript models and reference genome
+txdb_hg19 <- TxDb.Hsapiens.UCSC.hg19.knownGene
+bs_hg19   <- BSgenome.Hsapiens.UCSC.hg19
+
+dt_hg19 <- copy(supp_table_3_pos)
+
+# A per-row unique identifier is needed because the same variant_id can appear
+# in multiple samples; predictCoding also expands each variant to many transcripts.
+dt_hg19[, row_id := .I]
+
+
+# Build GRanges query and run predictCoding
+# Represent each SNV as a 1bp genomic range in hg19 coordinates
+gr_hg19 <- GRanges(
+  seqnames = paste0("chr", dt_hg19$Chromosome),
+  ranges   = IRanges(dt_hg19$Start_Position, dt_hg19$Start_Position),
+  strand   = "*"
+)
+
+# Store row_id in the query names so predictCoding can return QUERYID we can join on
+names(gr_hg19) <- as.character(dt_hg19$row_id)
+
+# ALT allele sequence for each query variant (must match the query order)
+alt_hg19 <- DNAStringSet(dt_hg19$Tumor_Allele)
+
+# Predict coding consequences across all overlapping transcripts
+pc_hg19 <- predictCoding(
+  query     = gr_hg19,
+  subject   = txdb_hg19,
+  seqSource = bs_hg19,
+  varAllele = alt_hg19
+)
+
+pc_hg19_dt <- as.data.table(pc_hg19)
+
+# QUERYID corresponds to names(gr_hg19), i.e., row_id
+setnames(pc_hg19_dt, "QUERYID", "row_id")
+pc_hg19_dt[, row_id := as.integer(as.character(row_id))]
+
+# Choose one representative transcript per row
+# Many variants overlap multiple transcripts; we select one transcript per row using:
+#  1) prefer entries with a protein position available
+#  2) prefer larger CDSLOC.start (proxy for longer/more downstream CDS context)
+#  3) tie-break by TXID
+pc_best <- pc_hg19_dt %>%
+  tibble::as_tibble() %>%
+  distinct() %>%
+  mutate(has_protein = lengths(PROTEINLOC) > 0) %>%
+  group_by(row_id) %>%
+  arrange(desc(has_protein), desc(CDSLOC.start), TXID) %>%
+  dplyr::slice(1) %>%
+  ungroup() %>%
+  dplyr::select(-has_protein)
+
+# Join transcript annotation back to the supplement rows
+dt_hg19_annot <- merge(
+  dt_hg19,
+  as.data.table(pc_best),
+  by = "row_id",
+  all.x = TRUE
+)
+
+# Build cDNA and protein-change strings (HGVS-like formatting)
+# cDNA: TXID:c.<CDS position><REF>><ALT>
+df2 <- dt_hg19_annot %>%
+  mutate(
+    cDNA = ifelse(
+      is.na(CDSLOC.start),
+      NA_character_,
+      paste0(TXID, ":c.", CDSLOC.start, Reference_Allele, ">", Tumor_Allele)
+    )
+  )
+
+# Convert 1-letter AA to 3-letter AA for HGVS p.(Arg502Trp)
+aa1_to_aa3 <- function(x) {
+  map <- c(
+    A="Ala", R="Arg", N="Asn", D="Asp", C="Cys", Q="Gln", E="Glu", G="Gly",
+    H="His", I="Ile", L="Leu", K="Lys", M="Met", F="Phe", P="Pro", S="Ser",
+    T="Thr", W="Trp", Y="Tyr", V="Val", `*`="Ter", X="Xaa"
+  )
+  unname(map[as.character(x)])
+}
+
+# Protein: TXID:p.(<AA><protein position><AA>)
+# Note: PROTEINLOC is carried from predictCoding
+df3 <- df2 %>%
+  mutate(
+    Protein_change = ifelse(
+      is.na(PROTEINLOC) | is.na(REFAA) | is.na(VARAA),
+      NA_character_,
+      paste0(
+        TXID, ":p.(",
+        aa1_to_aa3(REFAA), PROTEINLOC, aa1_to_aa3(VARAA),
+        ")"
+      )
+    )
+  )
+
+final_table <- df3 %>% 
+  dplyr::select(
+    Original_genome_build,
+    Genomic_position_original_refgenome = Genomic_position_before_liftover,
+    Genomic_position_hg19               = Genomic_position_after_liftover,
+    Gene                                = top_gene,
+    cDNA,
+    Protein_change,
+    Unique_Patient_Identifier,
+    Study,
+    Tissue_origin
+  )
+
+write_tsv(final_table, "output_data/Supplementary_table_3.tsv")
 
 # Create compound variant table ----
 # Get consensus coverage across whichever samples you want to include.
