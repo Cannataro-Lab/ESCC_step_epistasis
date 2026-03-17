@@ -3,13 +3,13 @@ library(tidyverse)
 library(patchwork)
 library(cowplot)
 
-# Load in  cesa if necessary
+# Load in cesa if necessary
 # cesa <- load_cesa("analysis/eso_cesa_after_analysis.rds")
 
 gene_ep_results <- cesa$epistasis$epistasis_compound_variants_all_samples
 gene_ep_results <- gene_ep_results %>%
-  filter(variant_A != "FBXW7" & variant_B != "FBXW7") %>% # filter out due to non-significant results
-  filter(variant_A != "PIK3CA" & variant_B != "PIK3CA")
+  filter(variant_A != "FBXW7.1" & variant_B != "FBXW7.1") %>% # filter out due to non-significant results
+  filter(variant_A != "PIK3CA.1" & variant_B != "PIK3CA.1")
 
 plot_epistasis_results_with_ci = function(ep_results, current_gene, upper_limit1, upper_limit2) {
   data_for_compare <- ep_results %>%
@@ -98,20 +98,24 @@ plot_epistasis_results_with_ci = function(ep_results, current_gene, upper_limit1
     geom_errorbar(aes(x=as.numeric(other_gene)-0.1, 
                       ymin= ci_low_95_ces_GOI, ymax= ci_high_95_ces_GOI),width = 0,alpha=0.2) +
     geom_errorbar(aes(x=as.numeric(other_gene)+0.1, 
-                      ymin= ci_low_95_ces_GOI_after_OTHER, ymax= ci_high_95_ces_GOI_after_OTHER),width = 0,alpha=0.2) +
+                      ymin= ci_low_95_ces_GOI_after_OTHER, ymax= ci_high_95_ces_GOI_after_OTHER),width = 0,alpha=0.5) +
     scale_x_discrete(limits = levels(data_for_compare$other_gene)) +
     theme_classic() +
     # coord_cartesian(ylim=c(0,3500)) +
     geom_vline(xintercept = c(1.5, 2.5, 3.5, 4.5), lwd = 0.5, color = "lightgrey") +
     geom_hline(yintercept = 0, lwd = 0.5, color = "lightgrey", linetype = "dotted") +
-    labs(x = paste0("Gene (paired with ", current_gene, ")"), y = paste0("\nSelection for mutations\nof ", current_gene, " when\npaired gene is\nwildtype (\u25cf) \nand mutated (\u25b8)")) +
+    labs(x = paste0("Gene (paired with ", current_gene, ")"), 
+         y = "Scaled\nselection\ncoefficient",
+         title = paste0("Selection for ", current_gene, "\n(Paired gene is wildtype \u25cf or mutated \u25b8)")) +
     #scale_color_discrete(name="p-value", breaks=c("yes", "no"), labels=c("p < 0.05", "p ≥ 0.05")) +
-    theme(axis.text = element_text(size = text_size), 
+    theme(plot.title = element_text(size = text_size), 
+          axis.text = element_text(size = text_size), 
           axis.title = element_text(size = text_size), 
-          axis.title.x = element_text(vjust = -6),
-          axis.title.y = element_text(angle = 0, margin = margin(r = 30)),
+          axis.title.x = element_text(vjust = -5),
+          axis.title.y = element_text(margin = margin(r = 20)),
           plot.margin = margin(0, 1, 2, 1, "cm")) +
-    annotate("text", x = as.numeric(data_for_compare$other_gene), y = -(upper_limit1/2.8), label = data_for_compare$significance, size = geom_text_size) +
+    annotate("text", x = as.numeric(data_for_compare$other_gene), y = -(upper_limit1/2.8), 
+             label = data_for_compare$significance, size = geom_text_size) +
     coord_cartesian(ylim = c(0, upper_limit1), clip = "off")
   # guides(color = guide_legend(override.aes = aes(label = "|")))
   
@@ -124,22 +128,26 @@ plot_epistasis_results_with_ci = function(ep_results, current_gene, upper_limit1
     geom_errorbar(aes(x=as.numeric(other_gene)+0.1, 
                       ymin= ci_low_95_ces_OTHER_after_GOI, 
                       ymax= ci_high_95_ces_OTHER_after_GOI),
-                  width = 0,alpha=0.2) +
+                  width = 0,alpha=0.5) +
     scale_x_discrete(limits = levels(data_for_compare$other_gene)) +
     theme_classic() +
-    theme(axis.text = element_text(size = text_size), 
+    theme(plot.title = element_text(size = text_size),
+          axis.text = element_text(size = text_size), 
           axis.title = element_text(size = text_size), 
-          axis.title.x = element_text(vjust = -6),
-          axis.title.y = element_text(angle=0, margin = margin(r = 30)),
+          axis.title.x = element_text(vjust = -5),
+          axis.title.y = element_text(margin = margin(r = 20)),
           plot.margin = margin(1, 1, 1, 1, "cm")) +
     # coord_cartesian(ylim=c(0,3500)) +
     geom_vline(xintercept = c(1.5, 2.5, 3.5, 4.5), lwd = 0.5, color = "lightgrey") +
     geom_hline(yintercept = 0, lwd = 0.5, color = "lightgrey", linetype = "dotted") +
-    labs(x = paste0("Gene (paired with ",current_gene, ")\n"), y = paste0("\nSelection for mutations\nof paired gene when\n", current_gene, " is\nwildtype (\u25cf) \nand mutated (\u25b8)"))+
+    labs(x = paste0("Gene (paired with ",current_gene, ")\n"), 
+         y = "Scaled\nselection\ncoefficient",
+         title = paste0("Selection for paired gene\n(", current_gene, " is wildtype \u25cf or mutated \u25b8)"))+
     scale_color_discrete(name="p-value", breaks=c("yes", "no"), labels=c("p < 0.05", "p ≥ 0.05")) +
-    annotate("text", x = as.numeric(data_for_compare$other_gene), y = -(upper_limit2/2.8), label = data_for_compare$significance, size = geom_text_size) +
+    annotate("text", x = as.numeric(data_for_compare$other_gene), y = -(upper_limit2/2.3), 
+             label = data_for_compare$significance, size = geom_text_size) +
     coord_cartesian(ylim = c(0, upper_limit2), clip = "off")
-
+  
   # guides(color = guide_legend(override.aes = aes(label = "|")))
   
   # use if you want to return plots combined
@@ -161,7 +169,8 @@ plot_epistasis_results_with_ci = function(ep_results, current_gene, upper_limit1
 notch1_ep_plots <- plot_epistasis_results_with_ci(gene_ep_results, "NOTCH1", 2000, 4500)
 tp53_ep_plots <- plot_epistasis_results_with_ci(gene_ep_results, "TP53", 9000, 3500)
 
-ep_plots_combined <- plot_grid(notch1_ep_plots[[1]], notch1_ep_plots[[2]], tp53_ep_plots[[1]], tp53_ep_plots[[2]], labels = c("A", "B", "C", "D"), ncol = 1, label_size = 20, scale = 0.95)
+ep_plots_combined <- plot_grid(notch1_ep_plots[[1]], notch1_ep_plots[[2]], tp53_ep_plots[[1]], tp53_ep_plots[[2]], 
+                               labels = c("A", "B", "C", "D"), ncol = 1, label_size = 20, scale = 1)
 ggsave("output_data/fig_3_combined_ep_plots_errorbars.png", ep_plots_combined, width=18, height=14)
 ggsave("output_data/fig_3_combined_ep_plots_errorbars.pdf", ep_plots_combined, width=18, height=14, device=cairo_pdf)
 ggsave("output_data/fig_3_combined_ep_plots_errorbars.jpg", ep_plots_combined, width=18, height=14)
