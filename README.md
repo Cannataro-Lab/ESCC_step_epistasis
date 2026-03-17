@@ -21,3 +21,5 @@
     -   Figure 1: [output_data/Figure_1_Mutrate.R](https://github.com/Cannataro-Lab/ESCC_step_epistasis/blob/main/output_data/Figure_1_Mutrate.R)
     -   Figure 2: [output_data/Figure_2_selection_coefficient_plot.R](https://github.com/Cannataro-Lab/ESCC_step_epistasis/blob/main/output_data/Figure_2_selection_coefficient_plot.R)
     -   Figure 3: [output_data/Figure_3_epistasis_plots_with_errorbars](https://github.com/Cannataro-Lab/ESCC_step_epistasis/blob/main/output_data/Figure_3_epistasis_plots_with_errorbars.R)
+
+5.  For additional CNA and scRNA analyses see [analysis/copy_number](https://github.com/Cannataro-Lab/ESCC_step_epistasis/blob/main/analysis/copy_number) and [analysis/single_cell](https://github.com/Cannataro-Lab/ESCC_step_epistasis/blob/main/analysis/single_cell) for analysis-specific README files and corresponding scripts for analysis
